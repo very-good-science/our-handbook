@@ -1,5 +1,5 @@
 # Research Handbook
-This is a Jupyter Book template for a research group handbook.
+This is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook.
 
 The purpose of this repo is to provide a starting point for group leaders who want to create an environment in which:
 * Everyone knows how to access the available help and support
