@@ -5,7 +5,7 @@ The purpose of this repo is to provide a starting point for group leaders who wa
 * Everyone knows how to access the available help and support
 * Expectations (for group leaders and group members) are explicit
 * Group members have agency to impact the research culture of the group
-* Potential future group members can easilt get a flavour of the research culture
+* Potential future group members can easily get a flavour of the research culture
 * It's easy to welcome people to the team 
 * Everyone knows who to go to to ask all kinds of questions, and where to find important documents
 
