@@ -5,7 +5,7 @@ Welcome to the `Our Handbook` repository!
 * build a healthy, inclusive, enjoyable research culture in their group 
 * produce the most ethical and rigorous research possible
 
-We are working Openly, meaning that we welcome [contributions](#contributing) in order to create a richer resource for others.
+We welcome [contributions](#contributing) in order to create a richer resource for others.
 
 ## Why are we making this template handbook?
 Research culture can be a hellscape:
@@ -76,3 +76,5 @@ Here we have examples of in-use deployed handbooks:
 * [here]() - by [group]()
 -->
 <!--TODO: Add some testimonials-->
+----
+The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project.
