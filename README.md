@@ -81,6 +81,7 @@ We would love :sparkling_heart: you to contact us if you'd like to any of the fo
 Opening a GitHub [issue](https://github.com/NatalieThurlby/research-handbook/issues/new) is our favourite way, but you can also [email us](mailto:natalie.thurlby@bristol.ac.uk). 
 
 <!--TODO: Make issue templates-->
+<!-- add contribution guidelines, link to roadmap and other repo-->
 <!--
 ## Examples
 Here we have examples of in-use deployed handbooks:
