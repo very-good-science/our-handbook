@@ -1,13 +1,20 @@
-# Research Handbook
-This is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook.
+# Our Handbook
+## Vision statement
+`Very Good Science` is working with researchers to build `Our Handbook`: a research group staff handbook template, to support research group leaders and members in working together to:
+* build a healthy, inclusive, enjoyable research culture in their group 
+* produce the most ethical and rigorous research possible
 
-The purpose of this repo is to provide a starting point for group leaders who want to create an environment in which:
-* Everyone knows how to access the available help and support
-* Expectations (for group leaders and group members) are explicit
-* Group members have agency to impact the research culture of the group
-* Potential future group members can easily get a flavour of the research culture
-* It's easy to welcome people to the team 
-* Everyone knows who to go to to ask all kinds of questions, and where to find important documents
+## How it works
+`Our Handbook` is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook. Group leaders and members edit the book together to create an environment in which works for them. 
+
+The book can be used to ensure the following:
+* Everyone knows how to access the available help and support, by providing a one stop shop for up to date signposting of help and support available to group members.
+* Responsibilities and expectations of group leaders and group members are explicit. These expectations can be as broad, or exact as your group finds useful.
+* Standards for research outputs are clear (e.g. "In this group, we make data [FAIR](https://www.nature.com/articles/sdata201618) wherever possible", or "We ensure privacy for research participants"), and the barriers to meeting these standards is as low as possible (i.e. by including or linking to how-to-guides)
+* Group members have agency to impact the research culture of the group (as they can continue to edit the handbook).
+* Potential future group members can easily get a flavour of the research culture by reading the handbook.
+* It's easy to welcome people to the team, everything is in one place (in the handbook).
+* Everyone knows who to go to to ask all kinds of questions, and where to find important documents.
 
 Your handbook can be used for as many or as few of these purposes as you like, but it should be a living document, which the group authors together.
 
