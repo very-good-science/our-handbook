@@ -12,6 +12,8 @@ The purpose of this repo is to provide a starting point for group leaders who wa
 Your handbook can be used for as many or as few of these purposes as you like, but it should be a living document, which the group authors together.
 
 ## How to use
+Thank you for taking this opportunity to create a considered and healthy research culture for your group :sparkles:
+
 ### 1\. Make your own copy this repo
 * Fork the repo (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
 * Make all members of your team collaborators of the forked repo
@@ -42,7 +44,7 @@ Here we have examples of in-use deployed handbooks:
 * [here]() - by [group]()
 
 ## Contact us
-Please feel welcome to contact us if you'd like to any of the following:
+We would love :sparkling_heart: you to contact us if you'd like to any of the following:
 * Make suggestions for improvements
 * Talk about this project
 * Ask for help
