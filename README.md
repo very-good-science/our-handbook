@@ -1,7 +1,7 @@
 # Our Handbook
-Welcome to the `Our Handbook` repository! 
+Welcome to the `Our Handbook` template repository! 
 
-`Very Good Science` is working with researchers to build `Our Handbook`: a research group staff handbook template, to support research group leaders and members in working together to:
+`Very Good Science` is working with researchers to build `Our Handbook`: a research group staff handbook template (here!) and [materials to help you use it](handbook-handbook). We hope research group leaders and members will work together using these resources to:
 * build a healthy, inclusive, enjoyable research culture in their group 
 * produce the most ethical and rigorous research possible
 
@@ -18,7 +18,7 @@ We hope that, by reducing the barriers for groups to consider their research cul
 
 In addition to the benefits to the research groups that are working this way, we also hope this will impact on broader research culture. We want to normalise the idea that spending some time to building a healthy research culture is worthwhile. We would love universities to consider commitment of PIs to creating a healthy research culture in hiring and promotion decisions.
 
-## How is a group handbook useful?
+## Why create a group handbook?
 A group handbook can be used to ensure the following practical aims:
 * Everyone knows how to access the available help and support (be it computational/statistical support, counselling, administrative/communications support...), by providing a one-stop-shop for up to date signposting of help and support available to group members.
 * Responsibilities and expectations of group leaders and group members are explicit (e.g. "PhD students send a weekly email detailing their weekly progress using [this email template](resources/email-template.md)", or "Group leaders will be available for one-to-ones with each group member once per fortnight", or "It is Jennifer's (Group leader) responsibility to organise the group meetings, which happen twice monthly"). These expectations can be as broad, or exact as your group finds useful.
@@ -28,8 +28,20 @@ A group handbook can be used to ensure the following practical aims:
 
 Your handbook can be used for as many or as few of these purposes as you like, but it should be a document, which the group continues to author together.
 
+<!--
+## Why create a group handbook with `Our Handbook`?
+`Our Handbook` has the following useful features:
+* Template handbook sections for you to mix, match, remix and edit to create the most useful handbook for your group in the shortest time.
+* Template processes for running away days, team meetings, and more.
+* Reduces the difficulty in maintaining your handbook, by providing testing and continuous integration, which:
+  * Sets up your handbook as a GitHub Pages website to make it available to your team and others 
+  * Automatically checks links in your handbook are still working 
+-->
+
 ## How to use
 Thank you for taking this opportunity to create a considered and healthy research culture for your group :sparkles:
+
+A basic run down of how to use this template repository is below, but detailed instructions can be found [here](handbook-handbook)
 
 `Our Handbook` is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook. Group leaders and members edit the book together to create a living document which works for them, by following the steps below. `Our Handbook` has a variety of different [sections](#handbook-sections), your group might not use all of them, and each section has a variety of solutions that you can choose from.
 
@@ -67,6 +79,7 @@ We would love :sparkling_heart: you to contact us if you'd like to any of the fo
 * Let us know about your deployed handbook, or how it has worked for you.
 
 Opening a GitHub [issue](https://github.com/NatalieThurlby/research-handbook/issues/new) is our favourite way, but you can also [email us](mailto:natalie.thurlby@bristol.ac.uk). 
+
 <!--TODO: Make issue templates-->
 <!--
 ## Examples
@@ -78,3 +91,5 @@ Here we have examples of in-use deployed handbooks:
 <!--TODO: Add some testimonials-->
 ----
 The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project.
+
+[handbook-handbook]: https://github.com/NatalieThurlby/handbook-handbook
