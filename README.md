@@ -1,7 +1,7 @@
 # Our Handbook
 Welcome to the `Our Handbook` template repository! 
 
-`Very Good Science` is working with researchers to build `Our Handbook`: a research group staff handbook template (here!) and [materials to help you use it](handbook-handbook). We hope research group leaders and members will work together using these resources to:
+`Very Good Science` is working with researchers to build `Our Handbook`: a research group staff handbook template (you are here!) and [materials to help you use it](handbook-handbook). We hope research group leaders and members will work together using these resources to:
 * build a healthy, inclusive, enjoyable research culture in their group 
 * produce the most ethical and rigorous research possible
 
