@@ -7,8 +7,6 @@ on:
   # Triggers the workflow on push or pull request events but only for the main branch for the book content directory.
   push:
     branches: [ main ]
-    paths:
-      template/content/**
       
   pull_request:
     branches: [ main ]
