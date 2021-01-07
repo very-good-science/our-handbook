@@ -1,5 +1,5 @@
 ---
-name: 'Report a bug'
+name: Report a bug
 about: Tell us about something that isn't working (e.g. broken link in book)
 title: "[BUG] :bug:"
 labels: bug
