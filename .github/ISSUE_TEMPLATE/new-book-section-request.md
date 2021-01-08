@@ -2,7 +2,7 @@
 name: New book section request
 about: Suggest an idea for a NEW section for the handbook
 title: "[NEW BOOK SECTION] :sparkles: "
-labels: new template section
+labels: new template section, new book section
 assignees: ''
 
 ---
