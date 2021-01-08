@@ -2,7 +2,7 @@
 name: "Improve book section \U0001F4C8"
 about: Suggest a way to improve an existing section of the book
 title: "[SECTION IMPROVEMENT] \U0001F4C8"
-labels: template section enhancement
+labels: template section enhancement, section enhancement
 assignees: ''
 
 ---
