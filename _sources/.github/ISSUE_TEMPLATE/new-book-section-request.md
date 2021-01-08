@@ -1,8 +1,8 @@
 ---
 name: New book section request
-about: Suggest an idea for a new section for the handbook
+about: Suggest an idea for a NEW section for the handbook
 title: "[NEW BOOK SECTION] :sparkles: "
-labels: new book section
+labels: new template section
 assignees: ''
 
 ---
@@ -18,6 +18,13 @@ Inside or outside of the book?
 
 **Why would this section be useful?**
 1-2 sentences
+
+**What will be in this section**
+A to-do list with 10 or less bullet points (if longer, split into several sections), such as:
+- [ ] Thing 1
+  - [ ] Subthing A
+  - [ ] Subthing B
+- [ ] Thing 2
 
 **Additional context**
 Add any other context
