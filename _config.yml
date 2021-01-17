@@ -1,8 +1,15 @@
 # Book settings
-title: My sample book
-author: The Jupyter Book Community
-logo: logo.png
+title: ""
+author: The Our Handbook Community
+logo: images/logo.png
 
 latex:
   latex_documents:
     targetname: book.tex
+
+html:
+    extra_navbar: |
+        <div>
+            Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
+            Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
+        </div>
