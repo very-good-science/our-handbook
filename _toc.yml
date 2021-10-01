@@ -1,5 +1,0 @@
-- file: content/welcome
-- file: content/content
-  sections:
-    - file: content/markdown
-    - file: content/notebooks

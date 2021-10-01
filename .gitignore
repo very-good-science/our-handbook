@@ -1,2 +1,4 @@
 .idea/
 venv/
+venv2/
+_build/

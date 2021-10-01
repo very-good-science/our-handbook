@@ -1,4 +1,7 @@
 # Our Handbook
+
+<!--TODO: Add this stuff to the handbook page and link to there instead-->
+
 :construction: Thank you for your patience while we populate this repository :construction:
 
 Welcome to the `Our Handbook` template repository! 
