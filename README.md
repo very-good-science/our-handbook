@@ -10,15 +10,19 @@ Welcome to the `Our Handbook` template repository!
 We welcome [contributions](#contributing) in order to create a richer resource for others.
 
 ## Why are we making this template handbook?
-Research culture can be a hellscape:
-* researchers often feel stressed, unsupported, and isolated
-* a lack of guidance in how to do research can contribute to untrustworthy research outputs
+We think research culture could be better:
+* researchers often feel stressed, unsupported, and/or isolated
+* a lack of guidance in how to do research can contribute to unreliable research outputs
 
-A lot of this can come down to the research culture within a group. By research culture, we mean the often unspoken processes which impact both how it feels to work there and the quality of research outputs. There is little support for group leaders who wish to improve the research culture in their groups. We want to change that.
+A lot of this can come down to the research culture within a group: the (unspoken) processes which impact both how it feels to work there and the quality of research outputs. There is little support for group leaders who wish to improve the research culture in their groups. We want to change that and make it easy.
 
-We hope that, by reducing the barriers for groups to consider their research culture, we will support group leaders in taking responsibility for it: to help them set standards for the quality of research that comes out of their group, and to create ways of working that protect the health and wellbeing of their group members and themselves. Your handbook might help you and your group in any of these [practical ways](#how-is-a-group-handbook-useful).
+We hope that, by reducing the barriers for groups to consider their research culture, we will:
+- support group leaders in taking responsibility for it: to help them set standards for the quality of research that comes out of their group, and to create ways of working that protect the health and wellbeing of their group members and themselves. Your handbook might help you and your group in any of these [practical ways](#how-is-a-group-handbook-useful).
+- support group members to contribute towards and do their part to improve the research culture in their group.
 
-In addition to the benefits to the research groups that are working this way, we also hope this will impact on broader research culture. We want to normalise the idea that spending some time to building a healthy research culture is worthwhile. We would love universities to consider commitment of PIs to creating a healthy research culture in hiring and promotion decisions.
+In addition to the benefits to the research groups that are working this way, we also hope this will impact on broader research culture. 
+We want to normalise the idea that spending some time to building a healthy research culture is worthwhile. 
+We would love universities to consider commitment of PIs to creating a healthy research culture in hiring and promotion decisions.
 
 ## Why create a group handbook?
 A group handbook can be used to ensure the following practical aims:
@@ -45,7 +49,9 @@ Thank you for taking this opportunity to create a considered and healthy researc
 
 A basic run down of how to use this template repository is below, but detailed instructions can be found [here](handbook-handbook)
 
-`Our Handbook` is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook. Group leaders and members edit the book together to create a living document which works for them, by following the steps below. `Our Handbook` has a variety of different [sections](#handbook-sections), your group might not use all of them, and each section has a variety of solutions that you can choose from.
+`Our Handbook` is a [Jupyter Book](http://jupyterbook.org/) template for a research group handbook. 
+Group leaders and members edit the book together to create a living document which works for them, by following the steps below. 
+`Our Handbook` has a variety of different [sections](#handbook-sections), your group might not use all of them, and each section has a variety of solutions that you can choose from.
 
 ### 1\. Make your own copy this repo
 * Fork the repo (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
@@ -57,6 +63,7 @@ A basic run down of how to use this template repository is below, but detailed i
 <!-- TODO: Make a guide to handbook hack days: preparations for organisers, instructions for members, etc, i.e. install VS code, add jupyterbook plugin, etc - and link here  see our [guide to handbook hack days](hack-day.md)-->
 
 ### 3\. Make your handbook available online
+<!-- TODO: add link below-->
 * Follow the instructions [here]() to make your handbook available online.
 * Make sure that you link to the handbook on your group website, and in any job (including PhD studentship) openings.
 * Please tell us if you use this handbook! 
@@ -95,4 +102,4 @@ Here we have examples of in-use deployed handbooks:
 ----
 The [Mozilla Open Leadership Training Series](https://mozilla.github.io/open-leadership-training-series/) was used to help plan this project. It is inspired by efforts to increase the accessibility of science such as [The Turing Way](https://github.com/alan-turing-institute/the-turing-way) and [The Carpentries](https://carpentries.org/).
 
-[handbook-handbook]: https://github.com/NatalieThurlby/handbook-handbook
+[handbook-handbook]: https://github.com/very-good-science/our-handbook-user-guide
