@@ -51,7 +51,7 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Welcome to the &lt;GROUP NAME&gt; Group Handbook" href="../template/welcome.html" />
+    <link rel="next" title="Code of conduct" href="code-of-conduct.html" />
     <link rel="prev" title="How to use the Our Handbook template" href="how-to-use-overview.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
@@ -120,6 +120,11 @@
     </span>
    </code>
    project
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="code-of-conduct.html">
+   Code of conduct
   </a>
  </li>
 </ul>
@@ -314,31 +319,92 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#preparing-to-contribute">
-   Preparing to contribute
+  <a class="reference internal nav-link" href="#browser-vs-local-machine">
+   Browser vs. Local machine
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#contributing-via-the-browser">
-     Contributing via the browser
+    <a class="reference internal nav-link" href="#local">
+     Local
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#contributing-using-your-local-machine">
-     Contributing using your local machine
+    <a class="reference internal nav-link" href="#browser">
+     Browser
     </a>
    </li>
   </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#how-to-write-content">
-   How to write content
+  <a class="reference internal nav-link" href="#step-by-step">
+   Step-by-step
   </a>
- </li>
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#how-to-locally-build-the-book">
-   How to locally build the book
-  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#getting-ready">
+     Getting Ready
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#let-us-know-what-you-re-working-on">
+     Let us know what you’re working on
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#copy-the-project">
+     Copy the project
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#fork-the-repository">
+       “Fork” the repository
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#get-your-local-copy-up-to-date-and-install-jupyter-book-local-only">
+       Get your local copy up to date and install jupyter book (local only)
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#create-a-draft-pull-request">
+     Create a draft pull request
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#make-your-changes">
+     Make your changes
+    </a>
+    <ul class="nav section-nav flex-column">
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#in-the-browser-browser-only">
+       In the browser (browser only)
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#using-your-local-machine-local-only">
+       Using your local machine (local only)
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#build-the-site-locally-local-only">
+       Build the site locally (local only)
+      </a>
+     </li>
+     <li class="toc-h4 nav-item toc-entry">
+      <a class="reference internal nav-link" href="#how-to-write-content">
+       How to write content
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#tell-us-you-re-finished">
+     Tell us you’re finished
+    </a>
+   </li>
+  </ul>
  </li>
 </ul>
 
@@ -357,30 +423,157 @@
 <p>The <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> project is a template for a Research Group handbook and materials to help you make use of those.
 The project is currently very early in development, and will take shape around your suggestions, so we really welcome you to share your ideas.</p>
 <p>Please follow our <a class="reference internal" href="code-of-conduct.html"><span class="doc std std-doc">Code of Conduct</span></a> in all spaces where Our Handbook members are interacting.</p>
-<!--
-## E-life Innovation Sprint
-If you're joining us at the E-life Innovation Sprint 2021, then hello!
-You can look at our aims for the sprint [here]().
--->
-<div class="section" id="preparing-to-contribute">
-<h2>Preparing to contribute<a class="headerlink" href="#preparing-to-contribute" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-e-life-innovation-sprint admonition">
+<p class="admonition-title">E-life Innovation Sprint</p>
+<p>If you’re joining us for the E-life Innovation Sprint 2021, hello and welcome!
+I’ve put together some specific information for you about our aims, availability and where to can chat to us <a class="reference internal" href="elife-sprint.html"><span class="doc std std-doc">over here</span></a>.</p>
+</div>
+<div class="section" id="browser-vs-local-machine">
+<h2>Browser vs. Local machine<a class="headerlink" href="#browser-vs-local-machine" title="Permalink to this headline">¶</a></h2>
+<p>There are two ways to suggest changes to the project via GitHub: using your internet browser, or using your local machine.
+In these contributing guidelines, you will sometimes see instructions labelled browser or local referencing these two different ways of doing things.
+If you need help with either of these methods, please <a class="reference external" href="https://github.com/very-good-science/our-handbook/discussions/new">open a new Discussion</a> and we’ll be happy to help!</p>
+<div class="section" id="local">
+<h3>Local<a class="headerlink" href="#local" title="Permalink to this headline">¶</a></h3>
+<p>If you’re comfortable using the terminal and Git (or you’re interested in learning), then we recommend using your local machine.
+This means that you will have a copy of the project files on your computer, which you can edit in your favourite text editor.
+This has the benefit of allowing you to preview what your suggested handbook pages will look like, but requires a little more set up.</p>
+<p>The local instructions on this page assume some familiarity with Git and the terminal.
+I recommend <a class="reference external" href="https://the-turing-way.netlify.app/reproducible-research/vcs.html">The Turing Way’s chapter on Version Control</a> to get started, but we’re happy to walk you through setting up if you’d like some extra support.</p>
+</div>
+<div class="section" id="browser">
+<h3>Browser<a class="headerlink" href="#browser" title="Permalink to this headline">¶</a></h3>
+<p>If today’s not the day that you want to dig into Git and the terminal, then you can still contribute via the GitHub website in your usual internet browser.
+The upside here is that you don’t need to install anything on your computer, or type anything in the terminal, the downside is that you won’t be able to preview how things will look on the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> website.</p>
+</div>
+</div>
+<div class="section" id="step-by-step">
+<h2>Step-by-step<a class="headerlink" href="#step-by-step" title="Permalink to this headline">¶</a></h2>
+<p>Here’s a step-by-step guide for contributing to this project through GitHub.
+If you have any problems with any part of this process or you’d like further explanation, please <a class="reference external" href="https://github.com/very-good-science/our-handbook/discussions/new">open a new Discussion</a> and we’ll be happy to help!</p>
 <ol class="simple">
-<li><p>Sign up for a GitHub account</p></li>
-<li><p>Find something to work on</p></li>
+<li><p>Getting ready</p></li>
+<li><p>Let us know what you’re working on</p></li>
+<li><p>Copy the project</p></li>
+<li><p>Create a draft “Pull Request”</p></li>
+<li><p>Make your changes</p></li>
+<li><p>Tell us you’re finished</p></li>
 </ol>
-<div class="section" id="contributing-via-the-browser">
-<h3>Contributing via the browser<a class="headerlink" href="#contributing-via-the-browser" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="getting-ready">
+<h3>Getting Ready<a class="headerlink" href="#getting-ready" title="Permalink to this headline">¶</a></h3>
+<p>Firstly, if you don’t have one yet, then <a class="reference external" href="https://github.com/signup">sign up for a GitHub account</a>.</p>
+<p>Secondly, decide what you’d like to work on!</p>
+<ul class="simple">
+<li><p>Check out our <a class="reference external" href="https://github.com/very-good-science/our-handbook/issues">Open Issues</a> for inspiration.</p></li>
+<li><p>We have a few <a class="reference external" href="https://github.com/very-good-science/our-handbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">Good First Issues</a> labelled, which might be a good place to start.</p></li>
+<li><p>If you’re not sure what you’d like to do, then we’re happy to help.  We can chat about that on <a class="reference external" href="https://github.com/very-good-science/our-handbook/discussions/24">this discussion</a>.</p></li>
+</ul>
 </div>
-<div class="section" id="contributing-using-your-local-machine">
-<h3>Contributing using your local machine<a class="headerlink" href="#contributing-using-your-local-machine" title="Permalink to this headline">¶</a></h3>
+<div class="section" id="let-us-know-what-you-re-working-on">
+<h3>Let us know what you’re working on<a class="headerlink" href="#let-us-know-what-you-re-working-on" title="Permalink to this headline">¶</a></h3>
+<p>By telling us what you’re working on, we can avoid duplicating effort, and make sure we can direct everyone’s energy into the best output for the project.
+If you find an existing issue that you want to work on, comment on it and tell us that you’re working on it.</p>
 </div>
+<div class="section" id="copy-the-project">
+<h3>Copy the project<a class="headerlink" href="#copy-the-project" title="Permalink to this headline">¶</a></h3>
+<p>You will work on your own copy of the project.
+This means if you accidentally make a mistake, or you have work in progress, you don’t need to worry about overwriting anything, because it won’t affect the central version until you’re ready to show us.</p>
+<div class="section" id="fork-the-repository">
+<h4>“Fork” the repository<a class="headerlink" href="#fork-the-repository" title="Permalink to this headline">¶</a></h4>
+<p>Forking the repository is a way of making your own copy of it in your GitHub account.
+(Note: “repository” is the name for all the files making up the project).</p>
+<p>If this is the first contribution you’ve made to the repository, then follow <a class="reference external" href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository">these instructions</a> to fork the repo for the first time.
+<a class="reference external" href="https://github.com/very-good-science/our-handbook">This</a> is the repository that you want to fork.</p>
+<p>If you’ve made a fork of the repository before, for an earlier contribution, then now you need to “sync” it, since your existing forked copy is probably a little out of date.
+To sync your fork, follow <a class="reference external" href="https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser">these instructions</a>.</p>
+</div>
+<div class="section" id="get-your-local-copy-up-to-date-and-install-jupyter-book-local-only">
+<h4>Get your local copy up to date and install jupyter book (local only)<a class="headerlink" href="#get-your-local-copy-up-to-date-and-install-jupyter-book-local-only" title="Permalink to this headline">¶</a></h4>
+<p>To get a copy of all the project files on your local machine you must clone <strong>your fork</strong> of the repository if you haven’t already.
+Cloning just means copying the project files to your local machine.
+This repository that you need to clone will look like <code class="docutils literal notranslate"><span class="pre">github.com/YOUR-USER-NAME/our-handbook</span></code>.
+<a class="reference external" href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Here</a> are some general instructions for cloning a repository, and <a class="reference external" href="(https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)">here</a> shows an example of cloning a fork.</p>
+<p>After cloning, open a terminal in the root of the our-handbook directory and install the necessary requirements using <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code>. You may first want to create a virtual environment.</p>
+<p>If you already cloned the repository earlier, then you will instead need to checkout the main branch, and pull the latest changes from your newly synced fork.</p>
+</div>
+</div>
+<div class="section" id="create-a-draft-pull-request">
+<h3>Create a draft pull request<a class="headerlink" href="#create-a-draft-pull-request" title="Permalink to this headline">¶</a></h3>
+<p>A pull request tells us where to look for changes you are making.</p>
+<p>If you are working locally, then you may want to create a new branch before creating the Pull Request.</p>
+<p>Creating a <strong>draft</strong> pull request is really helpful to do up front because it shows us what is actively being worked on, and it also helps you get feedback.
+You can follow <a class="reference external" href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">these instructions</a> to create the Pull Request.
+You will want to create a Pull Request from your forked repository to the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch of the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> repository.
+Please fill out our Pull Request template as best you can.</p>
+</div>
+<div class="section" id="make-your-changes">
+<h3>Make your changes<a class="headerlink" href="#make-your-changes" title="Permalink to this headline">¶</a></h3>
+<p>Now you’re ready to make your changes.
+As you “commit” new changes to your forked repository, the draft Pull Request that you created will automatically update.</p>
+<div class="section" id="in-the-browser-browser-only">
+<h4>In the browser (browser only)<a class="headerlink" href="#in-the-browser-browser-only" title="Permalink to this headline">¶</a></h4>
+<ol class="simple">
+<li><p>Go to <strong>your fork</strong> on GitHub <code class="docutils literal notranslate"><span class="pre">github.com/YOUR-USER-NAME/our-handbook</span></code>.</p></li>
+<li><p>Find the file that you want to edit</p>
+<ul class="simple">
+<li><p>Most files you will want to edit will be in <code class="docutils literal notranslate"><span class="pre">book/guide</span></code> or <code class="docutils literal notranslate"><span class="pre">book/template</span></code>.</p></li>
+<li><p>If it doesn’t exist, you can <a class="reference external" href="https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files">create a new file</a> make sure it has the file suffix <code class="docutils literal notranslate"><span class="pre">.md</span></code>.</p></li>
+</ul>
+</li>
+<li><p>Edit the file:</p></li>
+</ol>
+<ul class="simple">
+<li><p>Click the pen symbol to open the file editor</p></li>
+<li><p>Make changes in MyST Markdown (see <a class="reference internal" href="#writing-content"><span class="std std-ref">How to write content</span></a>).</p></li>
+<li><p>You can preview changes, which will show you the general size of headings, but they won’t be able to show some of the fancier MyST roles and directives.</p></li>
+</ul>
+<ol class="simple">
+<li><p>Save (i.e. “commit”) regularly.</p></li>
+</ol>
+<ul class="simple">
+<li><p>When you’ve made a change (even if small), scroll down to where it says “Commit changes”, and type a short meaningful message describing the change you made. I recommend committing changes regularly (every 20 minutes or so).</p></li>
+<li><p>Make sure “Commit directly to the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch” is checked.</p></li>
+<li><p>Click “Propose file change”.</p></li>
+</ul>
+<p>Repeat until you’re happy!</p>
+</div>
+<div class="section" id="using-your-local-machine-local-only">
+<h4>Using your local machine (local only)<a class="headerlink" href="#using-your-local-machine-local-only" title="Permalink to this headline">¶</a></h4>
+<ol class="simple">
+<li><p>Open the file that you want to edit in your favourite text editor.</p>
+<ul class="simple">
+<li><p>Website content is in either <code class="docutils literal notranslate"><span class="pre">book/guide</span></code> or <code class="docutils literal notranslate"><span class="pre">book/template</span></code>.</p></li>
+<li><p>Create a new <code class="docutils literal notranslate"><span class="pre">.md</span></code> file if needed.</p></li>
+</ul>
+</li>
+<li><p>Edit the file</p>
+<ul class="simple">
+<li><p>Make changes in MyST Markdown (see <a class="reference internal" href="#writing-content"><span class="std std-ref">How to write content</span></a>).</p></li>
+<li><p><a class="reference internal" href="#build-site"><span class="std std-ref">Build the site</span></a> to check that it looks as you expected.</p></li>
+</ul>
+</li>
+<li><p>Save, commit, and push to your fork regularly.</p></li>
+</ol>
+</div>
+<div class="section" id="build-the-site-locally-local-only">
+<span id="build-site"></span><h4>Build the site locally (local only)<a class="headerlink" href="#build-the-site-locally-local-only" title="Permalink to this headline">¶</a></h4>
+<p>To check how the site looks, go to the root of the repository and run:
+<code class="docutils literal notranslate"><span class="pre">jb</span> <span class="pre">build</span> <span class="pre">book/</span></code></p>
+<p>After completion, you can run <code class="docutils literal notranslate"><span class="pre">open</span> <span class="pre">book/_build/html/index.html</span></code> to view the website.</p>
+<p>Please do this before you mark your PR as “Ready for Review”.</p>
 </div>
 <div class="section" id="how-to-write-content">
-<h2>How to write content<a class="headerlink" href="#how-to-write-content" title="Permalink to this headline">¶</a></h2>
+<span id="writing-content"></span><h4>How to write content<a class="headerlink" href="#how-to-write-content" title="Permalink to this headline">¶</a></h4>
 <p><code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> is a <a class="reference external" href="https://jupyterbook.org/">jupyter book</a> which means that all the content for the book is written in MyST Markdown: you can find a useful cheat sheet <a class="reference external" href="https://jupyterbook.org/reference/cheatsheet.html">here</a>.</p>
 </div>
-<div class="section" id="how-to-locally-build-the-book">
-<h2>How to locally build the book<a class="headerlink" href="#how-to-locally-build-the-book" title="Permalink to this headline">¶</a></h2>
+</div>
+<div class="section" id="tell-us-you-re-finished">
+<h3>Tell us you’re finished<a class="headerlink" href="#tell-us-you-re-finished" title="Permalink to this headline">¶</a></h3>
+<p>It’s the final step!
+All that’s left to do is to follow <a class="reference external" href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request#marking-a-pull-request-as-ready-for-review">these instructions</a> to mark the Pull Request that you made earlier as Ready for Review.</p>
+<p>What happens next is that a member of the Our Handbook team will check your changes to make sure that we can bring them into the main repository.
+At this time we’re likely to start talking to you in the Pull Request, and hopefully your changes will soon be ready to merge in!</p>
+</div>
 </div>
 </div>
 
@@ -423,10 +616,10 @@ You can look at our aims for the sprint [here]().
         </a>
     </div>
      <div id="next">
-        <a class="right-next" href="../template/welcome.html" title="next page">
+        <a class="right-next" href="code-of-conduct.html" title="next page">
             <div class="prevnext-info">
                 <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Welcome to the <code class="docutils literal notranslate"><span class="pre">&lt;GROUP</span> <span class="pre">NAME&gt;</span></code> Group Handbook</p>
+                <p class="prevnext-title">Code of conduct</p>
             </div>
             <i class="prevnext-label fas fa-angle-right"></i>
         </a>
