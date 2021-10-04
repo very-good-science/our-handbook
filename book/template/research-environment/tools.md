@@ -26,30 +26,42 @@ but you should discuss with your group and agree which tools work best for every
 then modify as appropriate and add links to your specific workspaces or network.
 ```
 
-### Communication tools
+### Messaging
 
-For text messaging:
+We use [Slack](https://slack.com) for instant messaging within the group.
 
-- We use [Slack](https://slack.com) for instant messaging within the team
-    - Say "hello!" to the team each day
-    - Prefer posting things to our communal **#group** channel rather than direct messages
-    - Use threads to reply to messages
+- Say "hello!" to the team each day
+- Prefer posting things to our communal **#group** channel rather than direct messages
+- Use threads to reply to messages
+- However, messages don't last forever (the free version of Slack limits the size of your chat history), so don't use it for anything you need to keep a record of
 
-For online meetings:
+We use email for sharing information with external collaborators, or where we need keep a record of the communication (for example, when getting approval for something)
 
-- We use [Zoom](https://zoom.us) or [Teams](https://teams.microsoft.com) for calling
-    - Switch on video if you are comfortable doing so
-- And [Google Jamboard](https://jamboard.google.com) or [Miro](https://miro.com) for collaborative whiteboards
+- Email is not guaranteed to be secure and has a limit on attachment size, so when sharing documents we prefer to use SharePoint's {ref}`sharing links<document-sharing>` feature.
 
+### Online meetings
+
+We use [Teams](https://teams.microsoft.com) for internal calls
+and [Zoom](https://zoom.us) for calls including external collaborators.
+
+- Please switch on video if you are comfortable doing so.
+- If you plan to record the call then check everyone is happy with this before proceeding.
+- If we need to use a collaborative whiteboard then we use [Google Jamboard](https://jamboard.google.com) for internal calls,
+and [Miro](https://miro.com) if we are working with external collaborators.
+- For workshops where we need to run voting or polls, we use the features built-in to Zoom, or [Slido](https://www.sli.do) if we need more functionality.
+
+(document-sharing)=
 ### Documents
 
-- We use [Office 365](https://www.office.com) most of our documents
-- And store them on our [group SharePoint site](https://www.sharepoint.com), so we all have access to them
+We use [Office 365](https://www.office.com) most of our documents
+and store them on our [group SharePoint site](https://www.sharepoint.com), so we all have access to them
+
+- Sharing links can be created to share large files securely with external collaborators, rather than using email
 
 ### Programming
 
 Some projects necessitate the use of a particular programming language.
-When there isn't a specific requirement, we recommend checking our [team profiles](our-team) and choosing something with the greatest overlap.
+When there isn't a specific requirement, we recommend checking our [team profiles](../our-team) and choosing something with the greatest overlap.
 From experience, this is likely to be either Python or R.
 
 We use Git for version control and make use of our [group organisation on GitHub](https://github.com/jean-golding-institute),
