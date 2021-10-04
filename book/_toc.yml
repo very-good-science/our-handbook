@@ -29,4 +29,5 @@ parts:
     - file: template/resources/index
       sections:
       - file: template/resources/time-management
+      - file: template/research-environment/data-management
     - file: template/glossary
