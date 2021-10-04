@@ -1,5 +1,9 @@
 # Documentation and Data Management
 
+```{hint} 
+The Group's approach to documentation and data management might have been detailed in a data management plan submitted with the grant application to the funder. If a data management plan doesn't exist then think about the following, agree an approach as a group and include it in the handbook
+```
+
 Organising files well will help you and your collaborators save time as you can find things more easily, work on the latest version and not lose any of your work!
 
 ## Data documentation
@@ -19,7 +23,11 @@ Of course, your group may use versioning software (see Tools section) which mean
 ## Folder structure
 As well as naming your files in a meaningful way, your folders should also be named well. Ideally the structure of the folders would also be well designed to allow collaborators to easily navigate their way to find a file.
 
-## Where to store data
-
-
-## Backing up data
+## Storing and backing up data
+Best practice for data storage and back up should follow the 3-2-1 rule. You should keep at least **three** copies of your data, and store **two** backup copies on different storage media, with **one** of them located offsite.
+Different types of storage media include:
+- your computer's hard drive
+- an external hard drive
+- cloud storage
+- tape storage
+There are pros and cons for using different types of storage, including whether it is suitable for personal or confidential data, how long the hardware lasts before it needs replacing, when the technology might become obsolete and personal preference.
