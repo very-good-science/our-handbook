@@ -18,3 +18,4 @@ Mark this Pull Request as Ready for Review when you're happy with all the change
 - [ ] The PR is to the Our Handbook `develop` branch
 - [ ] New pages are linked in the TOC/navigation?
 - [ ] Have we added the contributor to our all-contributors?
+- [ ] One sentence per line
