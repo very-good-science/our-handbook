@@ -9,11 +9,7 @@ on:
     branches: [ main ]
     paths:
       book/**
-      
-  pull_request:
-    branches: [ main ]
-    paths:
-      book/**
+    
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
