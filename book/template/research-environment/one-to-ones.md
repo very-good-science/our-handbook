@@ -23,3 +23,6 @@ Don't work on your emails during the meeting!
 The same goes if you want to show them something in the lab
 - If you go to your supervisor with a problem, try to also think of a solution
 - Your supervisor is a busy person, make sure you use your time with them wisely and that you are fully engaged
+
+## Group meetings
+See the expectations for [group meetings](template/research-environment/group-meetings.md).
