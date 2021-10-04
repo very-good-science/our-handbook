@@ -1,7 +1,10 @@
 # Documentation and Data Management
 
-```{tip} 
-The Group's approach to documentation and data management might have been detailed in a data management plan submitted with the grant application to the funder. If a data management plan doesn't exist then think about the following, agree an approach as a group and include it in the handbook
+```{hint} 
+The Group's approach to documentation and data management might have been detailed in a data management plan submitted with the grant application to the funder. 
+If so, then link them here. 
+
+If a data management plan doesn't exist then think about the following, agree an approach as a group and include it in the handbook.
 ```
 
 Organising files well will help you and your collaborators save time as you can find things more easily, work on the latest version and not lose any of your work!
