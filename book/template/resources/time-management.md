@@ -48,7 +48,7 @@ It's especially useful for getting started on something that you aren't looking 
 By writing down what you want to do and what you actualy did in each 25 minute block, you gain an understanding of what is achievable, which will help you to plan better over time
 You can track this using an online pomodoro tracker like [my tomatoes](https://mytomatoes.com/).
 
-It also works great for online coworking calls using a shared online timer like [this one](https://cuckoo.team/) or [this one](marinaratimer.com/), since it allows you to have regular breaks to talk to each other.
+It also works great for online coworking calls using a shared online timer like [this one](https://cuckoo.team/) or [this one](https://marinaratimer.com/), since it allows you to have regular breaks to talk to each other.
 
 ## Choosing goals 
 <!--Link to official review system-->
