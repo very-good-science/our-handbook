@@ -6,7 +6,6 @@ parts:
 #    - file: guide/what-is-our-handbook
     - file: guide/how-to-use/how-to-use-overview
     - sections:
-      - file: guide/how-to-use/preparing-to-use
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
     - file: guide/contributing
