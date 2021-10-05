@@ -22,6 +22,7 @@ parts:
       sections:
       - file: template/research-environment/practicalities
       - file: template/research-environment/values
+      - file: template/research-environment/group-meetings
       - file: template/research-environment/tools
       - file: template/research-environment/roadmap
       - file: template/research-environment/ways-of-working
