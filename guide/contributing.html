@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../_static/tabs.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
@@ -40,6 +41,7 @@
     <script src="../_static/togglebutton.js"></script>
     <script src="../_static/clipboard.min.js"></script>
     <script src="../_static/copybutton.js"></script>
+    <script src="../_static/tabs.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
@@ -51,8 +53,8 @@
     <script async="async" src="../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Code of conduct" href="code-of-conduct.html" />
-    <link rel="prev" title="How to use the Our Handbook template" href="how-to-use-overview.html" />
+    <link rel="next" title="Maintaining a consistent style in the Our Handbook project" href="style-guide.html" />
+    <link rel="prev" title="Put your handbook online" href="how-to-use/put-online.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -94,8 +96,8 @@
  </span>
 </p>
 <ul class="current nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="how-to-use-overview.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="how-to-use/how-to-use-overview.html">
    How to use the
    <code class="docutils literal notranslate">
     <span class="pre">
@@ -107,8 +109,25 @@
    </code>
    template
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="how-to-use/editing-together.html">
+     Editing together
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="how-to-use/put-online.html">
+     Put your handbook online
+    </a>
+   </li>
+  </ul>
  </li>
- <li class="toctree-l1 current active">
+ <li class="toctree-l1 current active has-children">
   <a class="current reference internal" href="#">
    Contributing to the
    <code class="docutils literal notranslate">
@@ -121,6 +140,27 @@
    </code>
    project
   </a>
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="style-guide.html">
+     Maintaining a consistent style in the
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       Our
+      </span>
+      <span class="pre">
+       Handbook
+      </span>
+     </code>
+     project
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="code-of-conduct.html">
@@ -148,10 +188,27 @@
    Group Handbook
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../template/our-team.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../template/our-team/our-team.html">
    Our Team
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../template/our-team/work-with-us.html">
+     Working with us
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../template/our-team/past-members.html">
+     Past team members
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../template/research-interests.html">
@@ -162,8 +219,8 @@
   <a class="reference internal" href="../template/projects/index.html">
    Our Projects
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -179,8 +236,8 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../template/projects/recent-publications.html">
-     Recent publications
+    <a class="reference internal" href="../template/projects/recent-outputs.html">
+     Recent research outputs
     </a>
    </li>
   </ul>
@@ -189,8 +246,8 @@
   <a class="reference internal" href="../template/research-environment/index.html">
    Research Environment
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -203,6 +260,11 @@
    <li class="toctree-l2">
     <a class="reference internal" href="../template/research-environment/values.html">
      Values
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../template/research-environment/group-meetings.html">
+     Group meetings
     </a>
    </li>
    <li class="toctree-l2">
@@ -225,14 +287,19 @@
      Ways of working
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../template/research-environment/one-to-ones.html">
+     One-to-one Meetings
+    </a>
+   </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="../template/resources/index.html">
    Resources
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -259,6 +326,7 @@
     Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
     Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
 </div>
+
 </div>
 
 </div>
@@ -327,18 +395,6 @@
   <a class="reference internal nav-link" href="#browser-vs-local-machine">
    Browser vs. Local machine
   </a>
-  <ul class="nav section-nav flex-column">
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#local">
-     Local
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#browser">
-     Browser
-    </a>
-   </li>
-  </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
   <a class="reference internal nav-link" href="#step-by-step">
@@ -347,17 +403,17 @@
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#getting-ready">
-     Getting Ready
+     1. Getting Ready
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#let-us-know-what-you-re-working-on">
-     Let us know what you’re working on
+     2. Let us know what you’re working on
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#copy-the-project">
-     Copy the project
+     3. Copy the project
     </a>
     <ul class="nav section-nav flex-column">
      <li class="toc-h4 nav-item toc-entry">
@@ -365,48 +421,21 @@
        “Fork” the repository
       </a>
      </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#get-your-local-copy-up-to-date-and-install-jupyter-book-local-only">
-       Get your local copy up to date and install jupyter book (local only)
-      </a>
-     </li>
     </ul>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#create-a-draft-pull-request">
-     Create a draft pull request
+     4. Create a draft pull request
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#make-your-changes">
-     Make your changes
+     5. Make your changes
     </a>
-    <ul class="nav section-nav flex-column">
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#in-the-browser-browser-only">
-       In the browser (browser only)
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#using-your-local-machine-local-only">
-       Using your local machine (local only)
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#build-the-site-locally-local-only">
-       Build the site locally (local only)
-      </a>
-     </li>
-     <li class="toc-h4 nav-item toc-entry">
-      <a class="reference internal nav-link" href="#how-to-write-content">
-       How to write content
-      </a>
-     </li>
-    </ul>
    </li>
    <li class="toc-h3 nav-item toc-entry">
     <a class="reference internal nav-link" href="#tell-us-you-re-finished">
-     Tell us you’re finished
+     6. Tell us you’re finished
     </a>
    </li>
   </ul>
@@ -436,20 +465,27 @@ I’ve put together some specific information for you about our aims, availabili
 <div class="section" id="browser-vs-local-machine">
 <h2>Browser vs. Local machine<a class="headerlink" href="#browser-vs-local-machine" title="Permalink to this headline">¶</a></h2>
 <p>There are two ways to suggest changes to the project via GitHub: using your internet browser, or using your local machine.
-In these contributing guidelines, you will sometimes see instructions labelled browser or local referencing these two different ways of doing things.
+In these contributing guidelines, you will sometimes see instructions labelled <strong>in the browser</strong> or <strong>on your local machine</strong> referencing these two different ways of doing things.
 If you need help with either of these methods, please <a class="reference external" href="https://github.com/very-good-science/our-handbook/discussions/new">open a new Discussion</a> and we’ll be happy to help!</p>
-<div class="section" id="local">
-<h3>Local<a class="headerlink" href="#local" title="Permalink to this headline">¶</a></h3>
-<p>If you’re comfortable using the terminal and Git (or you’re interested in learning), then we recommend using your local machine.
-This means that you will have a copy of the project files on your computer, which you can edit in your favourite text editor.
-This has the benefit of allowing you to preview what your suggested handbook pages will look like, but requires a little more set up.</p>
-<p>The local instructions on this page assume some familiarity with Git and the terminal.
-I recommend <a class="reference external" href="https://the-turing-way.netlify.app/reproducible-research/vcs.html">The Turing Way’s chapter on Version Control</a> to get started, but we’re happy to walk you through setting up if you’d like some extra support.</p>
-</div>
-<div class="section" id="browser">
-<h3>Browser<a class="headerlink" href="#browser" title="Permalink to this headline">¶</a></h3>
-<p>If today’s not the day that you want to dig into Git and the terminal, then you can still contribute via the GitHub website in your usual internet browser.
-The upside here is that you don’t need to install anything on your computer, or type anything in the terminal, the downside is that you won’t be able to preview how things will look on the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> website.</p>
+<p>If you’re comfortable using the terminal and Git (or you’re interested in learning), then we recommend <strong>using your local machine</strong>.
+This means you:</p>
+<ul class="simple">
+<li><p>Will have a copy of the project files on your computer</p></li>
+<li><p>Can make changes using your favourite text editor</p></li>
+<li><p>Can preview what your suggested handbook pages will look like</p></li>
+<li><p><strong>But</strong> it requires a little more set up</p></li>
+</ul>
+<p>If today’s not the day that you want to dig into Git and the terminal, then you can still contribute <strong>via the GitHub website</strong> in your usual internet browser.
+This means you:</p>
+<ul class="simple">
+<li><p>Don’t need to install anything on your computer</p></li>
+<li><p>Don’t need to use a terminal</p></li>
+<li><p><strong>But</strong> you won’t be able to preview how things will look on the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> website.</p></li>
+</ul>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p>If you’d like to know more about using Git and the terminal, then we recommend <a class="reference external" href="https://the-turing-way.netlify.app/reproducible-research/vcs.html">The Turing Way’s chapter on Version Control</a> to get started.
+We’re also happy to walk you through getting set up if you’d like some extra support.</p>
 </div>
 </div>
 <div class="section" id="step-by-step">
@@ -465,7 +501,7 @@ If you have any problems with any part of this process or you’d like further e
 <li><p>Tell us you’re finished</p></li>
 </ol>
 <div class="section" id="getting-ready">
-<h3>Getting Ready<a class="headerlink" href="#getting-ready" title="Permalink to this headline">¶</a></h3>
+<h3>1. Getting Ready<a class="headerlink" href="#getting-ready" title="Permalink to this headline">¶</a></h3>
 <p>Firstly, if you don’t have one yet, then <a class="reference external" href="https://github.com/signup">sign up for a GitHub account</a>.</p>
 <p>Secondly, decide what you’d like to work on!</p>
 <ul class="simple">
@@ -475,35 +511,38 @@ If you have any problems with any part of this process or you’d like further e
 </ul>
 </div>
 <div class="section" id="let-us-know-what-you-re-working-on">
-<h3>Let us know what you’re working on<a class="headerlink" href="#let-us-know-what-you-re-working-on" title="Permalink to this headline">¶</a></h3>
+<h3>2. Let us know what you’re working on<a class="headerlink" href="#let-us-know-what-you-re-working-on" title="Permalink to this headline">¶</a></h3>
 <p>By telling us what you’re working on, we can avoid duplicating effort, and make sure we can direct everyone’s energy into the best output for the project.
 If you find an existing issue that you want to work on, comment on it and tell us that you’re working on it.</p>
 </div>
 <div class="section" id="copy-the-project">
-<h3>Copy the project<a class="headerlink" href="#copy-the-project" title="Permalink to this headline">¶</a></h3>
+<h3>3. Copy the project<a class="headerlink" href="#copy-the-project" title="Permalink to this headline">¶</a></h3>
 <p>You will work on your own copy of the project.
 This means if you accidentally make a mistake, or you have work in progress, you don’t need to worry about overwriting anything, because it won’t affect the central version until you’re ready to show us.</p>
 <div class="section" id="fork-the-repository">
 <h4>“Fork” the repository<a class="headerlink" href="#fork-the-repository" title="Permalink to this headline">¶</a></h4>
 <p>Forking the repository is a way of making your own copy of it in your GitHub account.
 (Note: “repository” is the name for all the files making up the project).</p>
+<div class="tab-set docutils">
+<input checked="True" class="tab-input" id="tab-set--0-input--1" name="tab-set--0" type="radio"><label class="tab-label" for="tab-set--0-input--1">In the browser</label><div class="tab-content docutils">
 <p>If this is the first contribution you’ve made to the repository, then follow <a class="reference external" href="https://docs.github.com/en/get-started/quickstart/fork-a-repo#forking-a-repository">these instructions</a> to fork the repo for the first time.
 <a class="reference external" href="https://github.com/very-good-science/our-handbook">This</a> is the repository that you want to fork.</p>
 <p>If you’ve made a fork of the repository before, for an earlier contribution, then now you need to “sync” it, since your existing forked copy is probably a little out of date.
 To sync your fork, follow <a class="reference external" href="https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser">these instructions</a>.</p>
 </div>
-<div class="section" id="get-your-local-copy-up-to-date-and-install-jupyter-book-local-only">
-<h4>Get your local copy up to date and install jupyter book (local only)<a class="headerlink" href="#get-your-local-copy-up-to-date-and-install-jupyter-book-local-only" title="Permalink to this headline">¶</a></h4>
-<p>To get a copy of all the project files on your local machine you must clone <strong>your fork</strong> of the repository if you haven’t already.
-Cloning just means copying the project files to your local machine.
+<input class="tab-input" id="tab-set--0-input--2" name="tab-set--0" type="radio"><label class="tab-label" for="tab-set--0-input--2">Using your local machine</label><div class="tab-content docutils">
+<p>To get a copy of all the project files on your local machine you must first fork the repository (see instructions for ‘In the browser’) and then <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">clone</span></code> <strong>your fork</strong> of the repository if you haven’t already.</p>
+<p>Cloning just means copying the project files to your local machine.
 This repository that you need to clone will look like <code class="docutils literal notranslate"><span class="pre">github.com/YOUR-USER-NAME/our-handbook</span></code>.
 <a class="reference external" href="https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository">Here</a> are some general instructions for cloning a repository, and <a class="reference external" href="(https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)">here</a> shows an example of cloning a fork.</p>
-<p>After cloning, open a terminal in the root of the our-handbook directory and install the necessary requirements using <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code>. You may first want to create a virtual environment.</p>
-<p>If you already cloned the repository earlier, then you will instead need to checkout the main branch, and pull the latest changes from your newly synced fork.</p>
+<p>After cloning, open a terminal in the root of the our-handbook directory and install the necessary dependencies using <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code>. You may first want to create a virtual environment.</p>
+<p>If you already cloned the repository earlier, then you will instead need to checkout the main branch, and pull the latest changes from your newly synced fork. You may also need to install any updated dependencies using <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-U</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code> inside your virtual environment.</p>
+</div>
+</div>
 </div>
 </div>
 <div class="section" id="create-a-draft-pull-request">
-<h3>Create a draft pull request<a class="headerlink" href="#create-a-draft-pull-request" title="Permalink to this headline">¶</a></h3>
+<h3>4. Create a draft pull request<a class="headerlink" href="#create-a-draft-pull-request" title="Permalink to this headline">¶</a></h3>
 <p>A pull request tells us where to look for changes you are making.</p>
 <p>If you are working locally, then you may want to create a new branch before creating the Pull Request.</p>
 <p>Creating a <strong>draft</strong> pull request is really helpful to do up front because it shows us what is actively being worked on, and it also helps you get feedback.
@@ -512,11 +551,19 @@ You will want to create a Pull Request from your forked repository to the <code 
 Please fill out our Pull Request template as best you can.</p>
 </div>
 <div class="section" id="make-your-changes">
-<h3>Make your changes<a class="headerlink" href="#make-your-changes" title="Permalink to this headline">¶</a></h3>
+<h3>5. Make your changes<a class="headerlink" href="#make-your-changes" title="Permalink to this headline">¶</a></h3>
 <p>Now you’re ready to make your changes.
 As you “commit” new changes to your forked repository, the draft Pull Request that you created will automatically update.</p>
-<div class="section" id="in-the-browser-browser-only">
-<h4>In the browser (browser only)<a class="headerlink" href="#in-the-browser-browser-only" title="Permalink to this headline">¶</a></h4>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Check our <a class="reference internal" href="style-guide.html"><span class="doc std std-doc">style guide</span></a> for advice on how to add content to the template, including how to add instructions to handbook authors (the users of the template).</p>
+</div>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> is a <a class="reference external" href="https://jupyterbook.org/">jupyter book</a> which means that all the content for the book is written in MyST Markdown: you can find a useful cheat sheet <a class="reference external" href="https://jupyterbook.org/reference/cheatsheet.html">here</a>.</p>
+</div>
+<div class="tab-set docutils">
+<input checked="True" class="tab-input" id="tab-set--1-input--1" name="tab-set--1" type="radio"><label class="tab-label" for="tab-set--1-input--1">In the browser</label><div class="tab-content docutils">
 <ol class="simple">
 <li><p>Go to <strong>your fork</strong> on GitHub <code class="docutils literal notranslate"><span class="pre">github.com/YOUR-USER-NAME/our-handbook</span></code>.</p></li>
 <li><p>Find the file that you want to edit</p>
@@ -525,25 +572,24 @@ As you “commit” new changes to your forked repository, the draft Pull Reques
 <li><p>If it doesn’t exist, you can <a class="reference external" href="https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files">create a new file</a> make sure it has the file suffix <code class="docutils literal notranslate"><span class="pre">.md</span></code>.</p></li>
 </ul>
 </li>
-<li><p>Edit the file:</p></li>
-</ol>
+<li><p>Edit the file:</p>
 <ul class="simple">
-<li><p>Click the pen symbol to open the file editor</p></li>
-<li><p>Make changes in MyST Markdown (see <a class="reference internal" href="#writing-content"><span class="std std-ref">How to write content</span></a>).</p></li>
+<li><p>Click the pen symbol to open the file editor.</p></li>
+<li><p>Make changes in MyST Markdown.</p></li>
 <li><p>You can preview changes, which will show you the general size of headings, but they won’t be able to show some of the fancier MyST roles and directives.</p></li>
 </ul>
-<ol class="simple">
-<li><p>Save (i.e. “commit”) regularly.</p></li>
-</ol>
+</li>
+<li><p>Save (i.e. “commit”) regularly.</p>
 <ul class="simple">
 <li><p>When you’ve made a change (even if small), scroll down to where it says “Commit changes”, and type a short meaningful message describing the change you made. I recommend committing changes regularly (every 20 minutes or so).</p></li>
 <li><p>Make sure “Commit directly to the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch” is checked.</p></li>
 <li><p>Click “Propose file change”.</p></li>
 </ul>
+</li>
+</ol>
 <p>Repeat until you’re happy!</p>
 </div>
-<div class="section" id="using-your-local-machine-local-only">
-<h4>Using your local machine (local only)<a class="headerlink" href="#using-your-local-machine-local-only" title="Permalink to this headline">¶</a></h4>
+<input class="tab-input" id="tab-set--1-input--2" name="tab-set--1" type="radio"><label class="tab-label" for="tab-set--1-input--2">Using your local machine</label><div class="tab-content docutils">
 <ol class="simple">
 <li><p>Open the file that you want to edit in your favourite text editor.</p>
 <ul class="simple">
@@ -553,32 +599,30 @@ As you “commit” new changes to your forked repository, the draft Pull Reques
 </li>
 <li><p>Edit the file</p>
 <ul class="simple">
-<li><p>Make changes in MyST Markdown (see <a class="reference internal" href="#writing-content"><span class="std std-ref">How to write content</span></a>).</p></li>
-<li><p><a class="reference internal" href="#build-site"><span class="std std-ref">Build the site</span></a> to check that it looks as you expected.</p></li>
+<li><p>Make changes in MyST Markdown.</p></li>
+</ul>
+</li>
+<li><p>Build the site to check that it looks as you expected</p>
+<ul class="simple">
+<li><p>To check how the site looks, go to the root of the repository and run: <code class="docutils literal notranslate"><span class="pre">jb</span> <span class="pre">build</span> <span class="pre">book/</span></code></p></li>
+<li><p>After completion, you can run <code class="docutils literal notranslate"><span class="pre">open</span> <span class="pre">book/_build/html/index.html</span></code> to view the website.</p></li>
+<li><p>Please do this before you mark your PR as “Ready for Review”.</p></li>
 </ul>
 </li>
 <li><p>Save, commit, and push to your fork regularly.</p></li>
 </ol>
 </div>
-<div class="section" id="build-the-site-locally-local-only">
-<span id="build-site"></span><h4>Build the site locally (local only)<a class="headerlink" href="#build-the-site-locally-local-only" title="Permalink to this headline">¶</a></h4>
-<p>To check how the site looks, go to the root of the repository and run:
-<code class="docutils literal notranslate"><span class="pre">jb</span> <span class="pre">build</span> <span class="pre">book/</span></code></p>
-<p>After completion, you can run <code class="docutils literal notranslate"><span class="pre">open</span> <span class="pre">book/_build/html/index.html</span></code> to view the website.</p>
-<p>Please do this before you mark your PR as “Ready for Review”.</p>
-</div>
-<div class="section" id="how-to-write-content">
-<span id="writing-content"></span><h4>How to write content<a class="headerlink" href="#how-to-write-content" title="Permalink to this headline">¶</a></h4>
-<p><code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> is a <a class="reference external" href="https://jupyterbook.org/">jupyter book</a> which means that all the content for the book is written in MyST Markdown: you can find a useful cheat sheet <a class="reference external" href="https://jupyterbook.org/reference/cheatsheet.html">here</a>.</p>
 </div>
 </div>
 <div class="section" id="tell-us-you-re-finished">
-<h3>Tell us you’re finished<a class="headerlink" href="#tell-us-you-re-finished" title="Permalink to this headline">¶</a></h3>
+<h3>6. Tell us you’re finished<a class="headerlink" href="#tell-us-you-re-finished" title="Permalink to this headline">¶</a></h3>
 <p>It’s the final step!
 All that’s left to do is to follow <a class="reference external" href="https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/changing-the-stage-of-a-pull-request#marking-a-pull-request-as-ready-for-review">these instructions</a> to mark the Pull Request that you made earlier as Ready for Review.</p>
 <p>What happens next is that a member of the Our Handbook team will check your changes to make sure that we can bring them into the main repository.
 At this time we’re likely to start talking to you in the Pull Request, and hopefully your changes will soon be ready to merge in!</p>
 </div>
+</div>
+<div class="toctree-wrapper compound">
 </div>
 </div>
 
@@ -612,19 +656,19 @@ At this time we’re likely to start talking to you in the Pull Request, and hop
 <div class='prev-next-bottom'>
     
     <div id="prev">
-        <a class="left-prev" href="how-to-use-overview.html" title="previous page">
+        <a class="left-prev" href="how-to-use/put-online.html" title="previous page">
             <i class="prevnext-label fas fa-angle-left"></i>
             <div class="prevnext-info">
                 <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">How to use the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> template</p>
+                <p class="prevnext-title">Put your handbook online</p>
             </div>
         </a>
     </div>
      <div id="next">
-        <a class="right-next" href="code-of-conduct.html" title="next page">
+        <a class="right-next" href="style-guide.html" title="next page">
             <div class="prevnext-info">
                 <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Code of conduct</p>
+                <p class="prevnext-title">Maintaining a consistent style in the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> project</p>
             </div>
             <i class="prevnext-label fas fa-angle-right"></i>
         </a>
@@ -640,7 +684,6 @@ At this time we’re likely to start talking to you in the Pull Request, and hop
         
           By The Our Handbook Community<br/>
         
-            &copy; Copyright 2021.<br/>
       </p>
     </div>
   </footer>

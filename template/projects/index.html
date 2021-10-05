@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/tabs.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
@@ -40,6 +41,7 @@
     <script src="../../_static/togglebutton.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/tabs.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
@@ -94,8 +96,8 @@
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../guide/how-to-use-overview.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../guide/how-to-use/how-to-use-overview.html">
    How to use the
    <code class="docutils literal notranslate">
     <span class="pre">
@@ -107,8 +109,25 @@
    </code>
    template
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/editing-together.html">
+     Editing together
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/put-online.html">
+     Put your handbook online
+    </a>
+   </li>
+  </ul>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="../../guide/contributing.html">
    Contributing to the
    <code class="docutils literal notranslate">
@@ -121,6 +140,27 @@
    </code>
    project
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/style-guide.html">
+     Maintaining a consistent style in the
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       Our
+      </span>
+      <span class="pre">
+       Handbook
+      </span>
+     </code>
+     project
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../../guide/code-of-conduct.html">
@@ -148,10 +188,27 @@
    Group Handbook
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../our-team.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../our-team/our-team.html">
    Our Team
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/work-with-us.html">
+     Working with us
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/past-members.html">
+     Past team members
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../research-interests.html">
@@ -162,8 +219,8 @@
   <a class="current reference internal" href="#">
    Our Projects
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -179,8 +236,8 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="recent-publications.html">
-     Recent publications
+    <a class="reference internal" href="recent-outputs.html">
+     Recent research outputs
     </a>
    </li>
   </ul>
@@ -189,8 +246,8 @@
   <a class="reference internal" href="../research-environment/index.html">
    Research Environment
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -203,6 +260,11 @@
    <li class="toctree-l2">
     <a class="reference internal" href="../research-environment/values.html">
      Values
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../research-environment/group-meetings.html">
+     Group meetings
     </a>
    </li>
    <li class="toctree-l2">
@@ -225,14 +287,19 @@
      Ways of working
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../research-environment/one-to-ones.html">
+     One-to-one Meetings
+    </a>
+   </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="../resources/index.html">
    Resources
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -259,6 +326,7 @@
     Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
     Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
 </div>
+
 </div>
 
 </div>
@@ -338,6 +406,16 @@
    Past
   </a>
  </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#former-phd-students">
+   Former PhD Students
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#former-postdocs">
+   Former PostDocs
+  </a>
+ </li>
 </ul>
 
             </nav>
@@ -353,12 +431,169 @@
 <h1>Our Projects<a class="headerlink" href="#our-projects" title="Permalink to this headline">¶</a></h1>
 <div class="section" id="upcoming">
 <h2>Upcoming<a class="headerlink" href="#upcoming" title="Permalink to this headline">¶</a></h2>
+<div class="sphinx-bs container pb-4 full-width docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-one docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 1&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-two docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 2&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-two docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 3&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="section" id="current">
 <h2>Current<a class="headerlink" href="#current" title="Permalink to this headline">¶</a></h2>
+<div class="sphinx-bs container pb-4 full-width docutils">
+<div class="row docutils">
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-one docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 1&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-two docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 2&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+<div class="d-flex col-lg-4 px-2 py-2 docutils">
+<div class="card w-100 shadow docutils">
+<div class="card-header bg-jb-two docutils">
+<a class="reference internal image-reference" href="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png"><img alt="&lt;PROJECT 3&gt;" src="https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png" style="width: 100%;" /></a>
+</div>
+<div class="card-body docutils">
+<p class="card-text"><strong><code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p class="card-text"><a class="reference external" href="https://www.github.com"><span class="fab fa-github"></span></a></br></p>
+<p class="card-text">The aim of this research is to <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p class="card-text"><strong>Project members:</strong> <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></span> (project lead), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></span> (postdoc), <span class="xref myst"><code class="docutils literal notranslate"><span class="pre">&lt;RESEARCHER</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></span> (PhD student).</p>
+<p class="card-text"><strong>Duration and funding:</strong> This project is running from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and is funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code>.</p>
+<p class="card-text"><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="section" id="past">
 <h2>Past<a class="headerlink" href="#past" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
+<p>Start with most recently finished projects first and work back in chronological order.
+Copy the format as many times as needed.</p>
+</div>
+<p><strong><code class="docutils literal notranslate"><span class="pre">&lt;PAST</span> <span class="pre">PROJECT</span> <span class="pre">1</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p>This research investigated <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p><strong>Duration and funding:</strong> This project ran from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and was funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;GRANT</span> <span class="pre">CODE&gt;</span></code>).</p>
+<p><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+<hr class="docutils" />
+<p><strong><code class="docutils literal notranslate"><span class="pre">&lt;PAST</span> <span class="pre">PROJECT</span> <span class="pre">2</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p>This research investigated <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p><strong>Duration and funding:</strong> This project ran from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and was funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;GRANT</span> <span class="pre">CODE&gt;</span></code>).</p>
+<p><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+<hr class="docutils" />
+<p><strong><code class="docutils literal notranslate"><span class="pre">&lt;PAST</span> <span class="pre">PROJECT</span> <span class="pre">3</span> <span class="pre">NAME&gt;</span></code></strong></p>
+<p>This research investigated <code class="docutils literal notranslate"><span class="pre">&lt;SUMMARISE</span> <span class="pre">AIMS&gt;</span></code> using <code class="docutils literal notranslate"><span class="pre">&lt;DATA</span> <span class="pre">AND/OR</span> <span class="pre">TECHNIQUES&gt;</span></code>.</p>
+<p><strong>Duration and funding:</strong> This project ran from <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> to <code class="docutils literal notranslate"><span class="pre">&lt;DATE&gt;</span></code> and was funded by <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER</span> <span class="pre">NAME&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;GRANT</span> <span class="pre">CODE&gt;</span></code>).</p>
+<p><strong>Key project outputs:</strong>
+<code class="docutils literal notranslate"><span class="pre">&lt;LIST</span> <span class="pre">HERE</span> <span class="pre">THE</span> <span class="pre">KEY</span> <span class="pre">OUTPUTS</span> <span class="pre">(PUBLICATIONS,</span> <span class="pre">PREPRINTS,</span> <span class="pre">CODE,</span> <span class="pre">DATA</span> <span class="pre">ETC.)</span> <span class="pre">THAT</span> <span class="pre">HAVE</span> <span class="pre">BEEN</span> <span class="pre">MADE</span> <span class="pre">AVAILABLE&gt;</span></code></p>
+</div>
+<hr class="docutils" />
+<div class="section" id="former-phd-students">
+<h2>Former PhD Students<a class="headerlink" href="#former-phd-students" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
+<p>If possible, link to a copy of the thesis, for example your institution may have an electronic copy online.
+If possible, link to the person’s ORCID or LinkedIn profile.
+Copy the format as many times as needed.</p>
+</div>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">STUDENT&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEAR</span> <span class="pre">OF</span> <span class="pre">GRADUATION&gt;</span></code>)
+<strong>Thesis title:</strong> <em><code class="docutils literal notranslate"><span class="pre">&lt;TITLE&gt;</span></code></em></p>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">STUDENT&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEAR</span> <span class="pre">OF</span> <span class="pre">GRADUATION&gt;</span></code>)
+<strong>Thesis title:</strong> <em><code class="docutils literal notranslate"><span class="pre">&lt;TITLE&gt;</span></code></em></p>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">STUDENT&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEAR</span> <span class="pre">OF</span> <span class="pre">GRADUATION&gt;</span></code>)
+<strong>Thesis title:</strong> <em><code class="docutils literal notranslate"><span class="pre">&lt;TITLE&gt;</span></code></em></p>
+</div>
+<hr class="docutils" />
+<div class="section" id="former-postdocs">
+<h2>Former PostDocs<a class="headerlink" href="#former-postdocs" title="Permalink to this headline">¶</a></h2>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
+<p>If possible, link to the person’s ORCID or LinkedIn profile.
+Copy the format as many times as needed.</p>
+</div>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">POSTDOC&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEARS</span> <span class="pre">OF</span> <span class="pre">EMPLOYMENTS&gt;</span></code>)
+<strong>Project:</strong> <code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">NAME&gt;</span></code></p>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">POSTDOC&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEARS</span> <span class="pre">OF</span> <span class="pre">EMPLOYMENTS&gt;</span></code>)
+<strong>Project:</strong> <code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">NAME&gt;</span></code></p>
+<p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">POSTDOC&gt;</span></code> (<code class="docutils literal notranslate"><span class="pre">&lt;YEARS</span> <span class="pre">OF</span> <span class="pre">EMPLOYMENTS&gt;</span></code>)
+<strong>Project:</strong> <code class="docutils literal notranslate"><span class="pre">&lt;PROJECT</span> <span class="pre">NAME&gt;</span></code></p>
 </div>
 <div class="toctree-wrapper compound">
 </div>
@@ -422,7 +657,6 @@
         
           By The Our Handbook Community<br/>
         
-            &copy; Copyright 2021.<br/>
       </p>
     </div>
   </footer>

@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/tabs.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
@@ -40,6 +41,7 @@
     <script src="../../_static/togglebutton.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/tabs.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
@@ -52,7 +54,7 @@
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
     <link rel="next" title="Open Research Practices" href="open-research-practices.html" />
-    <link rel="prev" title="Values" href="values.html" />
+    <link rel="prev" title="Group meetings" href="group-meetings.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -94,8 +96,8 @@
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../guide/how-to-use-overview.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../guide/how-to-use/how-to-use-overview.html">
    How to use the
    <code class="docutils literal notranslate">
     <span class="pre">
@@ -107,8 +109,25 @@
    </code>
    template
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/editing-together.html">
+     Editing together
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/put-online.html">
+     Put your handbook online
+    </a>
+   </li>
+  </ul>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="../../guide/contributing.html">
    Contributing to the
    <code class="docutils literal notranslate">
@@ -121,6 +140,27 @@
    </code>
    project
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/style-guide.html">
+     Maintaining a consistent style in the
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       Our
+      </span>
+      <span class="pre">
+       Handbook
+      </span>
+     </code>
+     project
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../../guide/code-of-conduct.html">
@@ -148,10 +188,27 @@
    Group Handbook
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../our-team.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../our-team/our-team.html">
    Our Team
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/work-with-us.html">
+     Working with us
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/past-members.html">
+     Past team members
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../research-interests.html">
@@ -162,8 +219,8 @@
   <a class="reference internal" href="../projects/index.html">
    Our Projects
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -179,8 +236,8 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../projects/recent-publications.html">
-     Recent publications
+    <a class="reference internal" href="../projects/recent-outputs.html">
+     Recent research outputs
     </a>
    </li>
   </ul>
@@ -189,8 +246,8 @@
   <a class="reference internal" href="index.html">
    Research Environment
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -203,6 +260,11 @@
    <li class="toctree-l2">
     <a class="reference internal" href="values.html">
      Values
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="group-meetings.html">
+     Group meetings
     </a>
    </li>
    <li class="toctree-l2 current active">
@@ -225,14 +287,19 @@
      Ways of working
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="one-to-ones.html">
+     One-to-one Meetings
+    </a>
+   </li>
   </ul>
  </li>
  <li class="toctree-l1 has-children">
   <a class="reference internal" href="../resources/index.html">
    Resources
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -259,6 +326,7 @@
     Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
     Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
 </div>
+
 </div>
 
 </div>
@@ -368,8 +436,8 @@
                 
   <div class="section" id="tools">
 <h1>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h1>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
 <p>Use this section to explain your philosophy regarding the use of third-party tools.
 This might be “we all use this tool”, “use whatever tool you like” or somewhere in between.</p>
 <p>By tools, we mean things like:</p>
@@ -386,8 +454,8 @@ but at the same time we recognise that it can be helpful to have an agreed set o
 <div class="section" id="tools-that-we-use-as-a-team">
 <h2>Tools that we use as a team<a class="headerlink" href="#tools-that-we-use-as-a-team" title="Permalink to this headline">¶</a></h2>
 <p>The following are the minimum set of tools that we ask everyone in the group to be familiar with.</p>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
 <p>We have added some initial examples in this section,
 but you should discuss with your group and agree which tools work best for everyone,
 then modify as appropriate and add links to your specific workspaces or network.</p>
@@ -420,7 +488,7 @@ and <a class="reference external" href="https://miro.com">Miro</a> if we are wor
 </div>
 <div class="section" id="documents">
 <span id="document-sharing"></span><h3>Documents<a class="headerlink" href="#documents" title="Permalink to this headline">¶</a></h3>
-<p>We use <a class="reference external" href="https://www.office.com">Office 365</a> most of our documents
+<p>We use <a class="reference external" href="https://www.office.com">Office 365</a> for most of our documents
 and store them on our <a class="reference external" href="https://www.sharepoint.com">group SharePoint site</a>, so we all have access to them</p>
 <ul class="simple">
 <li><p>Sharing links can be created to share large files securely with external collaborators, rather than using email</p></li>
@@ -437,8 +505,8 @@ unless a project already has its own repository.</p>
 </div>
 <div class="section" id="guidelines-for-choosing-your-own-tools">
 <h2>Guidelines for choosing your own tools<a class="headerlink" href="#guidelines-for-choosing-your-own-tools" title="Permalink to this headline">¶</a></h2>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
+<div class="admonition-fixme-instructions admonition">
+<p class="admonition-title">FIXME Instructions</p>
 <p>You may have some recommendations for other tools, such as text editors.</p>
 <p>There may also be legal or data protection requirements that limit the tools you can use.</p>
 </div>
@@ -491,11 +559,11 @@ Such services will not necessarily have the same level of security and privacy p
 <div class='prev-next-bottom'>
     
     <div id="prev">
-        <a class="left-prev" href="values.html" title="previous page">
+        <a class="left-prev" href="group-meetings.html" title="previous page">
             <i class="prevnext-label fas fa-angle-left"></i>
             <div class="prevnext-info">
                 <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Values</p>
+                <p class="prevnext-title">Group meetings</p>
             </div>
         </a>
     </div>
@@ -519,7 +587,6 @@ Such services will not necessarily have the same level of security and privacy p
         
           By The Our Handbook Community<br/>
         
-            &copy; Copyright 2021.<br/>
       </p>
     </div>
   </footer>

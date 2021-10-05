@@ -28,6 +28,7 @@
     <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/mystnb.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="../../_static/tabs.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-main.c949a650a448cc0ae9fd3441c0e17fb0.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/panels-variables.06eb56fa6e07937060861dad626602ad.css" />
     
@@ -40,6 +41,7 @@
     <script src="../../_static/togglebutton.js"></script>
     <script src="../../_static/clipboard.min.js"></script>
     <script src="../../_static/copybutton.js"></script>
+    <script src="../../_static/tabs.js"></script>
     <script >var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
     <script src="../../_static/sphinx-book-theme.12a9622fbb08dcb3a2a40b2c02b83a57.js"></script>
     <script async="async" src="https://unpkg.com/thebe@0.5.1/lib/index.js"></script>
@@ -94,8 +96,8 @@
  </span>
 </p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="../../guide/how-to-use-overview.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../../guide/how-to-use/how-to-use-overview.html">
    How to use the
    <code class="docutils literal notranslate">
     <span class="pre">
@@ -107,8 +109,25 @@
    </code>
    template
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/editing-together.html">
+     Editing together
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/how-to-use/put-online.html">
+     Put your handbook online
+    </a>
+   </li>
+  </ul>
  </li>
- <li class="toctree-l1">
+ <li class="toctree-l1 has-children">
   <a class="reference internal" href="../../guide/contributing.html">
    Contributing to the
    <code class="docutils literal notranslate">
@@ -121,6 +140,27 @@
    </code>
    project
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../../guide/style-guide.html">
+     Maintaining a consistent style in the
+     <code class="docutils literal notranslate">
+      <span class="pre">
+       Our
+      </span>
+      <span class="pre">
+       Handbook
+      </span>
+     </code>
+     project
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../../guide/code-of-conduct.html">
@@ -148,10 +188,27 @@
    Group Handbook
   </a>
  </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="../our-team.html">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="../our-team/our-team.html">
    Our Team
   </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+  <label for="toctree-checkbox-3">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/work-with-us.html">
+     Working with us
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../our-team/past-members.html">
+     Past team members
+    </a>
+   </li>
+  </ul>
  </li>
  <li class="toctree-l1">
   <a class="reference internal" href="../research-interests.html">
@@ -162,8 +219,8 @@
   <a class="reference internal" href="../projects/index.html">
    Our Projects
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -179,8 +236,8 @@
     </a>
    </li>
    <li class="toctree-l2">
-    <a class="reference internal" href="../projects/recent-publications.html">
-     Recent publications
+    <a class="reference internal" href="../projects/recent-outputs.html">
+     Recent research outputs
     </a>
    </li>
   </ul>
@@ -189,8 +246,8 @@
   <a class="reference internal" href="../research-environment/index.html">
    Research Environment
   </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
+  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+  <label for="toctree-checkbox-5">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -203,6 +260,11 @@
    <li class="toctree-l2">
     <a class="reference internal" href="../research-environment/values.html">
      Values
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../research-environment/group-meetings.html">
+     Group meetings
     </a>
    </li>
    <li class="toctree-l2">
@@ -225,14 +287,19 @@
      Ways of working
     </a>
    </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="../research-environment/one-to-ones.html">
+     One-to-one Meetings
+    </a>
+   </li>
   </ul>
  </li>
  <li class="toctree-l1 current active has-children">
   <a class="reference internal" href="index.html">
    Resources
   </a>
-  <input checked="" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
+  <input checked="" class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+  <label for="toctree-checkbox-6">
    <i class="fas fa-chevron-down">
    </i>
   </label>
@@ -259,6 +326,7 @@
     Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
     Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
 </div>
+
 </div>
 
 </div>
@@ -318,6 +386,53 @@
         <!-- Table of contents -->
         <div class="d-none d-md-block col-md-2 bd-toc show">
             
+            <div class="tocsection onthispage pt-5 pb-3">
+                <i class="fas fa-list"></i> Contents
+            </div>
+            <nav id="bd-toc-nav" aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#finding-time-to-focus">
+   Finding time to focus
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#co-working">
+     Co-working
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pomodoro-technique">
+     Pomodoro technique
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#choosing-goals">
+   Choosing goals
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#smart-goals">
+     SMART goals
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#prioritising-work">
+   Prioritising work
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#estimating-time-needed-for-work">
+   Estimating time needed for work
+  </a>
+ </li>
+</ul>
+
+            </nav>
         </div>
     </div>
 </div>
@@ -328,6 +443,107 @@
                 
   <div class="section" id="time-management">
 <h1>Time management<a class="headerlink" href="#time-management" title="Permalink to this headline">¶</a></h1>
+<p>Although you may be primarily working on 1-2 main research projects/papers, these can have many different aspects:</p>
+<!-- Choose all that apply -->
+<ul class="simple">
+<li><p>Reading</p></li>
+<li><p>Learning new skills</p></li>
+<li><p>Admin</p></li>
+<li><p>Programming</p></li>
+<li><p>Testing</p></li>
+<li><p>Documenting</p></li>
+<li><p>Community-building</p></li>
+<li><p>Writing</p></li>
+<li><p>Speaking engagements</p></li>
+<li><p>Networking</p></li>
+</ul>
+<p>And you are also encouraged to take part in:</p>
+<!-- Choose all that apply -->
+<ul class="simple">
+<li><p>Teaching</p></li>
+<li><p>Mentoring</p></li>
+<li><p>Outreach</p></li>
+<li><p>Open Source contributions</p></li>
+<li><p>Side projects</p></li>
+<li><p>Competitions</p></li>
+<li><p>Internships</p></li>
+</ul>
+<!--TODO: Cross-reference to opportunities-->
+<p>Time management and prioritisation can help you to use your time and energy as wisely as you can.</p>
+<div class="section" id="finding-time-to-focus">
+<h2>Finding time to focus<a class="headerlink" href="#finding-time-to-focus" title="Permalink to this headline">¶</a></h2>
+<p>Some research tasks require longer periods of focus, so it can be helpful to:</p>
+<!--Choose all that are helpful for your team -->
+<ul class="simple">
+<li><p>Block calendar time for time-consuming tasks like writing and analysis.</p></li>
+<li><p>Book <a class="reference internal" href="#co-working"><span class="std std-ref">co-working</span></a> meetings for planning and working on tasks together.</p></li>
+<li><p>Use the <span class="xref std std-ref">pomodoro technique</span> to break up longer working sessions into more manageable/less unnerving chunks.</p></li>
+</ul>
+<div class="section" id="co-working">
+<span id="id1"></span><h3>Co-working<a class="headerlink" href="#co-working" title="Permalink to this headline">¶</a></h3>
+<!-- Add links to opportunities to work together for staff-->
+<p>Working together on the same schedule as other people can be very motivating.
+This might take the form of away days, working meetings, hackathons/sprints, or academic writing retreats (like <a class="reference external" href="https://writingwithpam.wordpress.com/">this</a>, or <a class="reference external" href="https://blogs.lse.ac.uk/impactofsocialsciences/2020/11/09/how-to-run-an-academic-writing-retreat-and-bring-the-campus-back-together/">this</a>).
+These kinds of events can work equally well in person or <a class="reference external" href="https://the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-coworking.html">online</a>, an for working on joint projects or individual ones.</p>
+</div>
+<div class="section" id="pomodoro-technique">
+<h3>Pomodoro technique<a class="headerlink" href="#pomodoro-technique" title="Permalink to this headline">¶</a></h3>
+<!--Recommend your own favourite tools-->
+<p>The <a class="reference external" href="https://francescocirillo.com/pages/pomodoro-technique">pomodoro technique</a> is a method for working in sets of 25 minute “tomatoes”, with 5 minute breaks in between.
+It’s especially useful for getting started on something that you aren’t looking forward to, since 25 minutes isn’t too long to commit to an unpleasant task.
+By writing down what you want to do and what you actualy did in each 25 minute block, you gain an understanding of what is achievable, which will help you to plan better over time
+You can track this using an online pomodoro tracker like <a class="reference external" href="https://mytomatoes.com/">my tomatoes</a>.</p>
+<p>It also works great for online coworking calls using a shared online timer like <a class="reference external" href="https://cuckoo.team/">this one</a> or <a class="reference external" href="https://marinaratimer.com/">this one</a>, since it allows you to have regular breaks to talk to each other.</p>
+</div>
+</div>
+<div class="section" id="choosing-goals">
+<h2>Choosing goals<a class="headerlink" href="#choosing-goals" title="Permalink to this headline">¶</a></h2>
+<!--Link to official review system-->
+<p>Thinking about career and project goals can be a useful time-management tool as it can help you to prioritise work.
+We have an official review system in place to look at these goals every <TIMEFRAME>, but we can also use group meetings or one-to-one sessions to discuss goals and priorities.</p>
+<div class="section" id="smart-goals">
+<h3>SMART goals<a class="headerlink" href="#smart-goals" title="Permalink to this headline">¶</a></h3>
+<p>All goals should be <a class="reference external" href="https://clockify.me/blog/productivity/smart-goals/">SMART</a>: Specific, Measurable, Attainable, Relevant, and Timed.
+They can apply to invidiual projects or career goals.</p>
+<p>For example, you might want to:</p>
+<ul class="simple">
+<li><p>Apply to 3 fellowships by the end of the year.</p></li>
+<li><p>Send 15 emails to advertise your study survey by the end of the month.</p></li>
+</ul>
+</div>
+</div>
+<div class="section" id="prioritising-work">
+<h2>Prioritising work<a class="headerlink" href="#prioritising-work" title="Permalink to this headline">¶</a></h2>
+<p>It’s simply not possible to say yes to all requests.
+Agree with your supervisor or manager what your priorities are, both from a personal and a group point of view.
+This could be a good use of your <a class="reference internal" href="../research-environment/one-to-ones.html"><span class="doc std std-doc">one-to-one meetings</span></a> with them.</p>
+<p>The following tools can help you decide which to say yes to:</p>
+<!-- Keep tools/practices that you and your group think are useful, and add your own-->
+<ul class="simple">
+<li><p>The <a class="reference external" href="https://www.eisenhower.me/eisenhower-matrix/">Eisenhower matrix</a> is particularly helpful in helping you distinguish between tasks which are important or urgent. It can be useful to decide importance by cross-referencing with your long-term goals/priorities.</p></li>
+<li><p>Writing out all the things that you have been thinking about as a <a class="reference external" href="https://bulletjournal.com/blogs/bulletjournalist/mental-inventory">Mental Inventory</a> can also help to identify distractions.</p></li>
+<li><p>Keeping a <a class="reference external" href="https://bulletjournal.com/pages/learn">Bullet Journal</a>, and <a class="reference external" href="https://bulletjournal.com/blogs/bulletjournalist/migration">migrating</a> tasks each day, month, or when starting a new journal, can help you to identify tasks that you continue to put off. This may represent a change in your priorities (no longer important to you) or that you need to set aside a specific time to do it.</p></li>
+<li><p>Keeping a list of opportunities that you had to say no to can help recognise saying no as an achievement. The list can serve as useful inspiration for applying for funding, or asking for more resource/assistance.</p></li>
+</ul>
+</div>
+<div class="section" id="estimating-time-needed-for-work">
+<h2>Estimating time needed for work<a class="headerlink" href="#estimating-time-needed-for-work" title="Permalink to this headline">¶</a></h2>
+<p>When planning timescales for the future work, remember to factor in time for:</p>
+<ul class="simple">
+<li><p>Holidays and sick days.</p></li>
+<li><p>A post-mortem of the project (which will help you with accurately estimating future projects).</p></li>
+</ul>
+<p>If you are planning the time needed to do a technical piece of work that you haven’t done before:</p>
+<ul class="simple">
+<li><p>Get a second opinion from someone who does this kind of work</p></li>
+<li><p>Factor in time for learning</p></li>
+</ul>
+<!--
+TODO: add something about 
+## Scheduling tasks
+E.g. GANNT, maybe link to Tools (Issue trackers, Trello, Calendar, etc
+-->
+</div>
 </div>
 
     <script type="text/x-thebe-config">
@@ -388,7 +604,6 @@
         
           By The Our Handbook Community<br/>
         
-            &copy; Copyright 2021.<br/>
       </p>
     </div>
   </footer>

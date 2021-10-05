@@ -1,9 +1,12 @@
 # Open Research Practices
 
-<!-- Keep the sections that are relevant to your Group-->
+```{admonition} FIXME Instructions
+Keep the sections that are relevant to your group.
+```
 
 ## Open Science obligations
-```{tip} 
+
+```{admonition} FIXME Instructions
 Your institution's Library or Research Office can often provide support with understanding your obligations
 ```
 
@@ -43,7 +46,11 @@ A snapshot of the code/software should be archived in `<REPOSITORY>`.
 We post preprints to `<PREPRINT SERVER>` when `<TIME POINT>`.
 
 ### Published articles
-<!-- Some, all or none of the following statements might be true for your group -->
+
+```{admonition} FIXME Instructions
+Some, all or none of the following statements might be true for your group.
+```
+
 - When choosing a journal to submit to we base our decision on which is the most appropriate for our research finding. We do not take into account the journal impact factor (JIF).
 - We only publish in fully open access journals or diamond journals. We do not pay for open access in hybrid journals.
 - `<NAME OF FUNDER(S)>` provide funding to cover the costs of paying for open access. To utilise this funding `<INSTRUCTIONS FOR ACCESSING FUNDS>`.
