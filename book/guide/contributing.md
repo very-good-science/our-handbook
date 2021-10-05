@@ -107,6 +107,7 @@ As you "commit" new changes to your forked repository, the draft Pull Request th
 ```
 
 ````{tab} In the browser
+
 1. Go to __your fork__ on GitHub `github.com/YOUR-USER-NAME/our-handbook`.
 2. Find the file that you want to edit
     - Most files you will want to edit will be in `book/guide` or `book/template`.

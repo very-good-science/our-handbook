@@ -14,3 +14,9 @@ html:
 sphinx:
     extra_extensions:
         - sphinx_inline_tabs
+    extra_footer: |
+        <p>
+            License: <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC-BY 3.0</a>
+        </p>
+    config:
+        html_show_copyright: false

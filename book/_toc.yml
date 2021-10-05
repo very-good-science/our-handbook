@@ -8,18 +8,23 @@ parts:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
     - file: guide/contributing
+      sections:
+        - file: guide/style-guide
     - file: guide/code-of-conduct
 
   - caption: Template
     chapters:
     - file: template/welcome
-    - file: template/our-team
+    - file: template/our-team/our-team
+      sections:
+        - file: template/our-team/work-with-us
+        - file: template/our-team/past-members
     - file: template/research-interests
     - file: template/projects/index
       sections:
         - file: template/projects/project1
         - file: template/projects/project2
-        - file: template/projects/recent-publications
+        - file: template/projects/recent-outputs
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
