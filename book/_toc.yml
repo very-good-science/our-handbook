@@ -23,9 +23,11 @@ parts:
       - file: template/research-environment/practicalities
       - file: template/research-environment/values
       - file: template/research-environment/tools
+      - file: template/research-environment/open-research-practices
       - file: template/research-environment/roadmap
       - file: template/research-environment/ways-of-working
     - file: template/resources/index
       sections:
       - file: template/resources/time-management
+      - file: template/research-environment/data-management
     - file: template/glossary
