@@ -16,6 +16,7 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
+You can read about individual interests in the [Our Team](book/template/our-team.md) page.
 
 <!--Medium group-->
 ```{admonition} Layout 2
@@ -33,6 +34,8 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
+You can read about individual interests in the [Our Team](book/template/our-team.md) page.
+
 <!--Large group-->
 ```{admonition} Layout 3
 **Suggested layout for large groups**
@@ -42,19 +45,19 @@ Our research is split into `<NUMBER>` of smaller work packages, as follows:
 
 ```{Work Package 1} 
 [`<TITLE OF WORK PACKAGE 1>`](book/template/projects/project1.md)
-Leader: `<NAME>`
+Leader: [`<NAME>`](book/template/our-team.md)
 Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
 ```
 
 ```{Work Package 2} 
 [`<TITLE OF WORK PACKAGE 2>`](book/template/projects/project2.md)
-Leader: `<NAME>`
+Leader: [`<NAME>`](book/template/our-team.md)
 Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
 ```
 
 ```{Work Package 3} 
 [`<TITLE OF WORK PACKAGE 3>`](book/template/projects/project3.md)
-Leader: `<NAME>`
+Leader: [`<NAME>`](book/template/our-team.md)
 Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
 ```
 <!--Repeat this format as required-->
@@ -66,7 +69,7 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
-
+You can read about individual interests in the [Our Team](book/template/our-team.md) page.
 
 
 
