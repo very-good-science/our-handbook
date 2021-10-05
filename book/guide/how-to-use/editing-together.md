@@ -14,7 +14,7 @@ This should be done ahead of other people working on the handbook, i.e. in advan
 - [ ] Make your own copy of this repo
     - [ ] Fork the repo (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
     - [ ] Make all members of your team collaborators of the forked repo (and/or members of the GitHub organisation).
-    - [ ] Ensure the group agrees on what license your handbook materials will use. By default it will use the CC-BY license (as you will copy it when you copy this repository). If you'd like to use a different license, edit it before you start making changes.
+    - [ ] Ensure the group agrees on what license your handbook materials will use. By default it will use the CC-BY license (as you will copy it when you copy this repository). If you'd like to use a different license instead, replace the LICENSE.md file in the root directory before you start making other changes.
 - [ ] Choose a day or two for an away day/book sprint. This can be done synchronously or asynchronously, and virtually or in the same space.
     - [ ] Find (a) time(s) when everyone can attend
     - [ ] Book a room if necessary
@@ -65,6 +65,6 @@ You can copy and paste the following into a GitHub mega-check-list as a starting
     - [ ] Delete the "Guide" section
 ```
 
-<!--Edit links-->
+<!-- TODO: Update links-->
 [contributing-away-day]: ../resources/contributing-fork
 [github-basics]: ../resources/github-basics
