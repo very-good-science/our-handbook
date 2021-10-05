@@ -18,6 +18,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/NatalieThurlby"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Natalie Thurlby</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/commits?author=NatalieThurlby" title="Documentation">📖</a> <a href="#mentoring-NatalieThurlby" title="Mentoring">🧑‍🏫</a></td>
     <td align="center"><a href="https://github.com/ekuw"><img src="https://avatars.githubusercontent.com/u/76116294?v=4?s=100" width="100px;" alt=""/><br /><sub><b>ekuw</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/commits?author=ekuw" title="Documentation">📖</a></td>
   </tr>
 </table>
