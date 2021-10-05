@@ -1,7 +1,7 @@
 # Editing together
 Editing the book together is one of the core ideas behind `Our Handbook`: the purpose is to ensure that everyone knows where everything is, and has the chance to share their knowledge and make sure that the group works for them. 
 We really recommend editing the book together.
-Here we provide some guidance for how you might want to organise doing that, as well as general guidance for using the handbook.
+Here we provide some guidance for how you might want to organise doing that.
 
 ## Preparations
 We recommend nominating 1-2 people from the group to do the initial set up of the `Our Handbook` template for your group and admin.
