@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tools &#8212; Our Handbook</title>
+    <title>Open Research Practices &#8212; Our Handbook</title>
     
   <link href="../../_static/css/theme.css" rel="stylesheet" />
   <link href="../../_static/css/index.c5995385ac14fb8791e8eb36b4908be2.css" rel="stylesheet" />
@@ -51,8 +51,8 @@
     <script async="async" src="../../_static/sphinx-thebe.js"></script>
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="Open Research Practices" href="open-research-practices.html" />
-    <link rel="prev" title="Values" href="values.html" />
+    <link rel="next" title="Road map" href="roadmap.html" />
+    <link rel="prev" title="Tools" href="tools.html" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="docsearch:language" content="en" />
     
@@ -205,13 +205,13 @@
      Values
     </a>
    </li>
-   <li class="toctree-l2 current active">
-    <a class="current reference internal" href="#">
+   <li class="toctree-l2">
+    <a class="reference internal" href="tools.html">
      Tools
     </a>
    </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="open-research-practices.html">
+   <li class="toctree-l2 current active">
+    <a class="current reference internal" href="#">
      Open Research Practices
     </a>
    </li>
@@ -293,7 +293,7 @@
         <!-- ipynb file if we had a myst markdown file -->
         
         <!-- Download raw file -->
-        <a class="dropdown-buttons" href="../../_sources/template/research-environment/tools.md"><button type="button"
+        <a class="dropdown-buttons" href="../../_sources/template/research-environment/open-research-practices.md"><button type="button"
                 class="btn btn-secondary topbarbtn" title="Download source file" data-toggle="tooltip"
                 data-placement="left">.md</button></a>
         <!-- Download PDF via print -->
@@ -324,35 +324,77 @@
             <nav id="bd-toc-nav" aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#tools-that-we-use-as-a-team">
-   Tools that we use as a team
+  <a class="reference internal nav-link" href="#open-science-obligations">
+   Open Science obligations
   </a>
   <ul class="nav section-nav flex-column">
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#messaging">
-     Messaging
+    <a class="reference internal nav-link" href="#funder-requirements">
+     Funder requirements
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#online-meetings">
-     Online meetings
+    <a class="reference internal nav-link" href="#institutional-requirements">
+     Institutional requirements
     </a>
    </li>
    <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#documents">
-     Documents
-    </a>
-   </li>
-   <li class="toc-h3 nav-item toc-entry">
-    <a class="reference internal nav-link" href="#programming">
-     Programming
+    <a class="reference internal nav-link" href="#national-requirements">
+     National requirements
     </a>
    </li>
   </ul>
  </li>
  <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#guidelines-for-choosing-your-own-tools">
-   Guidelines for choosing your own tools
+  <a class="reference internal nav-link" href="#outputs">
+   Outputs
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#pre-registration">
+     Pre-registration
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#protocols">
+     Protocols
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#datasets">
+     Datasets
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#code-software">
+     Code/software
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#preprints">
+     Preprints
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#published-articles">
+     Published articles
+    </a>
+   </li>
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#published-peer-review">
+     Published peer review
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#authorship-guidelines">
+   Authorship guidelines
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#licensing">
+   Licensing
   </a>
  </li>
 </ul>
@@ -366,98 +408,84 @@
         
               <div>
                 
-  <div class="section" id="tools">
-<h1>Tools<a class="headerlink" href="#tools" title="Permalink to this headline">¶</a></h1>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
-<p>Use this section to explain your philosophy regarding the use of third-party tools.
-This might be “we all use this tool”, “use whatever tool you like” or somewhere in between.</p>
-<p>By tools, we mean things like:</p>
+  <div class="section" id="open-research-practices">
+<h1>Open Research Practices<a class="headerlink" href="#open-research-practices" title="Permalink to this headline">¶</a></h1>
+<!-- Keep the sections that are relevant to your Group-->
+<div class="section" id="open-science-obligations">
+<h2>Open Science obligations<a class="headerlink" href="#open-science-obligations" title="Permalink to this headline">¶</a></h2>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Your institution’s Library or Research Office can often provide support with understanding your obligations</p>
+</div>
+<div class="section" id="funder-requirements">
+<h3>Funder requirements<a class="headerlink" href="#funder-requirements" title="Permalink to this headline">¶</a></h3>
+<p>Our group is funded by <code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">FUNDER(S)&gt;</span></code> under grants <code class="docutils literal notranslate"><span class="pre">&lt;GRANT</span> <span class="pre">CODE(S)&gt;</span></code>.
+Under our grant conditions we have to meet the requirements of <code class="docutils literal notranslate"><span class="pre">&lt;FUNDER&gt;</span></code>’s policy on open science/access.
+The full policy can be found here <code class="docutils literal notranslate"><span class="pre">&lt;URL</span> <span class="pre">LINK</span> <span class="pre">TO</span> <span class="pre">POLICY&gt;</span></code>. The policy requires <code class="docutils literal notranslate"><span class="pre">&lt;BRIEF</span> <span class="pre">DETAILS</span> <span class="pre">OF</span> <span class="pre">WHAT</span> <span class="pre">POLICY</span> <span class="pre">REQUIRES,</span> <span class="pre">E.G.</span> <span class="pre">ALL</span> <span class="pre">PUBLICATIONS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">OPEN</span> <span class="pre">ACCESS,</span> <span class="pre">DATASETS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">SHARED</span> <span class="pre">ETC&gt;</span></code></p>
+</div>
+<div class="section" id="institutional-requirements">
+<h3>Institutional requirements<a class="headerlink" href="#institutional-requirements" title="Permalink to this headline">¶</a></h3>
+<p>Our research must also comply with the institute’s policy on open science/access.
+The full policy can be found here <code class="docutils literal notranslate"><span class="pre">&lt;URL</span> <span class="pre">LINK</span> <span class="pre">TO</span> <span class="pre">POLICY&gt;</span></code>.
+The policy requires <code class="docutils literal notranslate"><span class="pre">&lt;BRIEF</span> <span class="pre">DETAILS</span> <span class="pre">OF</span> <span class="pre">WHAT</span> <span class="pre">POLICY</span> <span class="pre">REQUIRES,</span> <span class="pre">E.G.</span> <span class="pre">ALL</span> <span class="pre">PUBLICATIONS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">OPEN</span> <span class="pre">ACCESS,</span> <span class="pre">DATASETS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">SHARED</span> <span class="pre">ETC&gt;</span></code></p>
+</div>
+<div class="section" id="national-requirements">
+<h3>National requirements<a class="headerlink" href="#national-requirements" title="Permalink to this headline">¶</a></h3>
+<p>Our research must also comply with the <code class="docutils literal notranslate"><span class="pre">&lt;COUNTRY&gt;</span></code> national policy on open science/access.
+The full policy can be found here <code class="docutils literal notranslate"><span class="pre">&lt;URL</span> <span class="pre">LINK</span> <span class="pre">TO</span> <span class="pre">POLICY&gt;</span></code>.
+The policy requires <code class="docutils literal notranslate"><span class="pre">&lt;BRIEF</span> <span class="pre">DETAILS</span> <span class="pre">OF</span> <span class="pre">WHAT</span> <span class="pre">POLICY</span> <span class="pre">REQUIRES,</span> <span class="pre">E.G.</span> <span class="pre">ALL</span> <span class="pre">PUBLICATIONS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">OPEN</span> <span class="pre">ACCESS,</span> <span class="pre">DATASETS</span> <span class="pre">MUST</span> <span class="pre">BE</span> <span class="pre">SHARED</span> <span class="pre">ETC&gt;</span></code>.</p>
+</div>
+</div>
+<div class="section" id="outputs">
+<h2>Outputs<a class="headerlink" href="#outputs" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="pre-registration">
+<h3>Pre-registration<a class="headerlink" href="#pre-registration" title="Permalink to this headline">¶</a></h3>
+<p>We pre-register our research on <code class="docutils literal notranslate"><span class="pre">&lt;REGISTRY/REPOSITORY&gt;</span></code>.
+A useful guide on pre-registration can be found on the <a class="reference external" href="https://www.cos.io/initiatives/prereg?_ga=2.139416506.845472435.1633347892-837995524.1617877302">Center for Open Science</a>.</p>
+</div>
+<div class="section" id="protocols">
+<h3>Protocols<a class="headerlink" href="#protocols" title="Permalink to this headline">¶</a></h3>
+<p>We make our protocols openly available on <code class="docutils literal notranslate"><span class="pre">&lt;PLATFORM</span> <span class="pre">OF</span> <span class="pre">CHOICE&gt;</span></code> and cite them in our publications.
+We may also publish our protocols in peer reviewed journals.</p>
+</div>
+<div class="section" id="datasets">
+<h3>Datasets<a class="headerlink" href="#datasets" title="Permalink to this headline">¶</a></h3>
+<p>Datasets that support a publication or other output should be shared unless there are ethical or legal reasons not to.
+Our group generally shares datasets in <code class="docutils literal notranslate"><span class="pre">&lt;REPOSITORY&gt;</span></code>.</p>
+</div>
+<div class="section" id="code-software">
+<h3>Code/software<a class="headerlink" href="#code-software" title="Permalink to this headline">¶</a></h3>
+<p>Code or software that supports a publication or other output should be referenced in the published work.
+A snapshot of the code/software should be archived in <code class="docutils literal notranslate"><span class="pre">&lt;REPOSITORY&gt;</span></code>.</p>
+</div>
+<div class="section" id="preprints">
+<h3>Preprints<a class="headerlink" href="#preprints" title="Permalink to this headline">¶</a></h3>
+<p>We post preprints to <code class="docutils literal notranslate"><span class="pre">&lt;PREPRINT</span> <span class="pre">SERVER&gt;</span></code> when <code class="docutils literal notranslate"><span class="pre">&lt;TIME</span> <span class="pre">POINT&gt;</span></code>.</p>
+</div>
+<div class="section" id="published-articles">
+<h3>Published articles<a class="headerlink" href="#published-articles" title="Permalink to this headline">¶</a></h3>
+<!-- Some, all or none of the following statements might be true for your group -->
 <ul class="simple">
-<li><p>Programming languages</p></li>
-<li><p>Version control</p></li>
-<li><p>Document creation and sharing tools</p></li>
-<li><p>Communication and meetings platforms</p></li>
+<li><p>When choosing a journal to submit to we base our decision on which is the most appropriate for our research finding. We do not take into account the journal impact factor (JIF).</p></li>
+<li><p>We only publish in fully open access journals or diamond journals. We do not pay for open access in hybrid journals.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">FUNDER(S)&gt;</span></code> provide funding to cover the costs of paying for open access. To utilise this funding <code class="docutils literal notranslate"><span class="pre">&lt;INSTRUCTIONS</span> <span class="pre">FOR</span> <span class="pre">ACCESSING</span> <span class="pre">FUNDS&gt;</span></code>.</p></li>
+<li><p>All publications should acknowledge our funding using this wording: This work was supported by <code class="docutils literal notranslate"><span class="pre">&lt;NAME</span> <span class="pre">OF</span> <span class="pre">FUNDER&gt;</span></code> <code class="docutils literal notranslate"><span class="pre">&lt;GRANT</span> <span class="pre">CODE&gt;</span></code>.</p></li>
 </ul>
 </div>
-<p>There are a wide variety of tools that we use our day-to-day activities.
-We are flexible and allow everyone to use the tools that work best for them,
-but at the same time we recognise that it can be helpful to have an agreed set of tools that as a minimum, everyone will use.</p>
-<div class="section" id="tools-that-we-use-as-a-team">
-<h2>Tools that we use as a team<a class="headerlink" href="#tools-that-we-use-as-a-team" title="Permalink to this headline">¶</a></h2>
-<p>The following are the minimum set of tools that we ask everyone in the group to be familiar with.</p>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
-<p>We have added some initial examples in this section,
-but you should discuss with your group and agree which tools work best for everyone,
-then modify as appropriate and add links to your specific workspaces or network.</p>
-</div>
-<div class="section" id="messaging">
-<h3>Messaging<a class="headerlink" href="#messaging" title="Permalink to this headline">¶</a></h3>
-<p>We use <a class="reference external" href="https://slack.com">Slack</a> for instant messaging within the group.</p>
-<ul class="simple">
-<li><p>Say “hello!” to the team each day</p></li>
-<li><p>Prefer posting things to our communal <strong>#group</strong> channel rather than direct messages</p></li>
-<li><p>Use threads to reply to messages</p></li>
-<li><p>However, messages don’t last forever (the free version of Slack limits the size of your chat history), so don’t use it for anything you need to keep a record of</p></li>
-</ul>
-<p>We use email for sharing information with external collaborators, or where we need keep a record of the communication (for example, when getting approval for something)</p>
-<ul class="simple">
-<li><p>Email is not guaranteed to be secure and has a limit on attachment size, so when sharing documents we prefer to use SharePoint’s <a class="reference internal" href="#document-sharing"><span class="std std-ref">sharing links</span></a> feature.</p></li>
-</ul>
-</div>
-<div class="section" id="online-meetings">
-<h3>Online meetings<a class="headerlink" href="#online-meetings" title="Permalink to this headline">¶</a></h3>
-<p>We use <a class="reference external" href="https://teams.microsoft.com">Teams</a> for internal calls
-and <a class="reference external" href="https://zoom.us">Zoom</a> for calls including external collaborators.</p>
-<ul class="simple">
-<li><p>Please switch on video if you are comfortable doing so.</p></li>
-<li><p>If you plan to record the call then check everyone is happy with this before proceeding.</p></li>
-<li><p>If we need to use a collaborative whiteboard then we use <a class="reference external" href="https://jamboard.google.com">Google Jamboard</a> for internal calls,
-and <a class="reference external" href="https://miro.com">Miro</a> if we are working with external collaborators.</p></li>
-<li><p>For workshops where we need to run voting or polls, we use the features built-in to Zoom, or <a class="reference external" href="https://www.sli.do">Slido</a> if we need more functionality.</p></li>
-</ul>
-</div>
-<div class="section" id="documents">
-<span id="document-sharing"></span><h3>Documents<a class="headerlink" href="#documents" title="Permalink to this headline">¶</a></h3>
-<p>We use <a class="reference external" href="https://www.office.com">Office 365</a> most of our documents
-and store them on our <a class="reference external" href="https://www.sharepoint.com">group SharePoint site</a>, so we all have access to them</p>
-<ul class="simple">
-<li><p>Sharing links can be created to share large files securely with external collaborators, rather than using email</p></li>
-</ul>
-</div>
-<div class="section" id="programming">
-<h3>Programming<a class="headerlink" href="#programming" title="Permalink to this headline">¶</a></h3>
-<p>Some projects necessitate the use of a particular programming language.
-When there isn’t a specific requirement, we recommend checking our <a class="reference internal" href="../our-team.html"><span class="doc std std-doc">team profiles</span></a> and choosing something with the greatest overlap.
-From experience, this is likely to be either Python or R.</p>
-<p>We use Git for version control and make use of our <a class="reference external" href="https://github.com/jean-golding-institute">group organisation on GitHub</a>,
-unless a project already has its own repository.</p>
+<div class="section" id="published-peer-review">
+<h3>Published peer review<a class="headerlink" href="#published-peer-review" title="Permalink to this headline">¶</a></h3>
+<p>If there is the option to make the peer review of one of our papers public, then we opt-in to having it published.
+Group members who act as peer reviews can opt-in to published peer review as they see fit.</p>
 </div>
 </div>
-<div class="section" id="guidelines-for-choosing-your-own-tools">
-<h2>Guidelines for choosing your own tools<a class="headerlink" href="#guidelines-for-choosing-your-own-tools" title="Permalink to this headline">¶</a></h2>
-<div class="admonition hint">
-<p class="admonition-title">Hint</p>
-<p>You may have some recommendations for other tools, such as text editors.</p>
-<p>There may also be legal or data protection requirements that limit the tools you can use.</p>
+<div class="section" id="authorship-guidelines">
+<h2>Authorship guidelines<a class="headerlink" href="#authorship-guidelines" title="Permalink to this headline">¶</a></h2>
+<p>Our Group uses the <a class="reference external" href="https://casrai.org/credit/">CRediT</a> (Contributor Roles Taxonomy) terminology wherever possible.</p>
 </div>
-<p>You are welcome to make use of other tools such as text editors and development environments.</p>
-<ul class="simple">
-<li><p>We suggest you look for free, open source software</p></li>
-<li><p>If you’re not sure what to use then we recommend <a class="reference external" href="https://code.visualstudio.com/">VS Code</a> as a cross-platform code editor</p></li>
-<li><p>When doing data visualisation, we suggest you use a format that allows text and images to be included alongside code to create a narrative document</p>
-<ul>
-<li><p>For Python, we suggest creating a Jupyter Notebook using the <a class="reference external" href="https://jupyter.org/install.html">jupyterlab package</a></p></li>
-<li><p>For R, we suggest creating <a class="reference external" href="https://rmarkdown.rstudio.com/">R Markdown</a> documents using <a class="reference external" href="https://www.rstudio.com/products/rstudio/#rstudio-desktop">RStudio</a></p></li>
-</ul>
-</li>
-</ul>
-<div class="admonition warning">
-<p class="admonition-title">Warning</p>
-<p>Avoid storing <em>data</em> on third-party cloud services unless all of your project’s data is open.
-Such services will not necessarily have the same level of security and privacy protection as our official providers.</p>
-</div>
+<div class="section" id="licensing">
+<h2>Licensing<a class="headerlink" href="#licensing" title="Permalink to this headline">¶</a></h2>
+<p>Wherever possible our outputs are published under open licences. For publications etc we use <code class="docutils literal notranslate"><span class="pre">&lt;INSERT</span> <span class="pre">LICENCE</span> <span class="pre">OF</span> <span class="pre">CHOICE,</span> <span class="pre">E.G.</span> <span class="pre">CC</span> <span class="pre">BY&gt;</span></code>.
+For software and code, we preferrable use <code class="docutils literal notranslate"><span class="pre">&lt;INSERT</span> <span class="pre">LICENCE</span> <span class="pre">OF</span> <span class="pre">CHOICE,</span> <span class="pre">E.G.</span> <span class="pre">APACHE</span> <span class="pre">2.0&gt;</span></code>.</p>
 </div>
 </div>
 
@@ -491,19 +519,19 @@ Such services will not necessarily have the same level of security and privacy p
 <div class='prev-next-bottom'>
     
     <div id="prev">
-        <a class="left-prev" href="values.html" title="previous page">
+        <a class="left-prev" href="tools.html" title="previous page">
             <i class="prevnext-label fas fa-angle-left"></i>
             <div class="prevnext-info">
                 <p class="prevnext-label">previous</p>
-                <p class="prevnext-title">Values</p>
+                <p class="prevnext-title">Tools</p>
             </div>
         </a>
     </div>
      <div id="next">
-        <a class="right-next" href="open-research-practices.html" title="next page">
+        <a class="right-next" href="roadmap.html" title="next page">
             <div class="prevnext-info">
                 <p class="prevnext-label">next</p>
-                <p class="prevnext-title">Open Research Practices</p>
+                <p class="prevnext-title">Road map</p>
             </div>
             <i class="prevnext-label fas fa-angle-right"></i>
         </a>
