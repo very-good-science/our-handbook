@@ -17,7 +17,10 @@ EXAMPLE MISSION STATEMENT 1:
 -->
 
 ### Why do we have a group handbook?
-<!-- TODO: Choose the reasons that matter to your group and add your own-->
+
+```{admonition} FIXME Instructions
+Choose the reasons that matter to your group and add your own.
+```
 
 We have a group handbook to:
 - Ensure that everyone in the group can find everything they need easily 
