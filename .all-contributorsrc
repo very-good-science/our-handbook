@@ -1,0 +1,52 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "NatalieThurlby",
+      "name": "Natalie Thurlby",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
+      "profile": "https://github.com/NatalieThurlby",
+      "contributions": [
+        "doc",
+        "mentoring"
+      ]
+    },
+    {
+      "login": "ekuw",
+      "name": "ekuw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
+      "profile": "https://github.com/ekuw",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jatonline",
+      "name": "James Thomas",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
+      "profile": "https://linkedin.com/in/jatonline",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "lauren-cadwallader",
+      "name": "lauren-cadwallader",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91881263?v=4",
+      "profile": "https://github.com/lauren-cadwallader",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "our-handbook",
+  "projectOwner": "very-good-science",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
