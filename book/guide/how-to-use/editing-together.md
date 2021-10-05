@@ -15,6 +15,7 @@ This should be done ahead of other people working on the handbook, i.e. in advan
     - [ ] Fork the repo (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
     - [ ] Make all members of your team collaborators of the forked repo (and/or members of the GitHub organisation).
     - [ ] Ensure the group agrees on what license your handbook materials will use. By default it will use the CC-BY license (as you will copy it when you copy this repository). If you'd like to use a different license instead, replace the LICENSE.md file in the root directory before you start making other changes.
+    - [ ] Edit the `README.md` and `CONTRIBUTING.md` files in the root of the repo, according to the `FIXME` instructions in html comments (that look like this `<!-- FIXME: instructions-->`). You'll only be able to see these in a text (markdown) editor. Note: These look different to the other `FIXME` instructions as described in [editing-instructions](contributing-fork) because they must be invisible on the `Our Handbook` repository.
 - [ ] Choose a day or two for an away day/book sprint. This can be done synchronously or asynchronously, and virtually or in the same space.
     - [ ] Find (a) time(s) when everyone can attend
     - [ ] Book a room if necessary
@@ -26,6 +27,7 @@ This should be done ahead of other people working on the handbook, i.e. in advan
    - [ ] Create a handbook {ref}`mega-check-list<mega-check-list>` with every section that you might want to put in the book.
    - [ ] Fill in the "Our Team" section (each person fills in their own section).
    - [ ] Fill in the "Current Projects" section (nominate a person per project).
+ 
 ````
 
 ## Plan for the day(s)
