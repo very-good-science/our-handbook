@@ -65,13 +65,15 @@ For example, you might want to:
 
 ## Prioritising work
 It's simply not possible to say yes to all requests.
+Agree with your supervisor or manager what your priorities are, both from a personal and a group point of view.
+This could be a good use of your [one-to-one meetings](../research-environment/one-to-ones.md) with them.
+
 The following tools can help you decide which to say yes to:
 <!-- Keep tools/practices that you and your group think are useful, and add your own-->
 - The [Eisenhower matrix](https://www.eisenhower.me/eisenhower-matrix/) is particularly helpful in helping you distinguish between tasks which are important or urgent. It can be useful to decide importance by cross-referencing with your long-term goals/priorities. 
 - Writing out all the things that you have been thinking about as a [Mental Inventory](https://bulletjournal.com/blogs/bulletjournalist/mental-inventory) can also help to identify distractions.
 - Keeping a [Bullet Journal](https://bulletjournal.com/pages/learn), and [migrating](https://bulletjournal.com/blogs/bulletjournalist/migration) tasks each day, month, or when starting a new journal, can help you to identify tasks that you continue to put off. This may represent a change in your priorities (no longer important to you) or that you need to set aside a specific time to do it.
 - Keeping a list of opportunities that you had to say no to can help recognise saying no as an achievement. The list can serve as useful inspiration for applying for funding, or asking for more resource/assistance.
-- Prioritising tasks can also be a good use of one-to-ones.
     
 ## Estimating time needed for work
 When planning timescales for the future work, remember to factor in time for:
