@@ -102,6 +102,10 @@ Please fill out our Pull Request template as best you can.
 Now you're ready to make your changes. 
 As you "commit" new changes to your forked repository, the draft Pull Request that you created will automatically update.
 
+```{tip}
+Check our [style guide](style-guide.md) for advice on how to add content to the template, including how to add instructions to handbook authors (the users of the template).
+```
+
 ```{seealso}
 `Our Handbook` is a [jupyter book](https://jupyterbook.org/) which means that all the content for the book is written in MyST Markdown: you can find a useful cheat sheet [here](https://jupyterbook.org/reference/cheatsheet.html).
 ```
