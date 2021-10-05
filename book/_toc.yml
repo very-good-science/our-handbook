@@ -11,7 +11,10 @@ parts:
   - caption: Template
     chapters:
     - file: template/welcome
-    - file: template/our-team
+    - file: template/our-team/our-team
+      sections:
+        - file: template/our-team/work-with-us
+        - file: template/our-team/past-members
     - file: template/research-interests
     - file: template/projects/index
       sections:
