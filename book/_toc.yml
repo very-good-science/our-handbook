@@ -3,8 +3,10 @@ root: guide/what-is-our-handbook
 parts:
   - caption: User Guide
     chapters:
-#    - file: guide/what-is-our-handbook
-    - file: guide/how-to-use-overview
+    - file: guide/how-to-use/how-to-use-overview
+      sections:
+      - file: guide/how-to-use/editing-together
+      - file: guide/how-to-use/put-online
     - file: guide/contributing
     - file: guide/code-of-conduct
 
