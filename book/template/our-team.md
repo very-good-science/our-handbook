@@ -5,7 +5,8 @@ Use this page to introduce members of your team.
 Contact details, github, researchgate and twitter profiles can be
 linked from the icons in the panels below each picture.
 ```
-:::{panels}
+
+````{panels}
 :container: +full-width
 :column: col-lg-4 px-2 py-2
 ---
@@ -66,6 +67,6 @@ _Data Scientist_
 About me... `<RESEARCHER 3 NAME>` has a background in `<RESEARCH
 BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on
 `<FOCUS OF RESEARCH>`. They are currently working on `<CURRENT PROJECTS>`.
-:::
+````
 
 
