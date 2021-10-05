@@ -6,6 +6,8 @@ parts:
 #    - file: guide/what-is-our-handbook
     - file: guide/how-to-use-overview
     - file: guide/contributing
+      sections:
+        - file: guide/style-guide
     - file: guide/code-of-conduct
 
   - caption: Template
