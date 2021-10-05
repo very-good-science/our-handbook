@@ -12,12 +12,12 @@ Group leaders and members edit the book together to create a living document whi
 
 ## 2\. Edit the book with your team
 * Clone the forked repo locally
-* Set up an away day, a hack day, or a series of team meetings where you edit the book together - detailed suggestions and guidance for what to edit and how to run the sessions [here](editing-guide.md)!
+* Set up an away day, a hack day, or a series of team meetings where you edit the book together - see our suggestions and guidance for [what/how to edit](../../resources/contributing-fork) and [how to prepare for and run the sessions](editing-together.md)!
 <!-- TODO: Make a guide to handbook hack days: preparations for organisers, instructions for members, etc, i.e. install VS code, add jupyterbook plugin, etc - and link here  see our [guide to handbook hack days](hack-day.md)-->
 
 ## 3\. Make your handbook available online
 <!-- TODO: add link below-->
-* Follow the instructions [here]() to make your handbook available online.
+* Follow the instructions [here](put-online) to make your handbook available online.
 * Make sure that you link to the handbook on your group website, and in any job (including PhD studentship) openings.
 * Please tell us if you use this handbook! 
 
