@@ -5,6 +5,8 @@ Use this page to introduce members of your team.
 Contact details, github, researchgate and twitter profiles can be
 linked from the icons in the panels below each picture.
 ```
+(team)=
+## Meet the team
 :::{panels}
 :container: +full-width
 :column: col-lg-4 px-2 py-2
@@ -26,7 +28,18 @@ _Research Software Engineer_
 
 About me... `<RESEARCHER 1 NAME>` has a background in `<RESEARCH
 BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They are currently working on `<CURRENT PROJECTS>`.
+`<FOCUS OF RESEARCH>`. They enjoy `<HOBBIES>` and recently took part
+in `<FUN THING>`.
+
+**Research:** 
+[Links to research insterests]()
+
+**Current projects:** 
+[Links to projects](project1)
+
+**Past projects:** 
+[Links to projects]()
+
 ---
 :header: bg-jb-two
 ```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png
@@ -45,7 +58,17 @@ _Research Associate_
 
 About me... `<RESEARCHER 2 NAME>` has a background in `<RESEARCH
 BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They are currently working on `<CURRENT PROJECTS>`.
+`<FOCUS OF RESEARCH>`. They enjoy `<HOBBIES>` and recently took part
+in `<FUN THING>`.
+
+**Research:** 
+[Links to research insterests]()
+
+**Current projects:** 
+[Links to projects](project1)
+
+**Past projects:** 
+[Links to projects]()
 
 ---
 :header: bg-jb-three
@@ -65,7 +88,19 @@ _Data Scientist_
 
 About me... `<RESEARCHER 3 NAME>` has a background in `<RESEARCH
 BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They are currently working on `<CURRENT PROJECTS>`.
+`<FOCUS OF RESEARCH>`. They enjoy `<HOBBIES>` and recently took part
+in `<FUN THING>`.
+
+**Research:** 
+[Links to research insterests]()
+
+**Current projects:** 
+[Links to projects](project2)
+
+**Past projects:** 
+[Links to projects]()
+
+
 :::
 
 
