@@ -17,7 +17,7 @@ parts:
       sections:
         - file: template/projects/project1
         - file: template/projects/project2
-        - file: template/projects/recent-publications
+        - file: template/projects/recent-outputs
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
