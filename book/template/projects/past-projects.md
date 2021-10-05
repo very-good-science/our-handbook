@@ -37,35 +37,3 @@ This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`.
 **Key project outputs:** 
 `<LIST HERE THE KEY OUTPUTS (PUBLICATIONS, PREPRINTS, CODE, DATA ETC.) THAT HAVE BEEN MADE AVAILABLE>`
 
----
-## Former PhD Students
-```{admonition} FIXME Instructions
-If possible, link to a copy of the thesis, for example your institution may have an electronic copy online.
-If possible, link to the person's ORCID or LinkedIn profile.
-Copy the format as many times as needed.
-```
-
-`<NAME OF STUDENT>` (`<YEAR OF GRADUATION>`)
-**Thesis title:** *`<TITLE>`*
-
-`<NAME OF STUDENT>` (`<YEAR OF GRADUATION>`)
-**Thesis title:** *`<TITLE>`*
-
-`<NAME OF STUDENT>` (`<YEAR OF GRADUATION>`)
-**Thesis title:** *`<TITLE>`*
-
----
-## Former PostDocs
-```{admonition} FIXME Instructions
-If possible, link to the person's ORCID or LinkedIn profile.
-Copy the format as many times as needed.
-```
-
-`<NAME OF POSTDOC>` (`<YEARS OF EMPLOYMENTS>`)
-**Project:** `<PROJECT NAME>`
-
-`<NAME OF POSTDOC>` (`<YEARS OF EMPLOYMENTS>`)
-**Project:** `<PROJECT NAME>`
-
-`<NAME OF POSTDOC>` (`<YEARS OF EMPLOYMENTS>`)
-**Project:** `<PROJECT NAME>`

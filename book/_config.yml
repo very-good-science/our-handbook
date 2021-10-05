@@ -10,3 +10,10 @@ html:
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
             Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
         </div>
+    extra_footer: |
+        <p>
+            License: <a href="https://creativecommons.org/licenses/by/3.0/legalcode">CC-BY 3.0</a>
+        </p>
+sphinx:
+    config:
+        html_show_copyright: false
