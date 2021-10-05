@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ekuw",
+      "name": "ekuw",
+      "avatar_url": "https://avatars.githubusercontent.com/u/76116294?v=4",
+      "profile": "https://github.com/ekuw",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "our-handbook",
+  "projectOwner": "very-good-science",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
