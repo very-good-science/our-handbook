@@ -92,6 +92,10 @@ Please fill out our Pull Request template as best you can.
 Now you're ready to make your changes. 
 As you "commit" new changes to your forked repository, the draft Pull Request that you created will automatically update.
 
+```{tip}
+Check our [style guide](style-guide.md) for advice on how to add content to the template, including how to add instructions to handbook authors (the users of the template).
+```
+
 #### In the browser (browser only)
 1. Go to __your fork__ on GitHub `github.com/YOUR-USER-NAME/our-handbook`.
 2. Find the file that you want to edit
