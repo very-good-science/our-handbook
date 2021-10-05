@@ -1,6 +1,6 @@
 # Documentation and Data Management
 
-```{hint} 
+```{admonition} FIXME Instructions
 The Group's approach to documentation and data management might have been detailed in a data management plan submitted with the grant application to the funder. 
 If so, then link them here. 
 
@@ -10,8 +10,10 @@ If a data management plan doesn't exist then think about the following, agree an
 Organising files well will help you and your collaborators save time as you can find things more easily, work on the latest version and not lose any of your work!
 
 ## Data documentation
-Some files benefit from annotation or additional documentation in order to give an explanation of what the information contained in the files is or how the information was generated. 
+Some files benefit from annotation or additional documentation in order to give an explanation of what the information contained in the files is or how the information was generated.
+
 If a spreadsheet has multiple tabs it can be very useful to create a "README" tab that briefly explains what each of the tabs are and how the data was generated.
+
 A README file is also very useful for folders that contain multiple files. 
 READMEs are commonly associated with datasets but work well in any situation to give files, or their contents, extra context. 
 Cornell University have an excellent [guide to writing a README](https://data.research.cornell.edu/content/readme).
