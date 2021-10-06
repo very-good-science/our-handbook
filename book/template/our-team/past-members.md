@@ -1,91 +1,83 @@
 # Past team members
 
-
-
-```{note}
+```{admonition} FYI Instructions
 Use this page to archive the profiles of past team members, with a
 note on where they went next.
 ```
 
-:::{panels}
-:container: +full-width
+````{panels}
 :column: col-lg-4 px-2 py-2
+
 ---
-:header: bg-jb-one
-```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png
-:alt: <RESEARCHER 1 NAME>
-:width: 100%
-```
+![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 1 NAME>`** 
+**`<RESEARCHER 1 NAME>`**  
+_Research Software Engineer_  
 [{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)</br>
-_Research Software Engineer_
+[{fa}`github,style=fab`](https://www.github.com)
 
-About me... `<RESEARCHER 1 NAME>` has a background in `<RESEARCH
-BACKGROUND>` and worked with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They moved on to work in `<NEW AREA>` with `<NEW_EMPLOYER>`.
+About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
+They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 
 **Research:** 
-[Links to research insterests]()
+- `<RESEARCH INTERESTS>`
+
+**Current projects:**
+- [Project 1](../projects/project1)
 
 **Past projects:** 
-[Links to projects]()
+- ...
 
 ---
-:header: bg-jb-two
-```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png
-:alt: <RESEARCHER 2 NAME>
-:width: 100%
-```
+![<RESEARCHER 2 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 2 NAME>`**
+**`<RESEARCHER 2 NAME>`**  
+_Research Associate_  
 [{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)</br>
-_Research Associate_
+[{fa}`github,style=fab`](https://www.github.com)
 
-About me... `<RESEARCHER 2 NAME>` has a background in `<RESEARCH
-BACKGROUND>` and worked with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They moved on to work in `<NEW AREA>` with `<NEW_EMPLOYER>`.
+About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
+They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 
 **Research:** 
-[Links to research insterests]()
+- `<RESEARCH INTERESTS>`
+
+**Current projects:**
+- [Project 2](../projects/project2)
 
 **Past projects:** 
-[Links to projects]()
+- ...
 
 ---
-:header: bg-jb-three
-```{image} https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png
-:alt: <RESEARCHER 3 NAME>
-:width: 100%
-```
+![<RESEARCHER 3 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 3 NAME>`**
+**`<RESEARCHER 3 NAME>`**  
+_Data Scientist_  
 [{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`github,style=fab`](https://www.github.com)</br>
-_Data Scientist_
+[{fa}`github,style=fab`](https://www.github.com)
 
-About me... `<RESEARCHER 3 NAME>` has a background in `<RESEARCH
-BACKGROUND>` and worked with `<COLLABORATORS AND COMMUNITIES>` on
-`<FOCUS OF RESEARCH>`. They moved on to work in `<NEW AREA>` with `<NEW_EMPLOYER>`.
+About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
+They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 
 **Research:** 
-[Links to research insterests]()
+- `<RESEARCH INTERESTS>`
+
+**Current projects:**
+- [Project 1](../projects/project1)
 
 **Past projects:** 
-[Links to projects]()
-:::
+- ...
 
+````
