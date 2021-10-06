@@ -1,6 +1,6 @@
 # Our Team
 
-```{note}
+```{admonition} FYI Instructions
 Use this page to introduce members of your team. 
 Contact details, github, researchgate and twitter profiles can be
 linked from the icons in the panels below each picture.
