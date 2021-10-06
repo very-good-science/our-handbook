@@ -51,7 +51,7 @@ Suggested layout for organising your outputs by project and then by output type 
 
 The outputs of our group are organised by project and output type:
 
-## [Project 1](project1.md)
+## [Project 1](./project1)
 
 `<BRIEF DESCRIPTION OF PROJECT>`
 
@@ -67,7 +67,7 @@ The outputs of our group are organised by project and output type:
 
 [...]
 
-## [Project 2](project2.md)
+## [Project 2](./project2)
 
 `<BRIEF DESCRIPTION OF PROJECT>`
 

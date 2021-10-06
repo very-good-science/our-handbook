@@ -94,7 +94,7 @@ For example, you might want to:
 ## Prioritising work
 It's simply not possible to say yes to all requests.
 Agree with your supervisor or manager what your priorities are, both from a personal and a group point of view.
-This could be a good use of your [one-to-one meetings](../research-environment/one-to-ones.md) with them.
+This could be a good use of your [one-to-one meetings](../research-environment/one-to-ones) with them.
 
 The following tools can help you decide which to say yes to:
 

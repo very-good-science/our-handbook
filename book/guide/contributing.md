@@ -103,7 +103,7 @@ Now you're ready to make your changes.
 As you "commit" new changes to your forked repository, the draft Pull Request that you created will automatically update.
 
 ```{tip}
-Check our [style guide](style-guide.md) for advice on how to add content to the template, including how to add instructions to handbook authors (the users of the template).
+Check our [style guide](style-guide) for advice on how to add content to the template, including how to add instructions to handbook authors (the users of the template).
 ```
 
 ```{seealso}
