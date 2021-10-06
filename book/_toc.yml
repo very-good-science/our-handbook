@@ -4,10 +4,12 @@ parts:
   - caption: User Guide
     chapters:
     - file: guide/how-to-use/how-to-use-overview
+      title: How to use this template
       sections:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
     - file: guide/contributing
+      title: Contributing to our project
       sections:
         - file: guide/style-guide
     - file: guide/code-of-conduct
@@ -15,6 +17,7 @@ parts:
   - caption: Template
     chapters:
     - file: template/welcome
+      title: Welcome
     - file: template/research-interests
     - file: template/our-team/index
       sections:
