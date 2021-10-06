@@ -19,7 +19,7 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
-You can read about individual interests in the [Our Team](our-team.md) page.
+You can read about individual interests in the [Our Team](our-team/index) page.
 
 ## Suggested layout for medium groups
 
@@ -37,7 +37,7 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
-You can read about individual interests in the [Our Team](our-team.md) page.
+You can read about individual interests in the [Our Team](our-team/index) page.
 
 ## Suggested layout for large groups
 
@@ -45,11 +45,11 @@ The overarching theme of the research in the `<NAME OF GROUP>` Group is **`<SUMM
 Our research is split into `<NUMBER>` of smaller work packages, as follows:
 
 ### Work Package 1: [`<TITLE OF WORK PACKAGE 1>`](projects/project1.md)
-Leader: [`<NAME>`](our-team.md)  
+Leader: [`<NAME>`](our-team/index)  
 Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
 
 ### Work Package 2: [`<TITLE OF WORK PACKAGE 2>`](projects/project2.md)
-Leader: [`<NAME>`](our-team.md)  
+Leader: [`<NAME>`](our-team/index)  
 Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
 
 We are also more generally interested in:
@@ -61,4 +61,4 @@ Our lab is set up for research using:
 - `<DATA SOURCES OF INTEREST>`
 - `<TECHNIQUES OF INTEREST>`
 
-You can read about individual interests in the [Our Team](our-team.md) page.
+You can read about individual interests in the [Our Team](our-team/index) page.
