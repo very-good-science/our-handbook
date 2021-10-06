@@ -4,12 +4,19 @@ author: The Our Handbook Community
 # logo: images/logo.png
 url: "http://very-good-science.github.io/our-handbook"
 
+#######################################################################################
+# HTML settings
+
 html:
     extra_navbar: |
         <div>
             Handbook created using <a href="https://github.com/very-good-science/our-meta-handbook">Our Handbook</a>.
             Powered by <a href="https://jupyterbook.org/">Jupyter Book</a>.
         </div>
+    comments:
+      hypothesis: true
+      
+#######################################################################################
 
 sphinx:
     extra_extensions:
