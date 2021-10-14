@@ -24,6 +24,7 @@ linked from the icons in the panels below each picture.
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)</br>
 _Research Software Engineer_
 
@@ -54,6 +55,7 @@ in `<FUN THING>`.
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)</br>
 _Research Associate_
 
@@ -84,6 +86,7 @@ in `<FUN THING>`.
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)</br>
 _Data Scientist_
 
