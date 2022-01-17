@@ -21,6 +21,7 @@ _Research Software Engineer_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
@@ -45,6 +46,7 @@ _Research Associate_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
@@ -69,6 +71,7 @@ _Data Scientist_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
