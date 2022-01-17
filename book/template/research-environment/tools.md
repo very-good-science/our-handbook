@@ -1,6 +1,6 @@
 # Tools
 
-```{hint}
+```{admonition} FIXME Instructions
 Use this section to explain your philosophy regarding the use of third-party tools.
 This might be "we all use this tool", "use whatever tool you like" or somewhere in between.
 
@@ -20,7 +20,7 @@ but at the same time we recognise that it can be helpful to have an agreed set o
 
 The following are the minimum set of tools that we ask everyone in the group to be familiar with.
 
-```{hint}
+```{admonition} FIXME Instructions
 We have added some initial examples in this section,
 but you should discuss with your group and agree which tools work best for everyone,
 then modify as appropriate and add links to your specific workspaces or network.
@@ -53,7 +53,7 @@ and [Miro](https://miro.com) if we are working with external collaborators.
 (document-sharing)=
 ### Documents
 
-We use [Office 365](https://www.office.com) most of our documents
+We use [Office 365](https://www.office.com) for most of our documents
 and store them on our [group SharePoint site](https://www.sharepoint.com), so we all have access to them
 
 - Sharing links can be created to share large files securely with external collaborators, rather than using email
@@ -61,7 +61,7 @@ and store them on our [group SharePoint site](https://www.sharepoint.com), so we
 ### Programming
 
 Some projects necessitate the use of a particular programming language.
-When there isn't a specific requirement, we recommend checking our [team profiles](../our-team) and choosing something with the greatest overlap.
+When there isn't a specific requirement, we recommend checking our [team profiles](../our-team/index) and choosing something with the greatest overlap.
 From experience, this is likely to be either Python or R.
 
 We use Git for version control and make use of our [group organisation on GitHub](https://github.com/jean-golding-institute),
@@ -69,7 +69,7 @@ unless a project already has its own repository.
 
 ## Guidelines for choosing your own tools
 
-```{hint}
+```{admonition} FIXME Instructions
 You may have some recommendations for other tools, such as text editors.
 
 There may also be legal or data protection requirements that limit the tools you can use.
