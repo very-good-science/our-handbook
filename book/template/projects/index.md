@@ -19,7 +19,7 @@
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 
@@ -41,7 +41,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 
@@ -63,7 +63,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 
@@ -90,7 +90,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 
@@ -112,7 +112,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 
@@ -134,7 +134,7 @@ The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES
 
 The aim of this research is to `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
-**Project members:** [`<RESEARCHER 1 NAME>`](book/template/our-team.md) (project lead), [`<RESEARCHER 2 NAME>`](book/template/our-team.md) (postdoc), [`<RESEARCHER 3 NAME>`](book/template/our-team.md) (PhD student).
+**Project members:** [`<RESEARCHER 1 NAME>`](../our-team/index) (project lead), [`<RESEARCHER 2 NAME>`](../our-team/index) (postdoc), [`<RESEARCHER 3 NAME>`](../our-team/index) (PhD student).
 
 **Duration and funding:** This project is running from `<DATE>` to `<DATE>` and is funded by `<FUNDER NAME>`.
 

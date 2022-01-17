@@ -61,7 +61,7 @@ and store them on our [group SharePoint site](https://www.sharepoint.com), so we
 ### Programming
 
 Some projects necessitate the use of a particular programming language.
-When there isn't a specific requirement, we recommend checking our [team profiles](../our-team) and choosing something with the greatest overlap.
+When there isn't a specific requirement, we recommend checking our [team profiles](../our-team/index) and choosing something with the greatest overlap.
 From experience, this is likely to be either Python or R.
 
 We use Git for version control and make use of our [group organisation on GitHub](https://github.com/jean-golding-institute),
