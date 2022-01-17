@@ -1,10 +1,13 @@
-# Past team members
+# Our Team
 
 ```{admonition} FYI Instructions
-Use this page to archive the profiles of past team members, with a
-note on where they went next.
+Use this page to introduce members of your team. 
+Contact details, github, researchgate and twitter profiles can be
+linked from the icons in the panels below each picture.
 ```
 
+(team)=
+## Meet the team
 ````{panels}
 :column: col-lg-4 px-2 py-2
 
