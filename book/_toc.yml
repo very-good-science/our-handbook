@@ -27,6 +27,7 @@ parts:
       - file: template/research-environment/roadmap
       - file: template/research-environment/ways-of-working
       - file: template/research-environment/one-to-ones
+      - file: template/research-environment/journal-club
     - file: template/resources/index
       sections:
       - file: template/resources/time-management
