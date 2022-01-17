@@ -37,6 +37,7 @@ parts:
       - file: template/research-environment/open-research-practices
       - file: template/research-environment/group-meetings
       - file: template/research-environment/one-to-ones
+      - file: template/research-environment/journal-club
       - file: template/research-environment/tools
       - file: template/research-environment/roadmap
     - file: template/resources/index
