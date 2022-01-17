@@ -1,6 +1,6 @@
 # Our Handbook
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 We are working with researchers to build `Our Handbook`: a research group staff handbook template materials to help you use it. 
@@ -23,6 +23,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://linkedin.com/in/jatonline"><img src="https://avatars.githubusercontent.com/u/48878399?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Thomas</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/commits?author=jatonline" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/lauren-cadwallader"><img src="https://avatars.githubusercontent.com/u/91881263?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lauren-cadwallader</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/commits?author=lauren-cadwallader" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/mlagisz"><img src="https://avatars.githubusercontent.com/u/13009327?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Malgorzata Lagisz</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/commits?author=mlagisz" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/NatalieZelenka"><img src="https://avatars.githubusercontent.com/u/17617308?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Natalie Zelenka</b></sub></a><br /><a href="https://github.com/very-good-science/our-handbook/pulls?q=is%3Apr+reviewed-by%3ANatalieZelenka" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
