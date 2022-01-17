@@ -1,4 +1,4 @@
-## Past projects
+# Past projects
 
 ```{admonition} FIXME Instructions
 Start with most recently finished projects first and work back in chronological order.
@@ -6,7 +6,7 @@ Copy the format as many times as needed.
 ```
 
 
-**`<PAST PROJECT 1 NAME>`** 
+## `<PAST PROJECT 1 NAME>`
 
 This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
@@ -15,9 +15,7 @@ This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`.
 **Key project outputs:** 
 `<LIST HERE THE KEY OUTPUTS (PUBLICATIONS, PREPRINTS, CODE, DATA ETC.) THAT HAVE BEEN MADE AVAILABLE>`
 
----
-
-**`<PAST PROJECT 2 NAME>`** 
+## `<PAST PROJECT 2 NAME>`
 
 This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
@@ -26,9 +24,7 @@ This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`.
 **Key project outputs:** 
 `<LIST HERE THE KEY OUTPUTS (PUBLICATIONS, PREPRINTS, CODE, DATA ETC.) THAT HAVE BEEN MADE AVAILABLE>`
 
----
-
-**`<PAST PROJECT 3 NAME>`** 
+## `<PAST PROJECT 2 NAME>`
 
 This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`. 
 
@@ -36,4 +32,3 @@ This research investigated `<SUMMARISE AIMS>` using `<DATA AND/OR TECHNIQUES>`.
 
 **Key project outputs:** 
 `<LIST HERE THE KEY OUTPUTS (PUBLICATIONS, PREPRINTS, CODE, DATA ETC.) THAT HAVE BEEN MADE AVAILABLE>`
-

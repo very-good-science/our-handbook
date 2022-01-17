@@ -58,5 +58,5 @@ Choose all that apply and add your own.
 - When you present a problem, also attempt to find a solution.
 
 ```{note} Other Meetings
-One-to-one meetings aren't the only contact you'll have with the team, sometimes [group meetings](group-meetings.md) can be better places to get feedback from more people.
+One-to-one meetings aren't the only contact you'll have with the team, sometimes [group meetings](group-meetings) can be better places to get feedback from more people.
 ```

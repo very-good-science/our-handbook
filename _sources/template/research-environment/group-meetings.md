@@ -1,7 +1,7 @@
 # Group meetings
 
 ```{admonition} FIXME Instructions
-Group meetings (not be confused with [one-to-one](one-to-ones.md) meetings) can take many forms and serve different purposes.
+Group meetings (not be confused with [one-to-one](one-to-ones) meetings) can take many forms and serve different purposes.
 Generally speaking, they should be some form of regular meeting that all (or most) of your group attends.
 
 Things to consider:

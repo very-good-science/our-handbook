@@ -9,7 +9,7 @@ We're really glad to have you here!
 At the start of the project we currently have a basic skeleton for a research group handbook, and a few materials for how it might be used.
 
 We have came up with four aims for the sprint:
-1. **Complete at least two more sections of the template handbook**. Currently only the [welcome page template](../template/welcome) is complete, but we'd like to have content for at least two more sections. These might be sections that we already have placeholder pages for like ["our team"](../template/our-team), or they might be new ideas that the participants come up with e.g. "working on side projects", "getting the most out of one-to-ones", or "writing  preregistration". These might also look like resources!
+1. **Complete at least two more sections of the template handbook**. Currently only the [welcome page template](../template/welcome) is complete, but we'd like to have content for at least two more sections. These might be sections that we already have placeholder pages for like ["our team"](../template/our-team/index), or they might be new ideas that the participants come up with e.g. "working on side projects", "getting the most out of one-to-ones", or "writing  preregistration". These might also look like resources!
 2. **An example handbook using the template repository**. This will help us to show potential users what the end goal is of the handbook, e.g. "The Jean Golding Institute's Data Scientist's handbook". It will also help us to do our next aim...
 3. **Improve instructions for using the template repository**. We have some instructions, but they are missing some information and need testing to ensure they are easy to use.
 4. **Improve contribution guidelines for future contributors**. For example, we would like to be able to collect good ideas for resources for the handbook from people who've never used GitHub before, but that have a great resource that they use with their group.
@@ -18,7 +18,7 @@ So, if you're not sure where to get started, you might want to pick one of these
 For example, perhaps you'd like to make us a logo, improve the look of the website, or add some tests that run using GitHub Actions, or perhaps it's something totally different. 
 If you'd like to run an idea past us, you can chat to us either in the eLife slack
 
-We have an [eLife Sprint milestone]() on GitHub where you can check how we are getting on with our sprint goals.
+We have an [eLife Sprint milestone](https://github.com/very-good-science/our-handbook/issues/26) on GitHub where you can check how we are getting on with our sprint goals.
 
 ## Project Management
 If you'd like to get a bird's eye view of the activity during the sprint, we have an [eLife Innovation Sprint project board](https://github.com/very-good-science/our-handbook/projects/1) which we will use to keep track of everything going on during the sprint.

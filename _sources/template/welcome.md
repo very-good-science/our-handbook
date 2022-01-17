@@ -3,13 +3,13 @@ You are looking at `Our Handbook`: a template for a research group handbook. The
 
 You can:
 - Read more about the project [here](../guide/what-is-our-handbook)
-- Find out how to make your own handbook using these materials [here](../guide/how-to-use-overview).
+- Find out how to make your own handbook using these materials [here](../guide/how-to-use/how-to-use-overview).
 ```
 
 ## Welcome to the `<GROUP NAME>` Group Handbook
 
 ### What our Group does
-`<GROUP NAME>` is working with `<COLLABORATORS AND COMMUNITIES>` to discover answers to the question "`<FOCUS OF RESEARCH>`?". We have a particular interest in `<SUB-AREA OF RESEARCH 1>` and `<SUB-AREA OF RESEARCH 2>`. Check out our [`<CURRENT PROJECTS>`](projects/index) and our [`<RECENT PUBLICATIONS>`](projects/recent-publications).
+`<GROUP NAME>` is working with `<COLLABORATORS AND COMMUNITIES>` to discover answers to the question "`<FOCUS OF RESEARCH>`?". We have a particular interest in `<SUB-AREA OF RESEARCH 1>` and `<SUB-AREA OF RESEARCH 2>`. Check out our [`<CURRENT PROJECTS>`](projects/index) and our [`<RECENT PUBLICATIONS>`](projects/recent-outputs).
 
 <!-- 
 TODO:
