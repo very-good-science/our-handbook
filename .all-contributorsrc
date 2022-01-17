@@ -6,13 +6,14 @@
   "commit": false,
   "contributors": [
     {
-      "login": "NatalieThurlby",
-      "name": "Natalie Thurlby",
+      "login": "NatalieZelenka",
+      "name": "Natalie Zelenka",
       "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
       "profile": "https://github.com/NatalieThurlby",
       "contributions": [
         "doc",
-        "mentoring"
+        "mentoring",
+        "review"
       ]
     },
     {
@@ -50,15 +51,6 @@
       "profile": "https://github.com/mlagisz",
       "contributions": [
         "doc"
-      ]
-    },
-    {
-      "login": "NatalieZelenka",
-      "name": "Natalie Zelenka",
-      "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
-      "profile": "https://github.com/NatalieZelenka",
-      "contributions": [
-        "review"
       ]
     }
   ],
