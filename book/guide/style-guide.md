@@ -1,4 +1,6 @@
-# Maintaining a consistent style in the `Our Handbook` project
+# Style guide
+
+We ask that you follow these guidelines to help us maintain a consistent style in the `Our Handbook` project.
 
 ## Leaving notes for handbook authors
 
