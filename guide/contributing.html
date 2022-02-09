@@ -605,10 +605,11 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 </ul>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>If you already cloned the repository earlier, then you will instead need to pull the latest changes to the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch. You may also need to install any updated dependencies using inside your virtual environment.</p>
+<p>If you already cloned the repository earlier, then you will instead need to pull the latest changes to the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch.
+You may also need to install any updated dependencies using inside your virtual environment.</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork">Sync your fork</a> of the repository on GitHub</p></li>
-<li><p>Use <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">checkout</span> <span class="pre">develop</span></code> and <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">pull</span></code> to get the latest changes from your synced fork</p></li>
+<li><p>Use <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">checkout</span> <span class="pre">main</span></code> and <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">pull</span></code> to get the latest changes from your synced fork</p></li>
 <li><p>And <code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-U</span> <span class="pre">-r</span> <span class="pre">requirements.txt</span></code> to update the dependencies</p></li>
 </ul>
 </div>
@@ -630,7 +631,6 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 <input checked="True" class="tab-input" id="tab-set--1-input--1" name="tab-set--1" type="radio"><label class="tab-label" for="tab-set--1-input--1">In the browser</label><div class="tab-content docutils">
 <ol class="simple">
 <li><p>Go to <strong>your fork</strong> on GitHub <code class="docutils literal notranslate"><span class="pre">github.com/YOUR_USER_NAME/our-handbook</span></code></p></li>
-<li><p><a class="reference external" href="https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository">Switch branches</a> to the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch using the dropdown menu (this is where the most up-to-date version of the handbook is)</p></li>
 <li><p>Find the file that you want to edit</p>
 <ul class="simple">
 <li><p>Most files you will want to edit will be in <code class="docutils literal notranslate"><span class="pre">book/guide</span></code> or <code class="docutils literal notranslate"><span class="pre">book/template</span></code></p></li>
@@ -646,8 +646,7 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 </li>
 <li><p>Save or <em>commit</em> regularly</p>
 <ul class="simple">
-<li><p>When you’ve made a change (even if small), scroll down to where it says “Commit changes”, and type a short meaningful message describing the change you made. I recommend committing changes regularly (every 20 minutes or so)</p></li>
-<li><p>Make sure “Commit directly to the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch” is checked (if it says “the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch” then you didn’t switch branches in step 2)</p></li>
+<li><p>When you’ve made a change (even if small), scroll down to where it says “Commit changes”, and type a short meaningful message describing the change you made - we recommend committing changes regularly (every 20 minutes or so)</p></li>
 <li><p>Click “Commit changes”</p></li>
 </ul>
 </li>
@@ -655,13 +654,13 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 </div>
 <input class="tab-input" id="tab-set--1-input--2" name="tab-set--1" type="radio"><label class="tab-label" for="tab-set--1-input--2">Using your local machine</label><div class="tab-content docutils">
 <ol class="simple">
-<li><p>Check that you are working in the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch and sync any changes made by others</p>
+<li><p>Check that you are working in the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch and sync any changes made by others</p>
 <ul class="simple">
-<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">checkout</span> <span class="pre">develop</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">checkout</span> <span class="pre">main</span></code></p></li>
 <li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">pull</span></code></p></li>
 </ul>
 </li>
-<li><p>(Optional) you may wish to create a <em>feature branch</em> off the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch</p>
+<li><p>(Optional) you may wish to create a <em>feature branch</em> off the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch</p>
 <ul class="simple">
 <li><p>For example, <code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">checkout</span> <span class="pre">-b</span> <span class="pre">add-group-away-days-page</span></code></p></li>
 </ul>
@@ -684,7 +683,12 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 <li><p>Please check your changes display correctly before marking your <em>pull request</em> as ready for review (see below)</p></li>
 </ul>
 </li>
-<li><p>Save, commit, and push to your fork regularly</p></li>
+<li><p>Save, commit, and push to your fork regularly</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">commit</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">git</span> <span class="pre">push</span></code></p></li>
+</ul>
+</li>
 </ol>
 </div>
 </div>
@@ -700,7 +704,7 @@ You can wait until all your changes are made before creating your pull request, 
 Creating a <strong>draft</strong> pull request up front shows us what is actively being worked on, and it also helps you get feedback early into making your changes.
 When you add more commits, your draft pull request will automatically update.</p>
 <ul class="simple">
-<li><p>Create a pull request from your forked repository to the <code class="docutils literal notranslate"><span class="pre">develop</span></code> branch of the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> repository</p></li>
+<li><p>Create a pull request from your forked repository to the <code class="docutils literal notranslate"><span class="pre">main</span></code> branch of the <code class="docutils literal notranslate"><span class="pre">Our</span> <span class="pre">Handbook</span></code> repository</p></li>
 <li><p>We recommend you create a <strong>draft</strong> pull request as early as possible</p></li>
 <li><p>Please fill out our Pull Request template as best you can</p></li>
 </ul>
