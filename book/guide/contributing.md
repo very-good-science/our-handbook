@@ -100,9 +100,10 @@ After cloning, open a terminal in the root of the our-handbook directory and ins
 - Run `pip install -r requirements.txt`
 
 ```{note}
-If you already cloned the repository earlier, then you will instead need to pull the latest changes to the `develop` branch. You may also need to install any updated dependencies using inside your virtual environment.
+If you already cloned the repository earlier, then you will instead need to pull the latest changes to the `main` branch.
+You may also need to install any updated dependencies using inside your virtual environment.
 - [Sync your fork](https://docs.github.com/en/github/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of the repository on GitHub
-- Use `git checkout develop` and `git pull` to get the latest changes from your synced fork
+- Use `git checkout main` and `git pull` to get the latest changes from your synced fork
 - And `pip install -U -r requirements.txt` to update the dependencies
 ```
 
@@ -122,7 +123,6 @@ Check our [style guide](style-guide) for advice on how to add content to the tem
 ````{tab} In the browser
 
 1. Go to __your fork__ on GitHub `github.com/YOUR_USER_NAME/our-handbook`
-2. [Switch branches](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/viewing-branches-in-your-repository) to the `develop` branch using the dropdown menu (this is where the most up-to-date version of the handbook is)
 2. Find the file that you want to edit
     - Most files you will want to edit will be in `book/guide` or `book/template`
     - If it doesn't exist, you can [create a new file](https://docs.github.com/en/repositories/working-with-files/managing-files/creating-new-files) make sure it has the file suffix `.md`
@@ -131,16 +131,15 @@ Check our [style guide](style-guide) for advice on how to add content to the tem
     - Make changes formatted in the MyST Markdown language
     - You can preview changes, which will show you the general size of headings, but they won't be able to show some of the fancier MyST commands
 4. Save or _commit_ regularly
-    - When you've made a change (even if small), scroll down to where it says "Commit changes", and type a short meaningful message describing the change you made. I recommend committing changes regularly (every 20 minutes or so)
-    - Make sure "Commit directly to the `develop` branch" is checked (if it says "the `main` branch" then you didn't switch branches in step 2)
+    - When you've made a change (even if small), scroll down to where it says "Commit changes", and type a short meaningful message describing the change you made - we recommend committing changes regularly (every 20 minutes or so)
     - Click "Commit changes"
 ````
 
 ````{tab} Using your local machine
-1. Check that you are working in the `develop` branch and sync any changes made by others
-    - `git checkout develop`
+1. Check that you are working in the `main` branch and sync any changes made by others
+    - `git checkout main`
     - `git pull`
-2. (Optional) you may wish to create a _feature branch_ off the `develop` branch
+2. (Optional) you may wish to create a _feature branch_ off the `main` branch
     - For example, `git checkout -b add-group-away-days-page`
 3. Open the file that you want to edit in your favourite text editor
     - Website content is in either `book/guide` or `book/template`
@@ -152,6 +151,8 @@ Check our [style guide](style-guide) for advice on how to add content to the tem
     - After completion, you can open `book/_build/html/index.html` to view the website
     - Please check your changes display correctly before marking your _pull request_ as ready for review (see below)
 6. Save, commit, and push to your fork regularly
+    - `git commit`
+    - `git push`
 ````
 
 ```{seealso}
@@ -165,7 +166,7 @@ You can wait until all your changes are made before creating your pull request, 
 Creating a __draft__ pull request up front shows us what is actively being worked on, and it also helps you get feedback early into making your changes.
 When you add more commits, your draft pull request will automatically update.
 
-- Create a pull request from your forked repository to the `develop` branch of the `Our Handbook` repository
+- Create a pull request from your forked repository to the `main` branch of the `Our Handbook` repository
 - We recommend you create a __draft__ pull request as early as possible
 - Please fill out our Pull Request template as best you can
 
