@@ -1,5 +1,14 @@
 # Contributing to the `Our Handbook` template
 
+````{admonition} Using these instructions
+These instructions are for people who would like to suggest changes
+and contribute to the handbook __template materials__ provided in this
+repository. 
+
+For instructions on how to use this template to create your own
+research group handbook, please see [here](how-to-use/how-to-use-overview).
+````
+
 Welcome to `Our Handbook`, a template for a Research Group handbook and materials to help you make use of it. 
 These materials are under continuous development, and will continue to
 take shape around your suggestions, so we really welcome you to share your ideas.
