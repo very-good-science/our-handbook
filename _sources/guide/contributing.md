@@ -1,21 +1,16 @@
-# Contributing to the `Our Handbook` project
+# Contributing to the `Our Handbook` template
 
-Welcome to `Our Handbook`, thank you for your interest in growing this project!
-
-The `Our Handbook` project is a template for a Research Group handbook and materials to help you make use of those. 
-The project is currently very early in development, and will take shape around your suggestions, so we really welcome you to share your ideas.
+Welcome to `Our Handbook`, a template for a Research Group handbook and materials to help you make use of it. 
+These materials are under continuous development, and will continue to
+take shape around your suggestions, so we really welcome you to share your ideas.
 
 Please follow our [Code of Conduct](code-of-conduct) in all spaces where Our Handbook members are interacting.
 
-````{admonition} E-life Innovation Sprint
-If you're joining us for the E-life Innovation Sprint 2021, hello and welcome!
-I've put together some specific information for you about our aims, availability and where to can chat to us [over here](./elife-sprint).
-````
 
 ## Browser vs. Local machine
 
-There are two ways to suggest changes to the project via GitHub: using your internet browser, or using your local machine.
-In these contributing guidelines, you will sometimes see instructions labelled __in the browser__ or __on your local machine__ referencing these two different ways of doing things.
+There are two ways to suggest changes to the project via [GitHub](https://github.com/): using your internet browser, or using your local machine.
+In these contribution guidelines, you will sometimes see instructions labelled __in the browser__ or __on your local machine__ referencing these two different ways of doing things.
 If you need help with either of these methods, please [open a new Discussion](https://github.com/very-good-science/our-handbook/discussions/new) and we'll be happy to help!
 
 If you're comfortable using the terminal and Git (or you're interested in learning), then we recommend __using your local machine__.
@@ -35,7 +30,6 @@ This means you:
 
 ```{seealso}
 If you'd like to know more about using Git and the terminal, then we recommend [The Turing Way's chapter on Version Control](https://the-turing-way.netlify.app/reproducible-research/vcs.html) to get started.
-We're also happy to walk you through getting set up if you'd like some extra support.
 ```
 
 ## Step-by-step
@@ -54,13 +48,13 @@ If you have any problems with any part of this process or you'd like further exp
 
 Firstly, you need a GitHub account to contribute.
 
-- [Sign up for a GitHub account](https://github.com/signup) if you don't have one yet
+- [Sign up for a GitHub account](https://github.com/signup) if you don't have one yet.
 
 Secondly, decide what you'd like to work on!
 
-- Check out our [Open Issues](https://github.com/very-good-science/our-handbook/issues) for inspiration
-- We have a few [Good First Issues](https://github.com/very-good-science/our-handbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labelled, which might be a good place to start
-- If you're not sure what you'd like to do, then we're happy to help.  We can chat about that on [this discussion](https://github.com/very-good-science/our-handbook/discussions/24)
+- Check out our [Open Issues](https://github.com/very-good-science/our-handbook/issues) for inspiration.
+- We have a few [Good First Issues](https://github.com/very-good-science/our-handbook/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) labelled, which might be a good place to start.
+- If you're not sure what you'd like to do, then we're happy to help.  We can chat about that on [this discussion](https://github.com/very-good-science/our-handbook/discussions/24).
    
 ### 2. Let us know what you're working on
 
@@ -108,7 +102,7 @@ You may also need to install any updated dependencies using inside your virtual 
 ```
 
 ```{seealso}
-[Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) are some general instructions for cloning a repository, and [here]((https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository)) shows an example of cloning a fork.
+[Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) are some general instructions for cloning a repository, and [here](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) shows an example of cloning a fork.
 ```
 ````
 
@@ -171,7 +165,7 @@ When you add more commits, your draft pull request will automatically update.
 - Please fill out our Pull Request template as best you can
 
 ```{seealso}
-You can follow [these instructions](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to create the Pull Request. 
+You can follow [these instructions](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) to create the Pull Request. 
 ```
 
 ### 6. Tell us you're finished
