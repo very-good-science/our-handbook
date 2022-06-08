@@ -9,7 +9,7 @@ parts:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
     - file: guide/contributing
-      title: Contributing to our project
+      title: Contributing to this template
       sections:
         - file: guide/style-guide
     - file: guide/code-of-conduct
