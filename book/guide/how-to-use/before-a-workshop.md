@@ -5,7 +5,7 @@ Things to do before attending a workshop.
 
 ````{admonition} Group Leaders
 We expect that the different members of your group may have different levels of experience with git and GitHub.
-It would be helpful for us if each group could identify a "Group Leader" who is most experienced with GitHub - they will have some extra setup tasks and will be responsible for setting up your team's Handbook repository.
+It would be helpful for us if each group could identify a "Group Leader" who is most experienced with GitHub - this is your leader just for the handbook - they will have some extra setup tasks and will be responsible for setting up your team's Handbook repository. 
 
 ````
 
@@ -58,7 +58,7 @@ You may also like to build your handbook locally so that you can see your change
      - `git checkout main`
      - `git pull`
  - (optional) create a feature branch
-     - git checkout -b group-away-day-page
+     - `git checkout -b group-away-day-page`
  - make any edits that you want to view
  - build the site to make sure any changes are as you expect
      - go to the root of your respository and run `jb build book/`
