@@ -9,19 +9,18 @@ including forking this template to your own GitHub organisation.
 During a workshop, you can expect to:
 
 - Decide what you're going to work on
-- Spend some time working on your tasks
+- Spend some time working on your tasks#
+- Ask facilitators for help at any time!
 
 ## Decide what you're going to work on
 
-Discuss and agree what sections should be in your finished handbook
+Discuss in your group and agree what content and sections should be in your finished handbook.
 
-Create issues for each of these, with suggested tasks
+Create issues for each of these, containing suggested tasks.
 
-Decide on a rough by priority (e.g. “must-have”, “nice-to-have”)
+Decide on rough priorities (e.g. “must-have”, “nice-to-have”, "long-term-goal").
 
-Assign each person a first task
-
-TEST LINE
+Assign each person a first task.
 
 ## Spend some time working on your tasks
 
