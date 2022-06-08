@@ -1,13 +1,15 @@
 # Code of conduct
 
 We want this online space to be somewhere where everyone feels comfortable and welcome to share their expertise and ideas.
-This Code of Conduct (CoC) was adopted from [Data Ethics Club](https://very-good-science.github.io/data-ethics-club/contents/code-of-conduct.html) to ensure that those participating are protected from abuse, harassment or discrimination, and that the discussions we have are supportive and productive. 
+This Code of Conduct (CoC) was adopted from [Data Ethics Club](https://dataethicsclub.com/contents/join_in/code-of-conduct.html) to ensure that those participating are protected from abuse, harassment or discrimination, and that the discussions we have are supportive and productive. 
 It applies to all platforms where Our Handbook community members interact.
 
 This CoC is based on content from the [Jean Golding Institute’s](http://www.bristol.ac.uk/golding/) CoC for online events, [Arizona Diversity Journal Club CoC](https://www.as.arizona.edu/diversity_coffee/#two), 
 and the [Recurse Centre’s Social Rules](https://www.recurse.com/manual#sub-sec-social-rules). 
-If you would like to suggest an addition or amendment then you can [make an issue](https://github.com/very-good-science/ethical-data-science-journal-club/issues/new/choose), 
-submit a PR or [email us](mailto:natalie.thurlby@bristol.ac.uk).
+If you would like to suggest an addition or amendment then you can
+[make an
+issue](https://github.com/very-good-science/ethical-data-science-journal-club/issues/new/choose),
+or submit a pull request.
 
 ## Unacceptable behaviours
 Unacceptable behaviours will result in immediate action and potentially lead to suspension from future meetings. 
@@ -36,5 +38,7 @@ The below Do-s and Don’t-s are guidelines to remind us all of best standards o
 - Feign shock/incredulity when someone doesn’t know something you think is obvious. 
 
 ## Reporting Procedure
-If you have been subject to or witnessed unacceptable behaviour, either during a meeting or on this repository, then you can get in touch with Natalie at natalie.thurlby@bristol.ac.uk  
-If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to Patricia Holley ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at p.holley@bristol.ac.uk
+If you have been subject to or witnessed unacceptable behaviour,
+either during a meeting or on this repository, then you can get in
+touch. 
+If you would prefer to contact someone who is not directly involved in organising the group, then you can direct your concerns to ([JGI Manager](http://www.bristol.ac.uk/golding/people/team/)), at jgi-admin@bristol.ac.uk
