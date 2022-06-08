@@ -15,7 +15,7 @@ Mark this Pull Request as Ready for Review when you're happy with all the change
 <!-- Maintainers: please check the following before you merge-->
 - [ ] Built site locally.
 - [ ] Changes are as discussed in issue.
-- [ ] The PR is to the Our Handbook `develop` branch
+- [ ] The PR is to the Our Handbook `main` branch
 - [ ] New pages are linked in the TOC/navigation?
 - [ ] Have we added the contributor to our all-contributors?
 - [ ] One sentence per line
