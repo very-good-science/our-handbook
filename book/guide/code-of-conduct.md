@@ -22,7 +22,7 @@ Unacceptable behaviours include but are not limited to:
 * Real or implied threat of professional or financial damage or harm.
 * Inappropriate disruption of meetings or events.
 * Photographing, video or audio recording of slides, oral or poster presentations without presenter/author’s permission.
-* Violating the rules and regulations of the online platform (e.g. Zoom)
+* Violating the rules and regulations of the online platform (e.g. Zoom).
 
 ## Discussion Guidelines
 The below Do-s and Don’t-s are guidelines to remind us all of best standards of behaviour in meetings, and to make sure the discussion environment is a welcoming place! 
