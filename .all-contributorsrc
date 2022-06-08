@@ -52,6 +52,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "RichardP1234",
+      "name": "RichardP1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42965322?v=4",
+      "profile": "https://github.com/RichardP1234",
+      "contributions": [
+        "example",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
