@@ -34,7 +34,7 @@ Group leaders and members edit the book together to create a living document whi
 ## 3. Make your handbook available online
 
 <!-- TODO: add link below-->
-* Follow the instructions [here](./put-online) to make your handbook available online.
+* Follow the instructions [here](https://github.com/very-good-science/our-handbook/blob/main/book/guide/how-to-use/put-online.md) to make your handbook available online.
 * Make sure that you link to the handbook on your group website, and in any job (including PhD studentship) openings.
 * Please tell us if you use this handbook! 
 
