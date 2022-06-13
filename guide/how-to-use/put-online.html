@@ -434,12 +434,46 @@ title="Print to PDF"
     </ul>
   </div>
 </div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
 
     </div>
 </div>
 
 <!-- Table of contents -->
 <div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#create-merge-request">
+   1. Create Merge request
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#github-actions">
+   2. GitHub Actions
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#github-pages">
+   3. GitHub pages
+  </a>
+ </li>
+</ul>
+
+    </nav>
 </div>
     </div>
     <div class="article row">
@@ -451,6 +485,29 @@ title="Print to PDF"
                 <div id="print-main-content">
                     <div id="jb-print-toc">
                         
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#create-merge-request">
+   1. Create Merge request
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#github-actions">
+   2. GitHub Actions
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#github-pages">
+   3. GitHub pages
+  </a>
+ </li>
+</ul>
+
+                        </nav>
                     </div>
                 </div>
             </div>
@@ -460,6 +517,31 @@ title="Print to PDF"
                 
   <section class="tex2jax_ignore mathjax_ignore" id="put-your-handbook-online">
 <h1>Put your handbook online<a class="headerlink" href="#put-your-handbook-online" title="Permalink to this headline">#</a></h1>
+<p>To make your handbook visible online, follow these instructions.</p>
+<section id="create-merge-request">
+<h2>1. Create Merge request<a class="headerlink" href="#create-merge-request" title="Permalink to this headline">#</a></h2>
+<ul class="simple">
+<li><p>See <span class="xref myst">here</span> for insructions on editting the merge requests.</p></li>
+</ul>
+</section>
+<section id="github-actions">
+<h2>2. GitHub Actions<a class="headerlink" href="#github-actions" title="Permalink to this headline">#</a></h2>
+<ul class="simple">
+<li><p>GitHub actions makes it easy to automate all your software workflows with CI/CD builds.</p></li>
+<li><p>Navigate to <code class="docutils literal notranslate"><span class="pre">Actions</span></code> from the top submenu and make sure actions are switched on by following the prompt.</p></li>
+<li><p>Workflows are listed on the right-hand-side of this page.</p></li>
+<li><p>Both <code class="docutils literal notranslate"><span class="pre">build-site</span></code> and <code class="docutils literal notranslate"><span class="pre">deploy-book</span></code> are triggered automatically upon a Merge Request, here you can monitor when they finish.</p></li>
+</ul>
+</section>
+<section id="github-pages">
+<h2>3. GitHub pages<a class="headerlink" href="#github-pages" title="Permalink to this headline">#</a></h2>
+<ul class="simple">
+<li><p>From the top-menu navigate to <code class="docutils literal notranslate"><span class="pre">Setting</span></code></p></li>
+<li><p>From the left side menu click on <code class="docutils literal notranslate"><span class="pre">Pages</span></code></p></li>
+<li><p>You will see the URL of your handbook in the highlighted box (“Your site is ready to be published at &lt;&gt;”)</p></li>
+<li><p><strong>make sure</strong> the <code class="docutils literal notranslate"><span class="pre">Source</span></code> is set to the <code class="docutils literal notranslate"><span class="pre">gh-pages</span></code> branch and click <code class="docutils literal notranslate"><span class="pre">Save</span></code></p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
