@@ -20,3 +20,4 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
+        html_last_updated_fmt: "%Y-%m-%d (%H:%M %Z)" 
