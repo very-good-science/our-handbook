@@ -1,10 +1,10 @@
-# Past team members
+# Collaborators
 
 ```{admonition} FYI Instructions
 Use this page to archive the profiles of past team members, with a
 note on where they went next.
 ```
-
+Mwhahahah
 ````{panels}
 :column: col-lg-4 px-2 py-2
 

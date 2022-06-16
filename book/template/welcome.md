@@ -1,4 +1,3 @@
-
 ## Welcome to the `Ageing and Movement Research Group` Group Handbook
 
 Welcome to our Ageing and Movement Research Group. We are a dynamic group of investigators from multidisciplinary backgrounds.  We are a passionate, active and collaborative team improving the wellbeing and quality of life of older people through an innovative and dynamic programme of research. We perform high quality, innovative research in ageing and geriatric medicine, neurodegenerative disease and clinical trials in older people.  
@@ -8,6 +7,7 @@ Our translational portfolio of work spans understanding mechanisms of health and
 We recognised that to tackle global population ageing we need a workforce who are equipped with skills to deal with the unique  complex health and social care needs of older adults. We have modernised the delivery of undergraduate education in geriatric medicine to ensure future doctors are equipped with the skills needs to care for older people. We invest and support early career researchers to inspire and support the future of research in ageing and geriatric medicine.   
 
 We are committed in enabling and building a collaborative team of researchers to undertake high quality research that makes a meaningful difference to the lives of older people.  
+
 
 “Ageing is the extraordinary process where you become the person you always should have been.”
 
