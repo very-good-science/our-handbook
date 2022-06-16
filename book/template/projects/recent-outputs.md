@@ -2,56 +2,52 @@
 
 # Outputs and Activities
 
-```{admonition} FIXME Instructions
-Choose whichever layout and content is best for your group and delete the rest.
 
-Add links where possible.
-```
+## [CHIEF-PD]([./CHIEF-PD](http://www.bris.ac.uk/chief-pd))
+![image](../../../chiefpd.png)
 
-```{admonition} FIXME Instructions
-Suggested layout for organising your outputs by type - may work better for smaller groups with fewer projects and outputs.
-```
+The CHIEF-PD trial is a medical research trial examining whether drugs normally used to treat people with memory problems can be used to reduce the number of falls that people with Parkinson’s experience. The trial aims to recruit 600 participants over 2 years from 26 sites around the UK. 
 
-Our group has produced the following types of outputs:
-
-## Peer-reviewed publications
+For more information, please visit the [CHIEF-PD website]([./CHIEF-PD](http://www.bris.ac.uk/chief-pd))
+### Peer-reviewed publications
 (journal articles, chapters, books, etc.)
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-## Non peer-reviewed publications
+### Non peer-reviewed publications
 (preprints, documentation, posters, reports, policy briefs, popular articles and books, blogs, etc.)
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-## Software
-(packages, web apps, phone apps, etc.)
-- `<SOFTWARE 1>`
-- `<SOFTWARE 2>`
-
-## Data
-(datasets, databases, etc.)
-- `<DATA 1>`
-- `<DATA 2>`
-
-## Media and artwork
-(videos, data visualisations, webpages, exhibitions, etc.)
-- `<MEDIA 1>`
-- `<MEDIA 2>`
-
-## Academic events
+### Academic events
 (conferences, workshops, hackathons, panels, courses, etc.)
 - `<EVENT 1>`
 - `<EVENT 2>`
 
+# PRIME Parkinson
 
-```{admonition} FIXME Instructions
-Suggested layout for organising your outputs by project and then by output type - may work better when there are many diverse projects.
-```
+<img style="text-align:right" src="https://github.com/danipendrybrazier/AMRG-handbook/blob/90e16c6e5b592eb4e379c8550b1b8b40c09bdd96/PP_Logo_PurpleTeal_RGB.png" alt="PRIME Logo" width="300"/>
 
-The outputs of our group are organised by project and output type:
+## [PRIME-RCT]([./PRIME-RCT](https://primeparkinson.blogs.bristol.ac.uk/))
 
-## [Project 1](./project1)
+The Prime Parkinson UK project is a research project aiming to develop a new model of care for people with Parkinson's Disease. The five year trial, led by Dr Emily Henderson, will see the implementation of a new integrated care model designed specifically for people with Parkinson’s disease across two health hubs in Bath, UK and Nijmegen, Netherlands.
+
+### Peer-reviewed publications
+(journal articles, chapters, books, etc.)
+- `<PUBLICATION 1>`
+- `<PUBLICATION 2>`
+
+### Non peer-reviewed publications
+(preprints, documentation, posters, reports, policy briefs, popular articles and books, blogs, etc.)
+- `<PUBLICATION 1>`
+- `<PUBLICATION 2>`
+
+### Academic events
+(conferences, workshops, hackathons, panels, courses, etc.)
+- `<EVENT 1>`
+- `<EVENT 2>`
+
+## [PRIME Cross-Sectional](./PRIME-XS)
 
 `<BRIEF DESCRIPTION OF PROJECT>`
 
@@ -65,9 +61,12 @@ The outputs of our group are organised by project and output type:
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-[...]
+### Academic events
+(conferences, workshops, hackathons, panels, courses, etc.)
+- `<EVENT 1>`
+- `<EVENT 2>`
 
-## [Project 2](./project2)
+## [PRIME-EPI](./PRIME-EPI)
 
 `<BRIEF DESCRIPTION OF PROJECT>`
 
@@ -81,16 +80,19 @@ The outputs of our group are organised by project and output type:
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-[...]
+### Academic events
+(conferences, workshops, hackathons, panels, courses, etc.)
+- `<EVENT 1>`
+- `<EVENT 2>`
 
+## [Developing Medical Education in Geriatrics]([./GerisMedEd](https://gerismeded.blogs.bristol.ac.uk/))
 
-```{admonition} FIXME Instructions
-Suggested layout for organising your outputs by year and output type - may work better for large groups with many outputs in each year.
-```
+![image](https://github.com/danipendrybrazier/AMRG-handbook/blob/90e16c6e5b592eb4e379c8550b1b8b40c09bdd96/cmop%20logo.png)
+![image](https://github.com/danipendrybrazier/AMRG-handbook/blob/90e16c6e5b592eb4e379c8550b1b8b40c09bdd96/stomp%20logo.png)
 
-The outputs of our group are organised by year and output type:
+As Bristol Medical School transitions from MB16 to the new MB21 curriculum, it offers a unique opportunity for evaluation and innovation in medical education. This project will be tracking the impact of the expanded 18 week programme in geriatric medicine on short-term and long-term outcomes for Bristol undergraduates. This work is generously supported by funding from The Dunhill Medical Trust.
 
-## `<YEAR 1>`
+ You can follow our progress on Twitter @GerisMedEd  and head to our website for more information. 
 
 ### Peer-reviewed publications
 (journal articles, chapters, books, etc.)
@@ -102,11 +104,16 @@ The outputs of our group are organised by year and output type:
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-[...]
+### Academic events
+(conferences, workshops, hackathons, panels, courses, etc.)
+- `<EVENT 1>`
+- `<EVENT 2>`
 
-### `<YEAR 2>`
+## [Other](./other)
 
-## Peer-reviewed publications
+`<BRIEF DESCRIPTION OF PROJECT>`
+
+### Peer-reviewed publications
 (journal articles, chapters, books, etc.)
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
@@ -116,4 +123,7 @@ The outputs of our group are organised by year and output type:
 - `<PUBLICATION 1>`
 - `<PUBLICATION 2>`
 
-[...]
+### Academic events
+(conferences, workshops, hackathons, panels, courses, etc.)
+- `<EVENT 1>`
+- `<EVENT 2>`
