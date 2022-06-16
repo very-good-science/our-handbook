@@ -1,3 +1,7 @@
+```{note}
+Here as part of the Bristol Data Week Research Group Handbook Sprint? [Read the workshop information](./how-to-use/data-week-2022.md)
+```
+
 # What is `Our Handbook`?
 
 We are working with researchers to build `Our Handbook`: a research group staff handbook template materials to help you use it. 

@@ -9,6 +9,7 @@ parts:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
       - file: guide/how-to-use/during-a-workshop
+      - file: guide/how-to-use/before-a-workshop
     - file: guide/contributing
       title: Contributing to our project
       sections:
