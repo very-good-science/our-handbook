@@ -1,8 +1,10 @@
 
 ## Welcome to the Ultrasonics and Non-Destructive Testing (UNDT) Group Handbook
 
+![](https://hackmd.io/_uploads/BJ4echUst.png)
+
 ### What our Group does
-The Ultrasonics and Non-Destructive Testing (UNDT) group undertake internationally leading research into the fundamentals and applications of ultrasonics. With six core members of academic staff and a dedicated team of 25 PhD/EngD students and research assistants, we have a diverse range of projects underway and are always open to new ideas and collaborations.
+The Ultrasonics and Non-Destructive Testing (UNDT) group undertake internationally leading research into the fundamentals and applications of ultrasonics. With six core members of academic staff and a dedicated team of 25 PhD/EngD students and research associates, we have a diverse range of projects underway and are always open to new ideas and collaborations.
 
 Check out our [`Projects`](projects/index) and our useful [`Resources`](resources).
 
@@ -16,10 +18,4 @@ We have a group handbook to:
 - Be explicit about our roles and responsibilities
 - Foster a culture of healthy working
 - Help everyone to feel included in decision making and lab culture (which is why we created this together)
-
-
-```{note}
-This handbook was created using materials from the [Our Handbook project website](https://very-good-science.github.io/our-handbook).
-```
-
 
