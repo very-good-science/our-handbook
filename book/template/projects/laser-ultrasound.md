@@ -1,4 +1,4 @@
-(project2)=
+(laser-ultrasound)=
 ## Laser ultrasound remote inspection
 
 ## Brief Description
