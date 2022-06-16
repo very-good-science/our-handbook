@@ -1,64 +1,23 @@
 # Research Interests
 
-```{admonition} FIXME Instructions
-Choose whichever layout is best for your Group and delete the rest.
-```
+The overarching theme of the research in the Ageing and Movement Research Group is to improve the wellbeing and quality of life of older people. 
 
-## Suggested layout for small group
 
-The `<NAME OF GROUP>` is researching the question: **`<SUMMARISE RESEARCH IN ONE SHORT QUESTION>`**.
-We are approaching this research by using `<DATA SOURCES>` and `<TECHNIQUES/ANALYTICAL METHODS>`.
-Read more about [our project](projects/project1).
+Our research group has a key interest in improving the quality of life of people with Parkinson's Disease as well as their caregivers.
 
-We are also more generally interested in:
+- **Fall prevention in Parkinson’s, neurodegenerative disease and ageing** - 
 
-- Questions around `<INSERT TOPICS>`
+We are seeking to establish whether cognitive enhancement with cholinesterase inhibitors prevents people with Parkinson’s from falling. The £2.1 million NIHR funded CHIEF-PD trial is underway, recruiting 600 people at sites across the UK and builds on the foundational ReSPOND trial that we completed and published in Lancet Neurology in 2016.
 
-Our lab is set up for research using:
+- **Improving Parkinson’s monitoring, treatment and care** - 
 
-- `<DATA SOURCES OF INTEREST>`
-- `<TECHNIQUES OF INTEREST>`
+Recognising that care for older people and those with Parkinson’s is often fragmented and reactive, we are seeking to trial new ways of delivering care with cutting edge treatments and monitoring. The PRIME Parkinson programme is a £10 million programme of research that we are undertaking in collaboration with Prof Bas Bloem and Dr Marten Munneke at Radboud University, Netherlands.
 
-You can read about individual interests in the [Our Team](our-team/index) page.
 
-## Suggested layout for medium groups
+We are also more generally interested in improving the training currently provided for Geriatric Medicine:
 
-The overarching theme of the research in the `<NAME OF GROUP>` Group is **`<SUMMARISE THEME>`**.
-Our research focuses on a couple of areas:
-- **[Project 1](projects/project1)** - `<BRIEF DESCRIPTION OF PROJECT>`
-- **[Project 2](projects/project2)** - `<BRIEF DESCRIPTION OF PROJECT>`
+- **Transforming Training in Geriatric Medicine**-
 
-We are also more generally interested in:
+We have developed an innovative undergraduate geriatrics curriculum which is delivered via an 18-week clerkship at the University of Bristol. Embedded within this is a mixed-methods programme of research to evaluate and innovate undergraduate teaching in geriatric medicine
 
-- Questions around `<INSERT TOPICS>`
 
-Our lab is set up for research using:
-
-- `<DATA SOURCES OF INTEREST>`
-- `<TECHNIQUES OF INTEREST>`
-
-You can read about individual interests in the [Our Team](our-team/index) page.
-
-## Suggested layout for large groups
-
-The overarching theme of the research in the `<NAME OF GROUP>` Group is **`<SUMMARISE THEME>`**.
-Our research is split into `<NUMBER>` of smaller work packages, as follows:
-
-### Work Package 1: [`<TITLE OF WORK PACKAGE 1>`](projects/project1)
-Leader: [`<NAME>`](our-team/index)  
-Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
-
-### Work Package 2: [`<TITLE OF WORK PACKAGE 2>`](projects/project2)
-Leader: [`<NAME>`](our-team/index)  
-Keywords: `<ENTER KEYWORDS FOR THE INTERESTS OF THIS GROUP>`
-
-We are also more generally interested in:
-
-- Questions around `<INSERT TOPICS>`
-
-Our lab is set up for research using:
-
-- `<DATA SOURCES OF INTEREST>`
-- `<TECHNIQUES OF INTEREST>`
-
-You can read about individual interests in the [Our Team](our-team/index) page.
