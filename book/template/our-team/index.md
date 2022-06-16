@@ -17,9 +17,10 @@ linked from the icons in the panels below each picture.
 
 **`Dr Emily Henderson`**  
 _Group Lead_  
-[{fa}`at`](Emily.Henderson@bristol.ac.uk)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/@dremhenderson)
+Email: Emily.Henderson@bristol.ac.uk
+Twitter: twitter.com/@dremhenderson
+Pure: https://research-information.bris.ac.uk/en/persons/emily-j-henderson
+ORCID: https://orcid.org/0000-0002-0016-1870
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
 They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
@@ -37,14 +38,11 @@ They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
 ![<RESEARCHER 2 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
 ^^^
 
-**`<RESEARCHER 2 NAME>`**  
-_Research Associate_  
-[{fa}`at`](mailto:USERNAME@ORGANIZATION.NET)
-[{fa}`linkedin,style=fab`](https://www.linkedin.com)
-[{fa}`twitter,style=fab`](https://twitter.com/)
-[{fa}`researchgate,style=fab`](https://www.researchgate.net/)
-[{fa}`orcid,style=fab`](https://orcid.org/)
-[{fa}`github,style=fab`](https://www.github.com)
+**`Professor Yoav Ben-Shlomo`**  
+_Professor of Clinical Epidemiology_  
+Email: y.ben-shlomo@bristol.ac.uk
+Pure: https://research-information.bris.ac.uk/en/persons/yoav-ben-shlomo
+ORCID: https://orcid.org/0000-0001-6648-3007
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
 They enjoy `<HOBBIES>` and recently took part in `<FUN THING>`.
