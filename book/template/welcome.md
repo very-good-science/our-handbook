@@ -1,10 +1,6 @@
-```{note}
-You are looking at `Our Handbook`: a template for a research group handbook. The content you are seeing is part of materials designed to help research groups co-create group handbooks together.
-
-You can:
-- Read more about the project [here](../guide/what-is-our-handbook)
-- Find out how to make your own handbook using these materials [here](../guide/how-to-use/how-to-use-overview).
-```
+<p align="center">
+  <img src="https://github.com/AMRG-University-of-Bristol/AMRG-handbook/blob/42182a9f0242fb1f5527422d5394b5035d0fd669/armg%20logo.png" />
+</p>
 
 ## Welcome to the `<GROUP NAME>` Group Handbook
 
