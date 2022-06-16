@@ -19,7 +19,7 @@ Group leaders and members edit the book together to create a living document whi
 * Click `Edit this file` 🖊 in the top-right submenu and make your changes.
 * All changes can be previewed by switching to the `Preview` window.
 * Scrawl to the bottom of the page and under `Commit changes` type in a commit message (e.g. "adding team member to `index.md`").
-* Check "Create a new branch for this commit and start a pull request" box, giving your branch an appopiate name (e.g. <my-inital>-team-update).
+* Check "push to main branch" box.
 * Click `Propose changes`.
 * To add your changes to the group book, navigate to the homepage of your repository and click "compare & pull request".
 * Write a quick description on your changes and click "Create pull request".
