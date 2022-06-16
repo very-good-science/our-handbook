@@ -8,17 +8,21 @@ Group leaders and members edit the book together to create a living document whi
 
 ## 1. Make your own copy this repo
 
-* Nominate a group memeber to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) the repo. (if your group doesn't have a GitHub organisation, perhaps make one and fork to there).
-* All other group members fork the orangisation repo 
+* Nominate a group memeber to
+[fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
+this repo.
+** If your group doesn't have a GitHub organisation, we suggest that
+you [create](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) one, and then fork this repo. to the organisation account.
+* All other group members fork the orangisation repo. 
 
 ## 2. Edit the book with your team
 
 ### Via web:
 
-* Navigate to your forked repository, in `<book name>/book/template`choose the section of the book you'd like to edit (e.g. adding team-members).
+* Navigate to your forked repository, in `<book name>/book/template` choose the section of the book you'd like to edit (e.g. adding team-members).
 * Click `Edit this file` 🖊 in the top-right submenu and make your changes.
 * All changes can be previewed by switching to the `Preview` window.
-* Scrawl to the bottom of the page and under `Commit changes` type in a commit message (e.g. "adding team member to `index.md`").
+* Scroll to the bottom of the page and under `Commit changes` type in a commit message (e.g. "adding team member to `index.md`").
 * Check "Create a new branch for this commit and start a pull request" box, giving your branch an appopiate name (e.g. <my-inital>-team-update).
 * Click `Propose changes`.
 * To add your changes to the group book, navigate to the homepage of your repository and click "compare & pull request".
