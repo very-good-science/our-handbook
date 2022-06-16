@@ -71,6 +71,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "l-gorman",
+      "name": "Léo Gorman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/55786252?v=4",
+      "profile": "https://www.turing.ac.uk/people/doctoral-students/leo-gorman",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
