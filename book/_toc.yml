@@ -19,7 +19,6 @@ parts:
     chapters:
     - file: template/welcome
       title: Welcome
-    - file: template/research-interests
     - file: template/our-team/index
       sections:
         - file: template/our-team/work-with-us
@@ -46,4 +45,7 @@ parts:
       sections:
       - file: template/resources/time-management
       - file: template/resources/data-management
+    - file: template/tutorials
+      sections:
+      - file: template/tutorials/interactive-plot
     - file: template/glossary
