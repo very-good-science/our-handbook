@@ -2,7 +2,7 @@
 ## Laser ultrasound remote inspection
 
 ## Brief Description
-The BLU (Bristol Laser Ultrasound) Teams
+The BLU (Bristol Laser Ultrasound) Team tackles the challenges associated with remote non-destructive evaluation, where the transmission and the reception of ultrasonic signals are achieved using lasers.
 
 
 ## Associated Researchers
