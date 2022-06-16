@@ -24,7 +24,7 @@ For more information, please visit the [CHIEF-PD website] (http://www.bris.ac.uk
 - `<EVENT 1>`
 - `<EVENT 2>`
 
-## [PRIME-RCT]([./PRIME-RCT] https://primeparkinson.blogs.bristol.ac.uk/](https://primeparkinson.blogs.bristol.ac.uk/))
+## [PRIME-RCT] ([./PRIME-RCT] https://primeparkinson.blogs.bristol.ac.uk/](https://primeparkinson.blogs.bristol.ac.uk/))
 
 The Prime Parkinson UK project is a research project aiming to develop a new model of care for people with Parkinson's Disease. The five year trial, led by Dr Emily Henderson, will see the implementation of a new integrated care model designed specifically for people with Parkinson’s disease across two health hubs in Bath, UK and Nijmegen, Netherlands.
 
