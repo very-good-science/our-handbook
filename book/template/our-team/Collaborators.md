@@ -1,4 +1,4 @@
-# Past team members
+# Collaborators
 
 ```{admonition} FYI Instructions
 Use this page to archive the profiles of past team members, with a
