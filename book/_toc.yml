@@ -19,17 +19,17 @@ parts:
     chapters:
     - file: template/welcome
       title: Welcome
-    - file: template/research-interests
     - file: template/our-team/index
       sections:
         - file: template/our-team/work-with-us
         - file: template/our-team/past-members
     - file: template/projects/index
       sections:
-        - file: template/projects/laser-ultrasound
-        - file: template/projects/array-imaging
-        - file: template/projects/machine-learning
-        - file: template/projects/pipebots-theme2
+        - file: template/projects/1-array-imaging
+        - file: template/projects/2-laser-ultrasound
+        - file: template/projects/3-pipebots-theme2
+        - file: template/projects/4-machine-learning
+        - file: template/projects/5-acoustic-manipulation
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
@@ -45,4 +45,7 @@ parts:
       sections:
       - file: template/resources/time-management
       - file: template/resources/data-management
+    - file: template/tutorials
+      sections:
+      - file: template/tutorials/interactive-plot
     - file: template/glossary
