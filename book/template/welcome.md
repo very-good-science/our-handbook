@@ -1,6 +1,12 @@
+
+<p align="center">
+  <img src="https://github.com/AMRG-University-of-Bristol/AMRG-handbook/blob/42182a9f0242fb1f5527422d5394b5035d0fd669/armg%20logo.png" />
+</p>
+
 ## Welcome to the AMRG Handbook
 
 Welcome to our Ageing and Movement Research Group. We are a dynamic group of investigators from multidisciplinary backgrounds.  We are a passionate, active and collaborative team improving the wellbeing and quality of life of older people through an innovative and dynamic programme of research. We perform high quality, innovative research in ageing and geriatric medicine, neurodegenerative disease and clinical trials in older people.  
+
 
 Our translational portfolio of work spans understanding mechanisms of health and disease across the life course, to testing novel drugs and biomarkers, to innovation in healthcare delivery and medical education.  Our clinical studies address important uncertainties around health conditions and wellbeing in later life. These studies are inclusive with tangible results that yield meaningful differences to the lives of older people. 
 
