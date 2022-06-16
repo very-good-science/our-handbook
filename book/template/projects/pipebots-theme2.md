@@ -17,4 +17,4 @@ The research programme for this Grant is made up from seven inter-related resear
 ## Papers
 [1. Towlson A, Yu Y, Sailor G, Horoshenkov K,  Croxford A and Drinkwater B (2021) Acoustic and Ultrasonic Characterisation of Blockages and Defects in Underground Pipes, 2021 IEEE Sensors, 2021, pp. 1-4](http://doi:10.1109/SENSORS47087.2021.9639823)
 
-[2.Zhang, Z, Niu, X, Croxford, A, Drinkwater, B.W (2022) Strategies for guided acoustic wave inspection using mobile robots Proc. R. Soc. A.](http://doi.org/10.1098/rspa.2021.0762)
+[2. Zhang, Z, Niu, X, Croxford, A, Drinkwater, B.W (2022) Strategies for guided acoustic wave inspection using mobile robots Proc. R. Soc. A.](http://doi.org/10.1098/rspa.2021.0762)
