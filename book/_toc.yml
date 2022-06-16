@@ -30,9 +30,6 @@ parts:
         - file: template/projects/3-pipebots-theme2
         - file: template/projects/4-machine-learning
         - file: template/projects/5-acoustic-manipulation
-    - file: template/tutorials/index
-      sections:
-        - file: template/tutorials/hosting-figures
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
@@ -46,6 +43,7 @@ parts:
       - file: template/research-environment/roadmap
     - file: template/resources/index
       sections:
+      - file: template/resources/tutorials
       - file: template/resources/time-management
       - file: template/resources/data-management
     - file: template/glossary
