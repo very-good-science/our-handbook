@@ -1,6 +1,3 @@
 # Working with us
-
-```{note}
-Use this page to advertise how people and organisations can
-collaborate or partner with your organisation.
-```
+We would welcome hearing from you and have opportunities for patients to take part, be involved in the design of the research and receive our newsletter, or for health professionals to work in our central trial team.
+Contact us at *amr-group@bristol.ac.uk*
