@@ -15,4 +15,4 @@ To make your handbook visible online, follow these instructions.
    * From the top-menu navigate to `Settings`
    * From the left side menu click on `Pages`
    * You will see the URL of your handbook in the highlighted box ("Your site is ready to be published at <>")
-   * **make sure** the `Source` is set to the `gh-pages` branch and click `Save`
+   * **Make sure** the `Source` is set to the `gh-pages` branch and click `Save`

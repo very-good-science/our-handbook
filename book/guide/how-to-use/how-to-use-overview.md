@@ -11,9 +11,9 @@ Group leaders and members edit the book together to create a living document whi
 * Nominate a group memeber to
 [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks)
 this repo.
-** If your group doesn't have a GitHub organisation, we suggest that
+	* If your group doesn't have a GitHub organisation, we suggest that
 you [create](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch) one, and then fork this repo. to the organisation account.
-* All other group members fork the orangisation repo. 
+* All other group members can then fork the orangisation repo. 
 
 ## 2. Edit the book with your team
 
@@ -38,7 +38,7 @@ you [create](https://docs.github.com/en/organizations/collaborating-with-groups-
 ## 3. Make your handbook available online
 
 <!-- TODO: add link below-->
-* Follow the instructions [here](https://github.com/very-good-science/our-handbook/blob/main/book/guide/how-to-use/put-online.md) to make your handbook available online.
+* Follow the instructions [here](put-online) to make your handbook available online.
 * Make sure that you link to the handbook on your group website, and in any job (including PhD studentship) openings.
 * Please tell us if you use this handbook! 
 
