@@ -19,7 +19,6 @@ parts:
     chapters:
     - file: template/welcome
       title: Welcome
-    - file: template/research-interests
     - file: template/our-team/index
       sections:
         - file: template/our-team/work-with-us
@@ -31,6 +30,9 @@ parts:
         - file: template/projects/3-pipebots-theme2
         - file: template/projects/4-machine-learning
         - file: template/projects/5-acoustic-manipulation
+    - file: template/tutorials/index
+      sections:
+        - file: template/tutorials/hosting-figures
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
