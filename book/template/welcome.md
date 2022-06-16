@@ -11,6 +11,8 @@ You can:
 ### What our Group does
 `<GROUP NAME>` is working with `<COLLABORATORS AND COMMUNITIES>` to discover answers to the question "`<FOCUS OF RESEARCH>`?". We have a particular interest in `<SUB-AREA OF RESEARCH 1>` and `<SUB-AREA OF RESEARCH 2>`. Check out our [`<CURRENT PROJECTS>`](projects/index) and our [`<RECENT PUBLICATIONS>`](projects/recent-outputs).
 
+The Ultrasonics and Non-Destructive Testing (UNDT) group undertake internationally leading research into the fundamentals and applications of ultrasonics. With six core members of academic staff and a dedicated team of 25 PhD/EngD students and research assistants, we have a diverse range of projects underway and are always open to new ideas and collaborations.
+
 <!-- 
 TODO:
 EXAMPLE MISSION STATEMENT 1:
