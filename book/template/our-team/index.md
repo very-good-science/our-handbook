@@ -13,6 +13,7 @@ linked from the icons in the panels below each picture.
 
 ---
 ![<RESEARCHER 1 NAME>](https://www.beckenhamrunning.co.uk/wp-content/uploads/2020/02/Person-silhouette.png)
+![Xiaoyu Sun](https://www.linkedin.com/in/xiaoyu-sun-102522138/?originalSubdomain=uk)
 ^^^
 
 **`<RESEARCHER 1 NAME>`**  
