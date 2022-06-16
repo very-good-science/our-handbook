@@ -1,7 +1,7 @@
 (project1)=
 # Project 1
 
-# Array-imaging
+# Array imaging
 
 ## Brief Description
 FMC refers to Full Matrix Capture, the idea that the array collects and stores the raw data. TFM refers to Total Focusing Method, which is a high resolution imaging technique which is only feasible as a post-processing operation on the FMC data. FCM and TFM are now available in various forms from all the leading commercial array system vendors. The next set of challenges are how to make even more of this FMC data, for example, automatic defect characterisation, intelligent imaging/autofocus imaging and optimised imaging.
