@@ -43,7 +43,9 @@ parts:
       - file: template/research-environment/roadmap
     - file: template/resources/index
       sections:
-      - file: template/resources/tutorials
       - file: template/resources/time-management
       - file: template/resources/data-management
+    - file: template/tutorials
+      sections:
+      - file: template/tutorials/interactive-plot
     - file: template/glossary
