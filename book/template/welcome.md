@@ -1,7 +1,7 @@
 
 ## Welcome to the Ultrasonics and Non-Destructive Testing (UNDT) Group Handbook
 
-![](https://hackmd.io/_uploads/BJ4echUst.png)
+![](http://www.bristol.ac.uk/media-library/sites/engineering/research/undt/University%20of%20Bristol%20-%20Engineering%20-%20%20426.jpg)
 
 ### What our Group does
 The Ultrasonics and Non-Destructive Testing (UNDT) group undertake internationally leading research into the fundamentals and applications of ultrasonics. With six core members of academic staff and a dedicated team of 25 PhD/EngD students and research associates, we have a diverse range of projects underway and are always open to new ideas and collaborations.
