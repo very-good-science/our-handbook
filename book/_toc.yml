@@ -29,6 +29,7 @@ parts:
         - file: template/projects/laser-ultrasound
         - file: template/projects/array-imaging
         - file: template/projects/machine-learning
+        - file: template/projects/pipebots-theme2
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
