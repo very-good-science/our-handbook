@@ -20,3 +20,7 @@ sphinx:
         </p>
     config:
         html_show_copyright: false
+        bibtex_reference_style: author_year
+
+bibtex_bibfiles:
+    - references.bib

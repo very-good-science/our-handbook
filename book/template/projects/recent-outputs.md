@@ -16,13 +16,19 @@ Our group has produced the following types of outputs:
 
 ## Peer-reviewed publications
 (journal articles, chapters, books, etc.)
-- `<PUBLICATION 1>`
-- `<PUBLICATION 2>`
+
+Example citations:
+- {cite}`holdgraf_evidence_2014`.
+- {cite}`ruby`.
+
+
 
 ## Non peer-reviewed publications
 (preprints, documentation, posters, reports, policy briefs, popular articles and books, blogs, etc.)
-- `<PUBLICATION 1>`
-- `<PUBLICATION 2>`
+
+Example citations:
+- {cite}`holdgraf_evidence_2014`.
+- {cite}`ruby`.
 
 ## Software
 (packages, web apps, phone apps, etc.)
@@ -117,3 +123,4 @@ The outputs of our group are organised by year and output type:
 - `<PUBLICATION 2>`
 
 [...]
+

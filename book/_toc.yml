@@ -8,9 +8,10 @@ parts:
       sections:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
+      - file: guide/how-to-use/during-a-workshop
       - file: guide/how-to-use/before-a-workshop
     - file: guide/contributing
-      title: Contributing to this template
+      title: Contributing to our project
       sections:
         - file: guide/style-guide
     - file: guide/code-of-conduct
@@ -30,6 +31,8 @@ parts:
         - file: template/projects/project2
         - file: template/projects/recent-outputs
         - file: template/projects/past-projects
+        - file: template/projects/references
+
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
@@ -46,3 +49,4 @@ parts:
       - file: template/resources/time-management
       - file: template/resources/data-management
     - file: template/glossary
+
