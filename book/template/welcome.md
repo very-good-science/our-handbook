@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AMRG-University-of-Bristol/AMRG-handbook/blob/42182a9f0242fb1f5527422d5394b5035d0fd669/armg%20logo.png" />
+  <img src="armg logo.png" />
 </p>
 
 
