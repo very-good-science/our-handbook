@@ -6,13 +6,14 @@
   "commit": false,
   "contributors": [
     {
-      "login": "NatalieThurlby",
-      "name": "Natalie Thurlby",
+      "login": "NatalieZelenka",
+      "name": "Natalie Zelenka",
       "avatar_url": "https://avatars.githubusercontent.com/u/17617308?v=4",
       "profile": "https://github.com/NatalieThurlby",
       "contributions": [
         "doc",
-        "mentoring"
+        "mentoring",
+        "review"
       ]
     },
     {
@@ -30,7 +31,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/48878399?v=4",
       "profile": "https://linkedin.com/in/jatonline",
       "contributions": [
-        "doc"
+        "doc",
+        "review"
       ]
     },
     {
@@ -47,6 +49,25 @@
       "name": "Malgorzata Lagisz",
       "avatar_url": "https://avatars.githubusercontent.com/u/13009327?v=4",
       "profile": "https://github.com/mlagisz",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "RichardP1234",
+      "name": "RichardP1234",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42965322?v=4",
+      "profile": "https://github.com/RichardP1234",
+      "contributions": [
+        "example",
+        "doc"
+      ]
+    },
+    {
+      "login": "richard-lane",
+      "name": "richard-lane",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56296326?v=4",
+      "profile": "https://github.com/richard-lane",
       "contributions": [
         "doc"
       ]

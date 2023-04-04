@@ -4,10 +4,13 @@ parts:
   - caption: User Guide
     chapters:
     - file: guide/how-to-use/how-to-use-overview
+      title: How to use this template
       sections:
       - file: guide/how-to-use/editing-together
       - file: guide/how-to-use/put-online
+      - file: guide/how-to-use/before-a-workshop
     - file: guide/contributing
+      title: Contributing to this template
       sections:
         - file: guide/style-guide
     - file: guide/code-of-conduct
@@ -15,28 +18,31 @@ parts:
   - caption: Template
     chapters:
     - file: template/welcome
-    - file: template/our-team/our-team
+      title: Welcome
+    - file: template/research-interests
+    - file: template/our-team/index
       sections:
         - file: template/our-team/work-with-us
         - file: template/our-team/past-members
-    - file: template/research-interests
     - file: template/projects/index
       sections:
         - file: template/projects/project1
         - file: template/projects/project2
         - file: template/projects/recent-outputs
+        - file: template/projects/past-projects
     - file: template/research-environment/index
       sections:
       - file: template/research-environment/practicalities
       - file: template/research-environment/values
-      - file: template/research-environment/group-meetings
-      - file: template/research-environment/tools
-      - file: template/research-environment/open-research-practices
-      - file: template/research-environment/roadmap
       - file: template/research-environment/ways-of-working
+      - file: template/research-environment/open-research-practices
+      - file: template/research-environment/group-meetings
       - file: template/research-environment/one-to-ones
+      - file: template/research-environment/journal-club
+      - file: template/research-environment/tools
+      - file: template/research-environment/roadmap
     - file: template/resources/index
       sections:
       - file: template/resources/time-management
-      - file: template/research-environment/data-management
+      - file: template/resources/data-management
     - file: template/glossary

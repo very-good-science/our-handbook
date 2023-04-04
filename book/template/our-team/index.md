@@ -1,10 +1,13 @@
-# Past team members
+# Our Team
 
 ```{admonition} FYI Instructions
-Use this page to archive the profiles of past team members, with a
-note on where they went next.
+Use this page to introduce members of your team. 
+Contact details, github, researchgate and twitter profiles can be
+linked from the icons in the panels below each picture.
 ```
 
+(team)=
+## Meet the team
 ````{panels}
 :column: col-lg-4 px-2 py-2
 
@@ -18,6 +21,7 @@ _Research Software Engineer_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
@@ -42,6 +46,7 @@ _Research Associate_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
@@ -66,6 +71,7 @@ _Data Scientist_
 [{fa}`linkedin,style=fab`](https://www.linkedin.com)
 [{fa}`twitter,style=fab`](https://twitter.com/)
 [{fa}`researchgate,style=fab`](https://www.researchgate.net/)
+[{fa}`orcid,style=fab`](https://orcid.org/)
 [{fa}`github,style=fab`](https://www.github.com)
 
 About me... `<NAME>` has a background in `<BACKGROUND>` and works with `<COLLABORATORS AND COMMUNITIES>` on `<FOCUS OF RESEARCH>`.
